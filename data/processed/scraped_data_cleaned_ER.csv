@@ -1,0 +1,790 @@
+price,house_type,house_type_2,rooms,m2,elevator,garage,neighborhood,district,sports_centers,social_wellness_index,urban_mobility_index,education_index,employment_index,health_index
+995000,planta 2,exterior,4,118.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1130000,planta 3,exterior,2,78.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+889000,planta 2,exterior,3,117.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+235000,bajo,interior,1,40.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+385000,bajo,exterior,2,118.0,1,1,Almenara,tetuan,1.0,6.77,10.96,9.92,9.99,8.13
+1500000,planta 5,exterior,3,135.0,1,1,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+629000,planta 4,interior,2,64.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+420000,planta 2,exterior,2,53.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+640000,planta 2,exterior,3,115.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+580000,planta 4,exterior,1,87.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+290000,bajo,interior,2,54.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+979000,planta 2,exterior,4,110.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+195000,bajo,exterior,3,140.0,1,0,San Diego,puente-de-vallecas,0.0,12.89,8.94,11.01,15.23,6.97
+959000,planta 1,exterior,2,142.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+268700,bajo,interior,1,48.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+560000,planta 1,exterior,3,104.0,1,1,Delicias,arganzuela,1.0,6.35,7.14,6.22,5.81,6.34
+1560000,planta 1,exterior,3,145.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+385000,planta 1,exterior,2,95.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+849000,planta 2,interior,3,111.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+890000,planta 5,exterior,1,84.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+234000,planta 2,exterior,3,62.0,1,0,Ventas,ciudad lineal,0.0,5.9,6.81,6.34,7.79,6.97
+1649000,planta 1,exterior,3,162.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+239000,bajo,exterior,1,37.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+159000,bajo,exterior,2,54.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+695000,planta 1,exterior,4,172.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+1180000,bajo,exterior,4,191.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+375000,planta 4,exterior,2,108.0,1,1,Quintana,ciudad lineal,0.0,6.2,12.09,5.87,8.41,6.76
+599000,planta 5,exterior,2,116.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+840000,planta 10,exterior,4,125.0,1,1,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+380000,planta 4,exterior,1,40.0,1,1,Prosperidad,chamartin,0.0,5.57,9.03,5.38,4.84,6.59
+679000,planta 2,interior,2,72.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1419000,bajo,exterior,3,149.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+989000,planta 2,exterior,3,112.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+698000,planta 7,interior,3,79.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+154900,planta 1,exterior,3,61.0,1,0,Hellín,san-blas,1.0,6.66,4.82,8.56,9.37,8.83
+310000,entreplanta,exterior,2,144.0,1,1,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+950000,planta 6,exterior,2,98.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+525000,planta 2,exterior,4,152.0,1,1,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+1349000,planta 1,exterior,2,120.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+470000,planta 7,exterior,0,36.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+250000,planta 4,interior,1,40.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+247000,bajo,exterior,2,69.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+940000,planta 8,exterior,3,135.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+1200000,planta 3,exterior,2,100.0,1,1,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1250000,bajo,exterior,2,132.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+580000,planta 8,exterior,1,80.0,1,0,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+1530000,planta 7,exterior,3,180.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+675000,bajo,interior,2,61.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+492000,planta 7,exterior,0,49.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+649000,planta 4,exterior,2,83.0,1,1,Corralejos,barajas,0.0,7.36,3.35,2.43,3.93,9.3
+960000,planta 1,exterior,3,130.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+385000,planta 1,exterior,2,95.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+560000,planta 1,exterior,3,104.0,1,1,Delicias,arganzuela,1.0,6.35,7.14,6.22,5.81,6.34
+279990,planta 6,exterior,3,89.0,1,1,Ensanche de Vallecas,villa-de-vallecas,1.0,8.93,5.28,11.0,8.64,6.02
+383000,planta 3,exterior,4,121.0,1,1,Vista Alegre,carabanchel,1.0,8.47,10.87,13.03,10.92,6.02
+2190000,planta 7,exterior,3,196.0,1,1,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+1195000,entreplanta,exterior,3,170.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1100000,planta 1,exterior,2,160.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+425000,planta 1,exterior,1,55.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+249000,planta 1,interior,1,30.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+445000,bajo,exterior,1,73.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+2250000,planta 5,exterior,2,173.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+995750,planta 1,exterior,2,134.0,1,1,Ciudad Jardín,chamartin,1.0,5.7,9.43,3.39,5.12,7.01
+1500000,planta 7,exterior,2,182.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+725000,planta 1,exterior,3,145.0,1,0,Vallehermoso,chamberi,2.0,5.95,8.37,5.36,4.21,9.75
+1222150,planta 1,exterior,2,157.0,1,1,Ciudad Jardín,chamartin,1.0,5.7,9.43,3.39,5.12,7.01
+629000,planta 2,exterior,4,156.0,1,1,Alameda de Osuna,barajas,2.0,6.39,5.1,2.49,4.29,6.97
+599000,planta 8,exterior,3,125.0,1,1,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+590000,planta 2,exterior,3,80.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+699000,planta 1,interior,2,105.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+647000,planta 1,exterior,2,79.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+710000,planta 4,exterior,2,87.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+780000,planta 7,interior,2,102.0,1,1,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1495000,planta 6,exterior,3,170.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+335000,planta 1,interior,3,79.0,1,0,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+590000,planta 2,exterior,1,75.0,1,1,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+439000,planta 4,exterior,4,108.0,1,0,Los Cármenes,latina,1.0,8.94,5.5,10.64,10.6,7.07
+795000,planta 5,exterior,3,128.0,1,0,Fuente del Berro,salamanca,2.0,6.04,5.76,5.1,5.14,5.95
+620000,entreplanta,interior,2,98.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+169900,planta 2,interior,2,57.0,1,0,Canillejas,san-blas,0.0,6.2,6.24,7.96,8.3,5.88
+449000,planta 10,exterior,3,91.0,1,0,La Paz,fuencarral,1.0,5.57,4.55,4.62,4.23,7.44
+1189000,planta 5,exterior,4,164.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+550000,planta 2,exterior,2,88.0,1,1,Palomas,hortaleza,1.0,7.36,5.47,6.35,5.69,8.1
+435000,planta 5,interior,2,66.0,1,0,Prosperidad,chamartin,0.0,5.57,9.03,5.38,4.84,6.59
+420000,planta 7,exterior,2,80.0,1,0,Berruguete,tetuan,1.0,6.73,22.98,9.3,9.27,6.1
+1200000,bajo,exterior,3,180.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+830000,planta 6,exterior,2,83.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+930000,planta 2,exterior,2,120.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+380000,planta 4,exterior,1,40.0,1,1,Prosperidad,chamartin,0.0,5.57,9.03,5.38,4.84,6.59
+830000,planta 7,exterior,4,155.0,1,1,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+1175000,planta 7,exterior,4,171.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1200000,planta 2,exterior,2,124.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+320000,bajo,interior,1,59.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+580000,bajo,exterior,1,69.0,1,1,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+299000,bajo,exterior,1,43.0,1,0,Castilla,chamartin,0.0,5.61,5.03,5.25,4.33,7.23
+1100000,planta 9,exterior,2,133.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+765000,planta 4,exterior,2,109.0,1,1,Mirasierra,fuencarral,1.0,6.2,5.3,4.26,4.33,7.05
+1080000,planta 5,exterior,4,147.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1200000,planta 3,exterior,2,174.0,1,1,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+297000,planta 1,exterior,3,53.0,1,0,Legazpi,arganzuela,1.0,6.38,4.52,5.81,4.57,7.24
+679000,planta 3,exterior,3,144.0,1,1,Mirasierra,fuencarral,1.0,6.2,5.3,4.26,4.33,7.05
+215000,bajo,interior,2,50.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+850000,planta 5,exterior,2,86.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1100000,planta 1,exterior,2,150.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+1349000,planta 5,exterior,3,157.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1299000,planta 7,exterior,3,120.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+440000,planta 1,exterior,3,78.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+695000,planta 4,exterior,3,137.0,1,1,Canillas,hortaleza,1.0,4.84,6.74,6.07,5.39,8.55
+1495000,planta 2,exterior,3,138.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1175000,planta 7,exterior,4,173.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+875000,bajo,exterior,3,149.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+1275000,casa,exterior,3,125.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+980000,planta 2,exterior,3,165.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+965000,planta 4,exterior,3,145.0,1,1,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+900000,planta 3,exterior,4,173.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1850000,planta 1,exterior,3,150.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+870000,planta 2,exterior,4,150.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+1925000,planta 6,exterior,3,187.0,1,1,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+1060000,planta 4,exterior,3,146.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+750000,planta 1,exterior,2,111.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+179000,planta 3,interior,2,37.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+1670000,planta 2,exterior,3,159.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+210000,planta 6,exterior,2,90.0,1,0,Orcasitas,usera,0.0,8.15,5.02,12.57,9.81,7.77
+1290000,planta 2,exterior,3,150.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+580000,planta 2,exterior,2,100.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+280000,planta 1,exterior,3,103.0,1,0,Moscardó,usera,1.0,10.38,6.84,11.57,12.36,7.15
+568000,planta 8,interior,2,90.0,1,0,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+980000,planta 4,exterior,3,178.0,1,0,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+259000,planta 2,exterior,4,76.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+900000,planta 2,exterior,2,95.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+2500000,planta 1,exterior,3,151.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1129000,planta 6,interior,2,103.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+450000,planta 1,exterior,4,112.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+650000,planta 2,interior,2,65.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1200000,planta 2,interior,2,124.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+980000,planta 4,exterior,3,178.0,1,0,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+259000,planta 2,exterior,4,76.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+460000,planta 2,exterior,1,68.0,1,1,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+450000,planta 1,exterior,4,112.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+1075000,planta 6,exterior,1,75.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+830000,planta 1,exterior,4,171.0,1,1,Palomas,hortaleza,1.0,7.36,5.47,6.35,5.69,8.1
+600000,planta 6,exterior,2,130.0,1,1,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+1400000,planta 2,exterior,3,190.0,1,1,Aravaca,moncloa,1.0,5.89,5.68,4.06,5.0,6.99
+1800000,casa,exterior,4,194.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1049900,planta 3,exterior,2,78.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1350000,planta 2,exterior,3,147.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1400000,planta 2,exterior,3,190.0,1,1,Aravaca,moncloa,1.0,5.89,5.68,4.06,5.0,6.99
+839000,planta 1,exterior,2,106.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+1450000,planta 3,exterior,3,139.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+859000,planta 2,exterior,2,88.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1300000,planta 3,exterior,3,157.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+1100000,planta 1,interior,3,135.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1250000,planta 3,exterior,4,155.0,1,1,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+895000,planta 3,exterior,2,112.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+1080000,planta 4,exterior,2,97.0,1,1,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+349000,planta 4,exterior,1,51.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+210000,entreplanta,exterior,3,80.0,1,0,Canillejas,san-blas,0.0,6.2,6.24,7.96,8.3,5.88
+680000,planta 4,exterior,1,80.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+220000,planta 1,interior,3,49.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+780000,planta 4,exterior,3,113.0,1,1,Niño Jesús,retiro,0.0,6.08,7.24,5.27,3.89,6.6
+650000,planta 4,exterior,2,87.0,1,1,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+780000,planta 4,exterior,2,110.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+235000,bajo,exterior,0,85.0,1,0,Casco Histórico de Vicálvaro,vicalvaro,3.0,7.9,4.28,10.58,10.61,8.61
+250000,planta 3,exterior,3,80.0,1,0,Pinar del Rey,hortaleza,0.0,5.11,6.91,6.3,6.45,7.42
+680000,planta 4,exterior,1,85.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+645000,planta 1,exterior,4,170.0,1,1,La Paz,fuencarral,1.0,5.57,4.55,4.62,4.23,7.44
+640000,planta 6,exterior,2,140.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+595000,planta 3,exterior,1,81.0,1,1,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+515000,planta 4,interior,2,125.0,1,1,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+560000,planta 1,exterior,2,80.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+1250000,planta 4,exterior,2,110.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+319900,planta 5,exterior,3,90.0,1,0,Vinateros,moratalaz,0.0,8.9,6.17,9.09,7.76,5.72
+1079000,planta 2,exterior,3,128.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+650000,bajo,exterior,2,153.0,1,1,Mirasierra,fuencarral,1.0,6.2,5.3,4.26,4.33,7.05
+859000,planta 2,exterior,3,133.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+235000,bajo,exterior,1,50.0,1,0,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+828000,planta 2,exterior,4,138.0,1,1,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+1215000,planta 3,exterior,2,81.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+275000,planta 1,interior,1,39.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+1095000,planta 5,exterior,4,164.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1850000,planta 1,exterior,3,146.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1175000,planta 15,exterior,3,165.0,1,1,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+1760000,planta 5,exterior,3,156.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+740000,planta 4,exterior,4,147.0,1,0,Aravaca,moncloa,1.0,5.89,5.68,4.06,5.0,6.99
+590000,planta 3,exterior,2,75.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+259900,bajo,exterior,2,64.0,1,0,Moscardó,usera,1.0,10.38,6.84,11.57,12.36,7.15
+739000,planta 6,exterior,3,102.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+390000,planta 2,exterior,1,60.0,1,1,Aravaca,moncloa,1.0,5.89,5.68,4.06,5.0,6.99
+590000,planta 2,exterior,2,75.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+1290000,planta 7,exterior,4,160.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+2012500,planta 1,exterior,2,175.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+179999,planta 5,exterior,2,68.0,1,0,Abrantes,carabanchel,0.0,8.58,5.73,13.05,10.92,6.22
+339900,planta 3,exterior,1,90.0,1,1,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+145000,bajo,exterior,1,45.0,1,0,San Diego,puente-de-vallecas,0.0,12.89,8.94,11.01,15.23,6.97
+699000,planta 3,exterior,1,91.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+300000,planta 1,exterior,1,43.0,1,0,Canillas,hortaleza,1.0,4.84,6.74,6.07,5.39,8.55
+529000,planta 4,exterior,3,89.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1137000,planta 4,exterior,5,196.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+889000,planta 2,exterior,3,117.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+445000,bajo,exterior,1,73.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+345000,planta 2,exterior,1,64.0,1,0,Canillas,hortaleza,1.0,4.84,6.74,6.07,5.39,8.55
+249000,planta 1,interior,1,30.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+799000,planta 2,exterior,2,100.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+609000,planta 3,exterior,2,89.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+475000,planta 3,exterior,4,98.0,1,1,Canillas,hortaleza,1.0,4.84,6.74,6.07,5.39,8.55
+412000,casa,exterior,3,103.0,1,1,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+200000,bajo,exterior,3,153.0,1,0,San Diego,puente-de-vallecas,0.0,12.89,8.94,11.01,15.23,6.97
+1790000,planta 4,exterior,3,140.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+800000,planta 4,exterior,3,105.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+818000,planta 3,exterior,2,109.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+1550000,planta 2,interior,2,151.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+400000,bajo,interior,2,52.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1200000,planta 3,exterior,2,174.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+155000,planta 4,exterior,3,60.0,1,0,Canillejas,san-blas,0.0,6.2,6.24,7.96,8.3,5.88
+309000,planta 2,exterior,3,92.0,1,0,Media Legua,moratalaz,1.0,8.64,5.24,8.97,9.02,6.26
+950000,planta 6,exterior,2,78.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+498000,planta 5,interior,3,196.0,1,1,Ensanche de Vallecas,villa-de-vallecas,1.0,8.93,5.28,11.0,8.64,6.02
+745000,planta 1,exterior,3,132.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+329000,planta 3,exterior,2,102.0,1,0,San Diego,puente-de-vallecas,0.0,12.89,8.94,11.01,15.23,6.97
+229000,planta 1,interior,3,84.0,1,0,Quintana,ciudad lineal,0.0,6.2,12.09,5.87,8.41,6.76
+530000,planta 3,exterior,3,102.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+790000,planta 2,exterior,2,126.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+168000,bajo,exterior,3,68.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+365000,sotano,exterior,2,77.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+257000,bajo,exterior,2,110.0,1,0,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+190000,bajo,exterior,1,47.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+919000,planta 1,exterior,3,112.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+850000,planta 3,exterior,2,90.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+361000,planta 2,exterior,0,56.0,1,1,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+1450000,planta 3,exterior,3,139.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+985000,planta 1,exterior,3,185.0,1,1,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+525000,planta 1,exterior,4,86.0,1,0,Niño Jesús,retiro,0.0,6.08,7.24,5.27,3.89,6.6
+139000,planta 4,exterior,1,28.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+750000,planta 3,exterior,1,54.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+229000,planta 1,exterior,0,35.0,1,1,Casco Histórico de Barajas,barajas,0.0,6.67,6.87,4.04,6.52,7.45
+652000,planta 1,exterior,3,114.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+850000,planta 1,exterior,4,151.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+350000,planta 3,exterior,0,32.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+1490000,planta 2,exterior,3,145.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+650000,planta 4,exterior,2,87.0,1,1,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+175508,planta 3,exterior,1,53.0,1,1,Casco Histórico de Vallecas,villa-de-vallecas,1.0,8.56,6.21,11.63,11.27,8.08
+523000,bajo,exterior,2,98.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+1100000,planta 2,exterior,2,101.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+189000,planta 1,exterior,1,39.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+980000,planta 1,exterior,3,145.0,1,1,Valdemarín,moncloa,0.0,8.53,4.84,5.75,5.22,7.22
+260000,planta 3,interior,1,60.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1380000,planta 1,exterior,2,133.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+950000,planta 5,exterior,3,125.0,1,1,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+259000,planta 1,exterior,0,37.0,1,0,Delicias,arganzuela,1.0,6.35,7.14,6.22,5.81,6.34
+799000,planta 1,interior,3,127.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+695000,planta 2,exterior,2,103.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+254900,planta 3,interior,2,54.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+647000,planta 1,exterior,2,79.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+260000,planta 3,exterior,0,33.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+670000,planta 2,exterior,1,97.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+419360,planta 7,exterior,1,52.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+219000,planta 4,exterior,2,58.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+450000,planta 1,interior,4,121.0,1,0,Quintana,ciudad lineal,0.0,6.2,12.09,5.87,8.41,6.76
+239900,planta 1,exterior,2,55.0,1,0,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+590000,planta 2,exterior,3,80.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+1790000,planta 5,interior,3,114.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+979000,planta 2,exterior,4,109.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1450000,planta 1,exterior,2,133.0,1,1,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+695000,planta 4,exterior,3,137.0,1,1,Canillas,hortaleza,1.0,4.84,6.74,6.07,5.39,8.55
+956000,planta 1,exterior,3,150.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+825000,planta 2,exterior,4,164.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+640000,planta 3,exterior,4,136.0,1,1,Mirasierra,fuencarral,1.0,6.2,5.3,4.26,4.33,7.05
+399000,planta 2,exterior,1,70.0,1,1,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+1195000,planta 5,exterior,2,134.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+1300000,planta 1,exterior,3,179.0,1,1,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+1150000,planta 1,exterior,4,196.0,1,1,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+790000,planta 2,exterior,6,167.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+740000,planta 1,exterior,2,90.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+479900,planta 1,exterior,4,143.0,1,0,Chopera,arganzuela,0.0,5.86,7.05,4.66,6.68,6.66
+320000,bajo,exterior,1,37.0,1,0,Castilla,chamartin,0.0,5.61,5.03,5.25,4.33,7.23
+650000,bajo,exterior,2,86.0,1,1,Ciudad Jardín,chamartin,1.0,5.7,9.43,3.39,5.12,7.01
+1350000,planta 7,exterior,2,138.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+875000,planta 1,interior,3,149.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+1189000,planta 3,exterior,2,151.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1175000,planta 15,exterior,3,165.0,1,1,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+1180000,planta 5,exterior,3,139.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1490000,planta 3,exterior,5,186.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1250000,planta 4,exterior,2,110.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+184900,planta 3,exterior,2,50.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+174900,planta 4,exterior,2,50.0,1,0,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+682000,planta 10,exterior,3,133.0,1,1,Apóstol Santiago,hortaleza,1.0,5.12,7.84,5.71,6.58,8.63
+698000,planta 2,exterior,3,125.0,1,1,Costillares,ciudad lineal,0.0,5.92,6.42,4.76,5.2,5.87
+1300000,planta 1,exterior,5,199.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1200000,planta 3,exterior,2,100.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+680000,planta 1,interior,2,117.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+790000,planta 1,exterior,5,135.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1450000,planta 1,exterior,3,133.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1190000,planta 1,exterior,3,135.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+290000,planta 2,exterior,1,80.0,1,1,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+299000,planta 2,exterior,1,49.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+250000,planta 1,exterior,2,97.0,1,1,Butarque,villaverde,0.0,8.19,4.99,9.6,10.27,7.46
+165000,bajo,interior,1,35.0,1,0,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+249000,planta 1,exterior,2,85.0,1,0,Aluche,latina,0.0,6.25,6.78,8.65,8.63,6.5
+749000,planta 5,exterior,3,92.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+850000,planta 7,interior,2,115.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+550000,planta 5,exterior,3,103.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+1150000,planta 1,exterior,3,133.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1450000,planta 3,interior,3,139.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+425000,planta 1,exterior,1,55.0,1,1,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+330000,planta 3,interior,3,65.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+735000,planta 5,exterior,2,88.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+600000,planta 4,exterior,3,90.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+690000,planta 5,interior,2,70.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+1040000,planta 4,exterior,3,130.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+990000,planta 2,exterior,2,109.0,1,1,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1680000,planta 3,exterior,3,186.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+600000,planta 13,exterior,4,123.0,1,0,Castilla,chamartin,0.0,5.61,5.03,5.25,4.33,7.23
+595000,planta 4,exterior,2,82.0,1,0,Prosperidad,chamartin,0.0,5.57,9.03,5.38,4.84,6.59
+2095000,planta 1,exterior,3,184.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+470000,planta 1,exterior,2,107.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+380000,planta 4,exterior,1,48.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+738000,planta 1,exterior,3,107.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+650000,planta 2,exterior,3,105.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+545000,planta 3,exterior,1,55.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1350000,planta 2,exterior,2,169.0,1,1,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+490000,bajo,exterior,1,80.0,1,1,Ciudad Universitaria,moncloa,1.0,5.41,4.91,5.92,4.73,7.9
+1100000,planta 2,interior,3,141.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+600000,bajo,exterior,2,85.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+1185000,planta 3,exterior,3,151.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1600000,planta 7,interior,3,150.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1200000,planta 3,exterior,2,174.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+1480000,planta 1,exterior,2,114.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+349000,planta 3,exterior,2,80.0,1,0,Berruguete,tetuan,1.0,6.73,22.98,9.3,9.27,6.1
+800000,planta 2,exterior,2,110.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+880000,planta 5,exterior,4,130.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+738900,planta 6,exterior,3,102.0,1,0,Niño Jesús,retiro,0.0,6.08,7.24,5.27,3.89,6.6
+380000,planta 1,interior,3,60.0,1,0,Niño Jesús,retiro,0.0,6.08,7.24,5.27,3.89,6.6
+999000,planta 5,exterior,3,104.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+310000,bajo,interior,1,37.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+780000,planta 2,exterior,1,73.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+395000,planta 2,exterior,1,70.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1450000,planta 3,exterior,3,139.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1050000,planta 3,exterior,2,78.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+237000,planta 1,exterior,1,50.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+1870000,planta 1,exterior,3,176.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+1120000,planta 4,exterior,3,155.0,1,1,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+750000,planta 1,interior,2,91.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+285000,planta 1,exterior,3,96.0,1,0,Canillejas,san-blas,0.0,6.2,6.24,7.96,8.3,5.88
+900000,planta 2,exterior,2,95.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+850000,planta 2,exterior,3,152.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+928000,planta 3,exterior,2,90.0,1,1,Atalaya,ciudad lineal,0.0,8.28,4.12,6.51,5.78,7.23
+975109,planta 4,exterior,4,119.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+739000,planta 3,exterior,5,139.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+940984,planta 4,exterior,3,119.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+1026296,planta 4,exterior,4,115.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+464000,planta 2,exterior,2,84.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+372000,bajo,exterior,1,67.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+1160000,planta 2,exterior,3,162.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+795000,planta 1,exterior,2,80.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+209000,planta 2,exterior,0,39.0,1,1,Casco Histórico de Barajas,barajas,0.0,6.67,6.87,4.04,6.52,7.45
+215000,planta 11,interior,2,60.0,1,0,Santa Eugenia,villa-de-vallecas,1.0,7.84,5.34,10.13,7.62,7.11
+1380000,planta 1,exterior,2,133.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+850000,planta 7,exterior,2,113.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+699000,planta 2,exterior,3,101.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+880000,planta 4,exterior,3,100.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1100000,planta 2,exterior,2,101.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+146300,planta 5,exterior,3,64.0,1,0,Ventas,ciudad lineal,0.0,5.9,6.81,6.34,7.79,6.97
+470000,bajo,exterior,4,112.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+265000,planta 2,exterior,3,80.0,1,0,Ventas,ciudad lineal,0.0,5.9,6.81,6.34,7.79,6.97
+325000,planta 1,interior,1,56.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+850000,planta 2,exterior,7,190.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+195000,bajo,exterior,3,153.0,1,0,San Diego,puente-de-vallecas,0.0,12.89,8.94,11.01,15.23,6.97
+298000,planta 3,interior,4,70.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+930000,planta 2,exterior,2,111.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1173000,planta 7,exterior,4,171.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+372000,bajo,exterior,1,67.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+850000,planta 2,exterior,3,152.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+900000,planta 2,exterior,2,95.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+620000,planta 1,interior,3,114.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+739000,planta 3,exterior,5,139.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+595000,planta 5,exterior,3,109.0,1,1,Los Ángeles,villaverde,0.0,7.31,5.32,10.74,10.48,7.08
+1500000,planta 2,interior,3,128.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1300000,planta 1,interior,3,133.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1180000,bajo,exterior,3,191.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+339000,planta 3,exterior,3,117.0,1,1,Zofío,usera,1.0,8.64,6.35,14.08,12.91,7.92
+840000,planta 9,exterior,4,158.0,1,1,La Paz,fuencarral,1.0,5.57,4.55,4.62,4.23,7.44
+525000,planta 15,exterior,3,112.0,1,1,Comillas,carabanchel,0.0,8.75,7.77,12.57,10.92,6.06
+219000,bajo,interior,1,28.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+795000,planta 3,exterior,2,99.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+339000,planta 11,exterior,4,107.0,1,0,Aluche,latina,0.0,6.25,6.78,8.65,8.63,6.5
+395000,planta 4,exterior,1,55.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1310000,planta 3,exterior,2,118.0,1,1,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+210000,bajo,exterior,1,61.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+1100000,planta 9,exterior,2,133.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+215000,bajo,interior,2,50.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+1200000,planta 3,exterior,2,174.0,1,1,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+490000,bajo,exterior,1,80.0,1,1,Ciudad Universitaria,moncloa,1.0,5.41,4.91,5.92,4.73,7.9
+635000,planta 6,interior,2,114.0,1,0,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+1277000,planta 2,exterior,4,154.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1200000,planta 2,exterior,2,124.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+265000,planta 18,exterior,0,37.0,1,0,Apóstol Santiago,hortaleza,1.0,5.12,7.84,5.71,6.58,8.63
+1150000,planta 5,exterior,6,152.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+430000,planta 2,exterior,2,86.0,1,0,Valdezarza,moncloa,2.0,5.78,8.17,5.11,5.86,6.95
+2370000,planta 2,exterior,3,154.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1435000,planta 6,exterior,3,153.0,1,1,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+338625,planta 3,interior,1,67.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+500000,bajo,exterior,1,84.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+650000,planta 1,interior,1,92.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+175000,bajo,exterior,2,65.0,1,0,Entrevías,puente-de-vallecas,2.0,10.43,4.76,12.44,13.72,8.25
+349000,planta 1,interior,2,63.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+345000,planta 1,exterior,1,65.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+270000,planta 5,exterior,1,60.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+155000,planta 3,interior,0,25.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1700000,planta 4,exterior,2,150.0,1,1,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1399000,planta 3,exterior,3,151.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+139000,planta 2,exterior,3,64.0,1,0,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+1129000,planta 6,interior,2,103.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+400000,planta 1,exterior,1,73.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+829000,planta 2,exterior,2,99.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1200000,planta 2,exterior,2,124.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+679000,planta 2,interior,2,75.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1129000,planta 2,exterior,3,98.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+270000,planta 1,exterior,2,75.0,1,0,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+225000,planta 2,exterior,1,46.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+840000,bajo,exterior,3,155.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+267000,planta 4,exterior,2,49.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1299000,planta 4,exterior,4,193.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+599000,bajo,exterior,2,97.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+350000,planta 3,exterior,0,33.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+320000,bajo,exterior,1,61.0,1,0,Moscardó,usera,1.0,10.38,6.84,11.57,12.36,7.15
+950000,planta 1,exterior,1,156.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+945000,planta 2,exterior,2,93.0,1,1,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+379000,bajo,exterior,2,120.0,1,0,Imperial,arganzuela,1.0,5.81,5.36,6.37,5.14,5.73
+540000,bajo,exterior,3,135.0,1,0,Imperial,arganzuela,1.0,5.81,5.36,6.37,5.14,5.73
+849000,planta 3,exterior,2,80.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+950000,planta 1,exterior,1,156.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+975000,planta 5,exterior,2,128.0,1,1,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+1300000,planta 2,interior,2,123.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+260000,planta 3,interior,2,40.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+397000,planta 1,exterior,3,83.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+155000,bajo,exterior,2,60.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+1790000,planta 5,exterior,3,113.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+390000,planta 2,exterior,1,60.0,1,1,Aravaca,moncloa,1.0,5.89,5.68,4.06,5.0,6.99
+1650000,planta 6,exterior,3,190.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+900000,planta 2,exterior,3,126.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+89000,planta 3,exterior,3,85.0,1,0,Moscardó,usera,1.0,10.38,6.84,11.57,12.36,7.15
+239000,planta 2,exterior,3,70.0,1,0,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+305235,bajo,exterior,2,102.0,1,1,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+167500,planta 1,exterior,2,57.0,1,0,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+410000,planta 4,exterior,3,136.0,1,0,Apóstol Santiago,hortaleza,1.0,5.12,7.84,5.71,6.58,8.63
+1450000,planta 1,exterior,2,133.0,1,1,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+680000,planta 1,exterior,3,110.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+1620000,planta 4,exterior,4,191.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+156000,planta 2,exterior,2,56.0,1,0,Vista Alegre,carabanchel,1.0,8.47,10.87,13.03,10.92,6.02
+141000,bajo,interior,0,26.0,1,0,Acacias,arganzuela,1.0,5.93,5.61,6.33,5.05,5.71
+880000,planta 5,exterior,4,130.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+690000,planta 2,interior,3,127.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+253000,planta 1,exterior,1,38.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+900000,planta 1,exterior,4,159.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+1175000,planta 15,exterior,3,165.0,1,1,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+330000,planta 3,interior,3,65.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+730000,planta 4,exterior,2,90.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+820000,planta 1,exterior,1,80.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+792000,planta 6,exterior,4,162.0,1,1,Costillares,ciudad lineal,0.0,5.92,6.42,4.76,5.2,5.87
+895000,planta 4,interior,1,81.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1195000,planta 10,interior,4,171.0,1,0,Vallehermoso,chamberi,2.0,5.95,8.37,5.36,4.21,9.75
+377664,planta 2,exterior,3,127.0,1,0,Apóstol Santiago,hortaleza,1.0,5.12,7.84,5.71,6.58,8.63
+198000,bajo,exterior,0,36.0,1,0,Adelfas,retiro,0.0,6.04,7.47,3.86,4.94,8.31
+1500000,planta 2,exterior,2,143.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+445000,bajo,exterior,1,73.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+475000,entreplanta,exterior,2,85.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+335000,planta 2,exterior,2,112.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+725000,planta 1,exterior,3,121.0,1,0,Fuente del Berro,salamanca,2.0,6.04,5.76,5.1,5.14,5.95
+849000,planta 2,interior,3,111.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+580000,planta 6,exterior,3,106.0,1,0,Berruguete,tetuan,1.0,6.73,22.98,9.3,9.27,6.1
+480000,planta 3,exterior,2,105.0,1,1,Orcasur,usera,1.0,8.05,5.21,12.78,13.89,8.09
+265000,planta 3,exterior,3,69.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+399000,planta 7,exterior,2,47.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+520000,planta 1,exterior,3,93.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+630000,planta 3,exterior,3,96.0,1,0,Prosperidad,chamartin,0.0,5.57,9.03,5.38,4.84,6.59
+440000,planta 9,exterior,3,92.0,1,0,Alameda de Osuna,barajas,2.0,6.39,5.1,2.49,4.29,6.97
+1129000,planta 2,interior,3,98.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+540000,planta 4,exterior,2,101.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+252000,planta 5,exterior,2,54.0,1,0,Quintana,ciudad lineal,0.0,6.2,12.09,5.87,8.41,6.76
+789000,planta 4,exterior,2,101.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+286000,planta 1,exterior,4,114.0,1,1,Zofío,usera,1.0,8.64,6.35,14.08,12.91,7.92
+615000,planta 2,exterior,3,106.0,1,0,Prosperidad,chamartin,0.0,5.57,9.03,5.38,4.84,6.59
+540000,planta 4,exterior,3,118.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+650000,planta 1,exterior,2,107.0,1,0,Fuente del Berro,salamanca,2.0,6.04,5.76,5.1,5.14,5.95
+1200000,planta 3,exterior,2,100.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+139000,planta 2,exterior,3,64.0,1,0,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+2290000,planta 2,exterior,3,184.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+169000,planta 3,exterior,3,65.0,1,0,Los Rosales,villaverde,3.0,7.5,5.48,10.71,11.33,6.89
+1990000,planta 3,exterior,3,165.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+346500,planta 1,exterior,2,88.0,1,0,Salvador,Salvador,0.0,8.27,5.14,8.35,6.13,7.5
+230000,planta 1,exterior,3,87.0,1,0,Canillejas,san-blas,0.0,6.2,6.24,7.96,8.3,5.88
+815000,planta 1,exterior,4,140.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+620000,planta 1,exterior,3,133.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+675000,planta 6,exterior,2,97.0,1,0,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+255000,planta 2,exterior,3,80.0,1,1,Campamento,latina,0.0,6.58,7.4,8.33,9.74,5.99
+1300000,planta 3,exterior,4,194.0,1,1,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+449000,planta 1,exterior,2,74.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+369900,planta 5,exterior,3,80.0,1,0,Concepción,ciudad lineal,1.0,6.29,6.37,5.54,7.24,6.94
+649000,planta 2,exterior,3,87.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+530000,planta 3,exterior,1,62.0,1,1,Imperial,arganzuela,1.0,5.81,5.36,6.37,5.14,5.73
+297000,planta 1,exterior,3,53.0,1,0,Legazpi,arganzuela,1.0,6.38,4.52,5.81,4.57,7.24
+1200000,planta 2,interior,2,124.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+1705000,planta 5,exterior,3,138.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1275000,planta 1,interior,3,125.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+535000,planta 3,exterior,1,45.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+198000,planta 3,interior,2,59.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+499000,planta 2,exterior,2,80.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+269000,planta 1,exterior,3,115.0,1,0,San Isidro,carabanchel,1.0,8.75,6.64,11.27,10.92,6.67
+269000,planta 2,exterior,3,79.0,1,0,Comillas,carabanchel,0.0,8.75,7.77,12.57,10.92,6.06
+389000,planta 3,exterior,2,80.0,1,0,Imperial,arganzuela,1.0,5.81,5.36,6.37,5.14,5.73
+1200000,planta 3,interior,2,72.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1170000,planta 4,exterior,2,117.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+715000,planta 2,interior,3,137.0,1,1,Imperial,arganzuela,1.0,5.81,5.36,6.37,5.14,5.73
+2000000,planta 5,exterior,4,150.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+749000,planta 1,exterior,2,98.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+998000,planta 4,exterior,1,113.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+990000,planta 1,exterior,2,94.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+675000,bajo,interior,2,61.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+270000,planta 10,exterior,4,120.0,1,0,San Fermín,usera,1.0,8.65,5.03,12.09,13.0,7.81
+899900,planta 6,exterior,3,134.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+345000,planta 1,exterior,3,81.0,1,0,Berruguete,tetuan,1.0,6.73,22.98,9.3,9.27,6.1
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+499000,planta 4,exterior,3,116.0,1,1,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+980000,planta 1,exterior,3,143.0,1,1,Valdemarín,moncloa,0.0,8.53,4.84,5.75,5.22,7.22
+305000,bajo,exterior,1,36.0,1,0,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+750000,bajo,exterior,3,136.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+900000,planta 2,exterior,4,160.0,1,1,Pinar del Rey,hortaleza,0.0,5.11,6.91,6.3,6.45,7.42
+450000,planta 5,exterior,2,78.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+950000,planta 6,exterior,2,78.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+490000,planta 5,exterior,2,90.0,1,1,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+743000,planta 1,exterior,4,115.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+1250000,planta 4,exterior,2,110.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1150000,planta 9,exterior,4,150.0,1,0,El Viso,chamartin,0.0,7.5,5.25,5.08,4.59,7.35
+1350000,planta 7,exterior,2,160.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+839000,planta 1,exterior,2,94.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+398000,bajo,interior,1,30.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+1550000,planta 1,interior,3,148.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+975000,planta 9,exterior,2,102.0,1,1,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+450000,planta 3,exterior,1,80.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+839000,planta 1,exterior,2,106.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+879000,planta 2,exterior,4,164.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1399000,planta 6,exterior,3,156.0,1,1,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+442000,planta 5,interior,2,109.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+359000,planta 5,exterior,2,68.0,1,0,Pilar,fuencarral,1.0,5.65,6.24,5.83,5.88,7.13
+960000,planta 1,exterior,3,130.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+680000,planta 1,exterior,4,169.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+1200000,planta 1,exterior,2,141.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+280000,planta 2,interior,2,35.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+859000,planta 1,exterior,3,108.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+810000,planta 1,exterior,3,131.0,1,0,Fuente del Berro,salamanca,2.0,6.04,5.76,5.1,5.14,5.95
+315000,planta 4,exterior,0,34.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+1349000,planta 3,exterior,3,175.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1150000,planta 3,exterior,4,189.0,1,0,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+750000,casa,exterior,2,149.0,1,1,Valdemarín,moncloa,0.0,8.53,4.84,5.75,5.22,7.22
+299000,planta 2,exterior,3,76.0,1,1,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+1095000,planta 5,exterior,2,130.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+435000,planta 2,exterior,3,102.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+1149000,planta 6,exterior,2,132.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1095000,planta 6,exterior,2,100.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+125000,bajo,exterior,1,40.0,1,0,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+1449000,planta 1,exterior,3,186.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+2350000,planta 5,exterior,2,199.0,1,1,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1895000,planta 4,exterior,5,199.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+260000,planta 1,interior,2,40.0,1,0,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+958800,planta 1,exterior,4,150.0,1,1,Aravaca,moncloa,1.0,5.89,5.68,4.06,5.0,6.99
+1130000,planta 3,exterior,2,78.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1500000,planta 4,exterior,3,162.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1950000,planta 2,exterior,3,163.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1300000,planta 1,exterior,5,199.0,1,0,Fuente del Berro,salamanca,2.0,6.04,5.76,5.1,5.14,5.95
+953500,planta 1,exterior,3,120.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+1870000,planta 1,exterior,3,182.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+600000,planta 12,exterior,3,109.0,1,1,Estrella,retiro,0.0,5.85,6.28,5.56,3.81,7.06
+1080000,planta 3,exterior,3,152.0,1,0,Fuente del Berro,salamanca,2.0,6.04,5.76,5.1,5.14,5.95
+359000,planta 4,exterior,3,75.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1179000,planta 5,exterior,2,110.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+839000,planta 1,exterior,2,106.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+889000,planta 2,exterior,3,117.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+300000,planta 4,exterior,2,65.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+689000,planta 2,exterior,2,77.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+349000,planta 1,interior,2,63.0,1,0,Embajadores,centro,0.0,9.77,9.24,5.46,10.08,8.12
+385000,casa,exterior,1,54.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1300000,planta 1,exterior,2,146.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+1129000,planta 2,interior,3,98.0,1,0,Jerónimos,Jerónimos,0.0,9.05,3.24,3.36,4.7,13.62
+319000,bajo,exterior,3,76.0,1,0,Berruguete,tetuan,1.0,6.73,22.98,9.3,9.27,6.1
+225000,planta 6,exterior,3,100.0,1,0,Orcasitas,usera,0.0,8.15,5.02,12.57,9.81,7.77
+859000,planta 1,exterior,3,108.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+839000,planta 1,exterior,2,94.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+495000,bajo,exterior,2,105.0,1,0,Imperial,arganzuela,1.0,5.81,5.36,6.37,5.14,5.73
+1200000,planta 2,exterior,4,161.0,1,1,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+795000,planta 3,interior,2,99.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+960000,planta 5,exterior,3,117.0,1,0,Ibiza,retiro,0.0,8.17,56.34,3.6,5.55,6.55
+1649000,planta 1,exterior,3,162.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1890000,planta 3,exterior,3,142.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1649000,planta 1,exterior,3,162.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+550000,planta 3,interior,4,124.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+1129000,planta 6,interior,2,107.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+820000,planta 3,exterior,2,95.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+989000,planta 2,exterior,3,112.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1715000,planta 6,exterior,4,125.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+184900,planta 4,exterior,3,90.0,1,0,Arcos,san-blas,0.0,6.13,5.14,8.23,8.58,6.92
+219900,bajo,exterior,3,85.0,1,0,Arcos,san-blas,0.0,6.13,5.14,8.23,8.58,6.92
+610000,planta 5,exterior,2,113.0,1,0,Fuente del Berro,salamanca,2.0,6.04,5.76,5.1,5.14,5.95
+1300000,planta 1,exterior,3,121.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1099000,planta 1,exterior,4,166.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1150000,planta 1,exterior,3,133.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+839000,planta 3,exterior,3,110.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+309900,planta 13,exterior,3,80.0,1,0,Ventas,ciudad lineal,0.0,5.9,6.81,6.34,7.79,6.97
+1380000,planta 1,exterior,2,133.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1500000,planta 5,exterior,2,111.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+329900,planta 1,exterior,3,91.0,1,0,Vinateros,moratalaz,0.0,8.9,6.17,9.09,7.76,5.72
+348000,bajo,exterior,1,30.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+1195000,planta 7,exterior,3,169.0,1,1,Vallehermoso,chamberi,2.0,5.95,8.37,5.36,4.21,9.75
+589000,planta 2,exterior,4,162.0,1,1,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+388500,planta 4,exterior,2,101.0,1,0,Rejas,san-blas,1.0,7.33,4.24,6.31,7.98,6.97
+660000,planta 6,exterior,3,194.0,1,1,Ensanche de Vallecas,villa-de-vallecas,1.0,8.93,5.28,11.0,8.64,6.02
+1650000,planta 6,exterior,3,190.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+299000,planta 1,exterior,1,56.0,1,1,Concepción,ciudad lineal,1.0,6.29,6.37,5.54,7.24,6.94
+675000,planta 1,exterior,2,133.0,1,1,Peñagrande,fuencarral,1.0,5.95,5.62,5.3,5.14,6.19
+1040000,planta 2,exterior,3,153.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+1340000,planta 1,exterior,3,162.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+750000,planta 6,exterior,4,149.0,1,0,Ciudad Jardín,chamartin,1.0,5.7,9.43,3.39,5.12,7.01
+915000,planta 4,exterior,3,141.0,1,1,Piovera,hortaleza,0.0,7.08,6.86,6.49,5.55,7.8
+850000,planta 7,exterior,2,71.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+475000,planta 14,exterior,1,78.0,1,1,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+629000,planta 2,exterior,4,156.0,1,1,Alameda de Osuna,barajas,2.0,6.39,5.1,2.49,4.29,6.97
+350000,planta 1,exterior,1,48.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+699000,planta 1,interior,2,105.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+650000,planta 4,exterior,2,75.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+150000,planta 5,exterior,0,20.0,1,0,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+192000,bajo,exterior,3,80.0,1,0,Aluche,latina,0.0,6.25,6.78,8.65,8.63,6.5
+399000,planta 4,exterior,5,50.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+320000,planta 4,exterior,2,84.0,1,0,Salvador,Salvador,0.0,8.27,5.14,8.35,6.13,7.5
+950000,entreplanta,exterior,4,135.0,1,1,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1380000,planta 1,exterior,2,133.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+178000,planta 3,exterior,1,63.0,1,0,Palomeras Bajas,puente-de-vallecas,2.0,10.29,5.88,12.87,11.46,6.46
+340000,planta 1,exterior,3,108.0,1,1,Rejas,san-blas,1.0,7.33,4.24,6.31,7.98,6.97
+520000,planta 6,interior,2,44.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+280000,planta 3,exterior,2,77.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+169000,planta 2,interior,3,65.0,1,0,Canillejas,san-blas,0.0,6.2,6.24,7.96,8.3,5.88
+1129000,planta 1,exterior,3,103.0,1,1,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+818000,planta 3,exterior,2,110.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+395000,planta 2,exterior,1,70.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+365000,bajo,exterior,3,81.0,1,1,Pilar,fuencarral,1.0,5.65,6.24,5.83,5.88,7.13
+365000,planta 4,exterior,1,46.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+380000,planta 2,interior,0,38.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+136795,bajo,exterior,1,40.0,1,0,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+220000,planta 1,exterior,2,52.0,1,0,Pinar del Rey,hortaleza,0.0,5.11,6.91,6.3,6.45,7.42
+976000,planta 9,interior,2,142.0,1,1,Vallehermoso,chamberi,2.0,5.95,8.37,5.36,4.21,9.75
+822000,planta 2,exterior,2,97.0,1,1,Atalaya,ciudad lineal,0.0,8.28,4.12,6.51,5.78,7.23
+1420000,planta 8,exterior,2,102.0,1,1,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+285000,planta 1,interior,2,39.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+515000,planta 4,interior,2,125.0,1,1,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+1389000,bajo,exterior,2,138.0,1,1,Atalaya,ciudad lineal,0.0,8.28,4.12,6.51,5.78,7.23
+189900,planta 4,exterior,0,53.0,1,0,Rejas,san-blas,1.0,7.33,4.24,6.31,7.98,6.97
+750000,planta 2,interior,3,119.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+840000,planta 1,exterior,3,159.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+129000,bajo,exterior,2,53.0,1,0,Hellín,san-blas,1.0,6.66,4.82,8.56,9.37,8.83
+570000,planta 3,exterior,3,92.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+850000,planta 2,exterior,2,103.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+820000,planta 3,exterior,2,95.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+950000,planta 5,interior,2,83.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+360800,planta 3,exterior,2,72.0,1,0,Palos de Moguer,arganzuela,1.0,6.19,9.22,4.5,6.45,5.89
+350000,planta 2,exterior,1,65.0,1,1,Canillas,hortaleza,1.0,4.84,6.74,6.07,5.39,8.55
+1882600,planta 4,exterior,2,139.0,1,1,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+1091400,planta 1,exterior,1,87.0,1,1,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+299000,planta 6,exterior,2,49.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+170000,planta 4,exterior,2,60.0,1,0,Fontarrón,moratalaz,0.0,11.0,4.38,11.22,8.84,8.85
+1847800,planta 3,exterior,2,139.0,1,1,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+299000,planta 6,exterior,3,48.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+229000,planta 2,exterior,2,85.0,1,0,Simancas,san-blas,0.0,8.8,5.46,9.44,8.83,6.48
+895000,planta 9,exterior,3,111.0,1,0,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+625000,planta 6,exterior,4,164.0,1,1,Acacias,arganzuela,1.0,5.93,5.61,6.33,5.05,5.71
+435000,planta 3,exterior,0,64.0,1,1,Apóstol Santiago,hortaleza,1.0,5.12,7.84,5.71,6.58,8.63
+730000,planta 1,exterior,2,125.0,1,0,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+225000,planta 1,exterior,4,88.0,1,0,Pradolongo,usera,0.0,8.0,5.84,12.51,14.28,10.21
+239000,planta 1,exterior,3,76.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+599000,planta 2,exterior,3,163.0,1,1,Valverde,fuencarral,1.0,7.17,4.9,4.94,6.27,7.48
+699000,entreplanta,interior,2,85.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+849000,planta 2,exterior,3,111.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+600000,planta 2,exterior,2,120.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+950000,planta 1,exterior,3,129.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+235000,bajo,exterior,1,43.0,1,0,Delicias,arganzuela,1.0,6.35,7.14,6.22,5.81,6.34
+169900,planta 1,exterior,3,60.0,1,0,Amposta,san-blas,0.0,8.74,3.94,10.72,11.19,7.45
+179900,planta 3,exterior,2,55.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+155000,planta 4,exterior,3,60.0,1,0,Canillejas,san-blas,0.0,6.2,6.24,7.96,8.3,5.88
+395000,planta 4,interior,2,60.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+770000,planta 9,exterior,4,142.0,1,1,San Pascual,ciudad lineal,0.0,6.21,6.44,7.82,6.18,8.54
+1179000,planta 5,exterior,2,110.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+860000,planta 7,exterior,3,120.0,1,0,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+249900,planta 14,exterior,2,70.0,1,0,Ventas,ciudad lineal,0.0,5.9,6.81,6.34,7.79,6.97
+860000,planta 7,exterior,3,120.0,1,0,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+160000,planta 1,exterior,2,53.0,1,0,Pueblo Nuevo,ciudad lineal,2.0,5.74,7.56,6.53,8.17,6.18
+1499000,planta 1,exterior,3,170.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+196000,planta 3,exterior,3,77.0,1,0,Comillas,carabanchel,0.0,8.75,7.77,12.57,10.92,6.06
+465000,bajo,exterior,2,165.0,1,0,Pacífico,retiro,2.0,6.13,11.74,3.79,4.8,6.71
+998500,planta 3,exterior,2,185.0,1,1,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+899000,planta 2,exterior,3,107.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+760000,planta 2,exterior,2,103.0,1,0,Cortes,centro,0.0,12.32,6.35,4.78,8.15,10.5
+235000,planta 4,interior,1,51.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1100000,planta 3,exterior,2,89.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+195000,bajo,exterior,3,140.0,1,0,San Diego,puente-de-vallecas,0.0,12.89,8.94,11.01,15.23,6.97
+680000,planta 1,exterior,4,164.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08
+445000,planta 3,exterior,2,127.0,1,1,Corralejos,barajas,0.0,7.36,3.35,2.43,3.93,9.3
+1119000,planta 2,exterior,3,139.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1200000,planta 3,exterior,2,174.0,1,1,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+1000000,planta 9,exterior,3,104.0,1,0,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+799000,planta 4,exterior,2,97.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1498000,planta 6,exterior,3,117.0,1,0,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+1419000,bajo,exterior,3,149.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+950000,planta 1,exterior,3,127.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+279900,bajo,exterior,3,77.0,1,0,San Juan Bautista,ciudad lineal,1.0,8.1,6.0,4.84,5.59,6.49
+1300000,planta 4,exterior,4,166.0,1,1,Lista,salamanca,0.0,5.91,12.09,6.82,5.67,5.71
+203000,planta 2,exterior,2,117.0,1,0,Orcasur,usera,1.0,8.05,5.21,12.78,13.89,8.09
+849000,planta 2,exterior,3,111.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+600000,planta 2,exterior,2,120.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan,1.0,6.75,8.8,10.44,7.04,6.64
+235000,planta 4,exterior,1,51.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+169900,planta 1,exterior,3,60.0,1,0,Amposta,san-blas,0.0,8.74,3.94,10.72,11.19,7.45
+1000000,planta 5,exterior,4,197.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1700000,planta 6,exterior,3,142.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1190000,planta 4,exterior,3,170.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1100000,planta 7,exterior,3,177.0,1,0,Hispanoamérica,chamartin,0.0,5.56,7.37,5.15,4.38,6.32
+530000,planta 2,exterior,3,120.0,1,0,Cuatro Caminos,tetuan,0.0,6.49,7.5,8.5,6.79,6.62
+550000,bajo,exterior,2,100.0,1,1,Mirasierra,fuencarral,1.0,6.2,5.3,4.26,4.33,7.05
+670000,planta 2,exterior,4,177.0,1,1,Guindalera,salamanca,1.0,6.17,5.73,4.94,4.63,7.34
+875000,planta 3,exterior,4,145.0,1,1,Palacio,centro,1.0,10.62,4.44,5.01,7.14,8.77
+369900,planta 5,exterior,3,80.0,1,0,Concepción,ciudad lineal,1.0,6.29,6.37,5.54,7.24,6.94
+1185000,planta 2,interior,2,90.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+252000,bajo,exterior,1,71.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+810000,planta 3,exterior,3,163.0,1,0,Gaztambide,chamberi,0.0,6.02,19.59,5.61,5.37,9.86
+900000,bajo,interior,3,138.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+239900,bajo,interior,1,42.0,1,0,Delicias,arganzuela,1.0,6.35,7.14,6.22,5.81,6.34
+1359000,planta 1,exterior,2,101.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+470000,planta 1,exterior,2,91.0,1,1,Palomas,hortaleza,1.0,7.36,5.47,6.35,5.69,8.1
+289000,bajo,exterior,1,52.0,1,0,Imperial,arganzuela,1.0,5.81,5.36,6.37,5.14,5.73
+829000,planta 1,interior,2,76.0,1,1,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+499000,planta 4,exterior,3,78.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+520000,planta 6,interior,2,50.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+245000,bajo,exterior,1,38.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+820000,planta 3,exterior,2,95.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+879000,planta 6,interior,2,87.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+570000,entreplanta,exterior,4,160.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+1990000,planta 4,interior,3,160.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+879000,planta 6,interior,2,87.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+468000,planta 2,exterior,4,125.0,1,0,Berruguete,tetuan,1.0,6.73,22.98,9.3,9.27,6.1
+417500,planta 1,exterior,2,96.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+560000,planta 1,exterior,2,70.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+399000,planta 3,exterior,3,133.0,1,1,Marroquina,moratalaz,0.0,8.71,3.96,10.41,7.26,5.86
+735000,planta 9,exterior,3,125.0,1,1,Costillares,ciudad lineal,0.0,5.92,6.42,4.76,5.2,5.87
+265000,planta 11,exterior,2,74.0,1,0,Costillares,ciudad lineal,0.0,5.92,6.42,4.76,5.2,5.87
+739000,planta 2,exterior,4,147.0,1,1,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+1250000,planta 5,exterior,3,150.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+375000,bajo,exterior,2,60.0,1,0,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+499000,planta 4,exterior,3,78.0,1,0,Arapiles,chamberi,0.0,6.34,13.36,3.72,5.16,9.57
+1250000,planta 6,exterior,2,120.0,1,0,Almagro,chamberi,0.0,8.4,9.47,5.43,5.19,10.11
+370000,planta 3,exterior,2,85.0,1,1,Rejas,san-blas,1.0,7.33,4.24,6.31,7.98,6.97
+792000,planta 6,exterior,3,160.0,1,1,Costillares,ciudad lineal,0.0,5.92,6.42,4.76,5.2,5.87
+1750000,planta 6,exterior,3,165.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+1100000,planta 6,exterior,4,167.0,1,0,Vallehermoso,chamberi,2.0,5.95,8.37,5.36,4.21,9.75
+745000,planta 1,exterior,3,132.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+975000,planta 9,exterior,1,102.0,1,1,Argüelles,moncloa,0.0,5.25,23.84,3.97,5.57,5.97
+1650000,bajo,exterior,2,181.0,1,1,Nueva España,chamartin,1.0,7.48,6.48,4.98,4.38,6.82
+1380000,planta 4,exterior,3,116.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+2350000,planta 2,exterior,4,168.0,1,0,Goya,salamanca,1.0,8.01,21.75,6.81,5.42,5.63
+695000,planta 4,exterior,3,137.0,1,1,Canillas,hortaleza,1.0,4.84,6.74,6.07,5.39,8.55
+1600000,planta 3,interior,4,145.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+229000,planta 1,interior,3,76.0,1,0,Quintana,ciudad lineal,0.0,6.2,12.09,5.87,8.41,6.76
+1730000,planta 4,exterior,4,114.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+1300000,planta 3,exterior,3,157.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+885000,planta 6,exterior,3,120.0,1,0,Trafalgar,chamberi,0.0,6.52,11.82,5.6,5.37,9.91
+339000,planta 1,exterior,3,128.0,1,0,Valdeacederas,tetuan,0.0,7.15,4.91,11.54,9.31,8.41
+530000,planta 2,exterior,2,72.0,1,0,Ríos Rosas,chamberi,0.0,6.45,10.7,5.57,4.91,9.34
+1200000,bajo,interior,2,137.0,1,0,Recoletos,salamanca,0.0,8.15,22.48,4.55,5.59,6.19
+138900,planta 4,exterior,2,61.0,1,0,Amposta,san-blas,0.0,8.74,3.94,10.72,11.19,7.45
+229000,planta 2,exterior,3,107.0,1,0,Bellas Vistas,tetuan,0.0,6.46,11.66,9.13,9.37,6.02
+1489000,bajo,exterior,4,194.0,1,1,Mirasierra,fuencarral,1.0,6.2,5.3,4.26,4.33,7.05
+989000,planta 2,exterior,3,112.0,1,0,Sol,centro,0.0,13.04,26.06,6.79,9.32,15.45
+1150000,planta 1,exterior,3,133.0,1,0,Universidad,centro,0.0,9.99,11.46,4.88,7.75,9.71
+470000,planta 7,interior,1,40.0,1,0,Castellana,salamanca,0.0,7.63,9.14,6.63,5.58,6.0
+950000,planta 2,exterior,4,187.0,1,1,Castilla,chamartin,0.0,5.61,5.03,5.25,4.33,7.23
+439000,planta 1,exterior,4,113.0,1,0,La Paz,fuencarral,1.0,5.57,4.55,4.62,4.23,7.44
+490000,bajo,exterior,1,80.0,1,1,Ciudad Universitaria,moncloa,1.0,5.41,4.91,5.92,4.73,7.9
+498000,planta 4,interior,3,105.0,1,0,Prosperidad,chamartin,0.0,5.57,9.03,5.38,4.84,6.59
+645000,planta 2,interior,2,74.0,1,0,Justicia,centro,2.0,9.89,8.44,6.66,7.56,9.58
+629000,planta 2,exterior,5,123.0,1,0,Adelfas,retiro,0.0,6.04,7.47,3.86,4.94,8.31
+1090000,planta 7,exterior,3,168.0,1,1,Valdefuentes,hortaleza,0.0,5.84,5.49,4.49,5.32,7.08

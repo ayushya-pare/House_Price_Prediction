@@ -1,0 +1,1067 @@
+price,house_type,house_type_2,rooms,m2,elevator,garage,neighborhood,district
+995000,planta 2,exterior,4,118.0,1,0,Castellana,salamanca
+1130000,planta 3,exterior,2,78.0,1,1,Recoletos,salamanca
+3600000,planta 2,interior,3,231.0,1,1,Recoletos,salamanca
+3500000,planta 1,exterior,4,293.0,1,0,Recoletos,salamanca
+1100000,planta 2,exterior,3,236.0,1,1,Prosperidad,chamartin
+3750000,planta 1,exterior,4,238.0,1,0,Recoletos,salamanca
+889000,planta 2,exterior,3,117.0,1,0,Universidad,centro
+235000,bajo,interior,1,40.0,1,0,Gaztambide,chamberi
+385000,bajo,exterior,2,118.0,1,1,Almenara,tetuan
+1300000,planta 1,exterior,3,230.0,1,0,Embajadores,centro
+960000,planta 3,exterior,7,204.0,1,0,Embajadores,centro
+1500000,planta 5,exterior,3,135.0,1,1,Palos de Moguer,arganzuela
+629000,planta 4,interior,2,64.0,1,0,Universidad,centro
+420000,planta 2,exterior,2,53.0,1,0,Universidad,centro
+640000,planta 2,exterior,3,115.0,1,1,Valdefuentes,hortaleza
+580000,planta 4,exterior,1,87.0,1,0,Embajadores,centro
+1350000,planta 1,exterior,3,224.0,1,0,Sol,centro
+290000,bajo,interior,2,54.0,1,0,Lista,salamanca
+979000,planta 2,exterior,4,110.0,1,0,Sol,centro
+195000,bajo,exterior,3,140.0,1,0,San Diego,puente-de-vallecas
+3650000,planta 10,exterior,3,362.0,1,1,Universidad,centro
+959000,planta 1,exterior,2,142.0,1,0,Universidad,centro
+1750000,chalet,exterior,4,250.0,0,0,Hispanoamérica,chamartin
+268700,bajo,interior,1,48.0,1,0,Universidad,centro
+560000,planta 1,exterior,3,104.0,1,1,Delicias,arganzuela
+1560000,planta 1,exterior,3,145.0,1,0,Recoletos,salamanca
+2500000,planta 1,exterior,3,227.0,1,0,Jerónimos,Jerónimos
+385000,planta 1,exterior,2,95.0,1,0,Valdeacederas,tetuan
+849000,planta 2,interior,3,111.0,1,0,Justicia,centro
+890000,planta 5,exterior,1,84.0,1,0,Cortes,centro
+234000,planta 2,exterior,3,62.0,1,0,Ventas,ciudad lineal
+1649000,planta 1,exterior,3,162.0,1,0,Castellana,salamanca
+239000,bajo,exterior,1,37.0,1,0,Argüelles,moncloa
+159000,bajo,exterior,2,54.0,1,0,Pueblo Nuevo,ciudad lineal
+695000,planta 1,exterior,4,172.0,1,0,Guindalera,salamanca
+1180000,bajo,exterior,4,191.0,1,0,Goya,salamanca
+2300000,planta 3,exterior,3,204.0,1,1,Almagro,chamberi
+375000,planta 4,exterior,2,108.0,1,1,Quintana,ciudad lineal
+599000,planta 5,exterior,2,116.0,1,0,Embajadores,centro
+840000,planta 10,exterior,4,125.0,1,1,Nueva España,chamartin
+1700000,planta 6,exterior,4,350.0,1,1,Bellas Vistas,tetuan
+380000,planta 4,exterior,1,40.0,1,1,Prosperidad,chamartin
+2600000,planta 4,exterior,5,486.0,1,1,Nueva España,chamartin
+679000,planta 2,interior,2,72.0,1,0,Lista,salamanca
+1419000,bajo,exterior,3,149.0,1,0,Castellana,salamanca
+989000,planta 2,exterior,3,112.0,1,0,Sol,centro
+1200000,planta 3,exterior,4,300.0,1,1,Valdemarín,moncloa
+2490000,bajo,exterior,4,300.0,1,1,Nueva España,chamartin
+698000,planta 7,interior,3,79.0,1,0,Lista,salamanca
+154900,planta 1,exterior,3,61.0,1,0,Hellín,san-blas
+310000,entreplanta,exterior,2,144.0,1,1,Bellas Vistas,tetuan
+950000,planta 6,exterior,2,98.0,1,0,Lista,salamanca
+525000,planta 2,exterior,4,152.0,1,1,Valdeacederas,tetuan
+1349000,planta 1,exterior,2,120.0,1,0,Recoletos,salamanca
+470000,planta 7,exterior,0,36.0,1,0,Castellana,salamanca
+1875000,planta 3,exterior,4,346.0,1,1,Piovera,hortaleza
+250000,planta 4,interior,1,40.0,1,0,Universidad,centro
+247000,bajo,exterior,2,69.0,1,0,Valdeacederas,tetuan
+960000,planta 3,exterior,5,204.0,1,0,Embajadores,centro
+940000,planta 8,exterior,3,135.0,1,0,Gaztambide,chamberi
+1200000,planta 3,exterior,2,100.0,1,1,Lista,salamanca
+1250000,bajo,exterior,2,132.0,1,0,Castellana,salamanca
+580000,planta 8,exterior,1,80.0,1,0,Nueva España,chamartin
+1530000,planta 7,exterior,3,180.0,1,0,El Viso,chamartin
+675000,bajo,interior,2,61.0,1,0,Lista,salamanca
+492000,planta 7,exterior,0,49.0,1,0,Lista,salamanca
+649000,planta 4,exterior,2,83.0,1,1,Corralejos,barajas
+960000,planta 1,exterior,3,130.0,1,0,Gaztambide,chamberi
+385000,planta 1,exterior,2,95.0,1,0,Valdeacederas,tetuan
+560000,planta 1,exterior,3,104.0,1,1,Delicias,arganzuela
+279990,planta 6,exterior,3,89.0,1,1,Ensanche de Vallecas,villa-de-vallecas
+1690000,planta 7,interior,4,210.0,1,1,Ríos Rosas,chamberi
+383000,planta 3,exterior,4,121.0,1,1,Vista Alegre,carabanchel
+1650000,planta 3,exterior,4,200.0,1,1,El Viso,chamartin
+1310000,planta 1,exterior,6,427.0,1,1,Atalaya,ciudad lineal
+2190000,planta 7,exterior,3,196.0,1,1,Almagro,chamberi
+1820000,planta 2,exterior,5,314.0,1,0,El Viso,chamartin
+1195000,entreplanta,exterior,3,170.0,1,0,Universidad,centro
+1100000,planta 1,exterior,2,160.0,1,0,Justicia,centro
+425000,planta 1,exterior,1,55.0,1,0,Hispanoamérica,chamartin
+249000,planta 1,interior,1,30.0,1,0,Universidad,centro
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan
+3500000,planta 1,exterior,5,310.0,1,1,El Viso,chamartin
+1200000,planta 2,exterior,8,244.0,1,0,Gaztambide,chamberi
+445000,bajo,exterior,1,73.0,1,0,Argüelles,moncloa
+2250000,planta 5,exterior,2,173.0,1,0,Sol,centro
+1795000,planta 1,exterior,4,339.0,1,1,Piovera,hortaleza
+2400000,planta 4,exterior,3,255.0,1,0,Sol,centro
+3100000,casa,exterior,4,245.0,1,1,Jerónimos,Jerónimos
+995750,planta 1,exterior,2,134.0,1,1,Ciudad Jardín,chamartin
+1500000,planta 7,exterior,2,182.0,1,0,Goya,salamanca
+725000,planta 1,exterior,3,145.0,1,0,Vallehermoso,chamberi
+1222150,planta 1,exterior,2,157.0,1,1,Ciudad Jardín,chamartin
+2995000,planta 2,exterior,4,335.0,1,1,Jerónimos,Jerónimos
+5400000,planta 3,exterior,5,518.0,1,0,Recoletos,salamanca
+629000,planta 2,exterior,4,156.0,1,1,Alameda de Osuna,barajas
+599000,planta 8,exterior,3,125.0,1,1,Pacífico,retiro
+590000,planta 2,exterior,3,80.0,1,0,Cortes,centro
+699000,planta 1,interior,2,105.0,1,0,Lista,salamanca
+647000,planta 1,exterior,2,79.0,1,0,Palacio,centro
+710000,planta 4,exterior,2,87.0,1,0,Justicia,centro
+3195000,planta 3,exterior,6,460.0,1,1,Goya,salamanca
+780000,planta 7,interior,2,102.0,1,1,Lista,salamanca
+1495000,planta 6,exterior,3,170.0,1,0,El Viso,chamartin
+335000,planta 1,interior,3,79.0,1,0,Peñagrande,fuencarral
+590000,planta 2,exterior,1,75.0,1,1,Argüelles,moncloa
+439000,planta 4,exterior,4,108.0,1,0,Los Cármenes,latina
+795000,planta 5,exterior,3,128.0,1,0,Fuente del Berro,salamanca
+620000,entreplanta,interior,2,98.0,1,0,Lista,salamanca
+2850000,planta 7,exterior,3,230.0,1,1,Recoletos,salamanca
+169900,planta 2,interior,2,57.0,1,0,Canillejas,san-blas
+449000,planta 10,exterior,3,91.0,1,0,La Paz,fuencarral
+1373000,planta 3,exterior,2,300.0,1,0,Universidad,centro
+1189000,planta 5,exterior,4,164.0,1,0,Sol,centro
+550000,planta 2,exterior,2,88.0,1,1,Palomas,hortaleza
+435000,planta 5,interior,2,66.0,1,0,Prosperidad,chamartin
+420000,planta 7,exterior,2,80.0,1,0,Berruguete,tetuan
+1600000,planta 2,exterior,4,213.0,1,0,Argüelles,moncloa
+1200000,bajo,exterior,3,180.0,1,0,Ibiza,retiro
+830000,planta 6,exterior,2,83.0,1,0,Ríos Rosas,chamberi
+2600000,planta 3,exterior,4,383.0,1,0,Nueva España,chamartin
+930000,planta 2,exterior,2,120.0,1,0,Almagro,chamberi
+380000,planta 4,exterior,1,40.0,1,1,Prosperidad,chamartin
+1700000,planta 6,exterior,4,350.0,1,1,Bellas Vistas,tetuan
+830000,planta 7,exterior,4,155.0,1,1,Jerónimos,Jerónimos
+1175000,planta 7,exterior,4,171.0,1,0,Palacio,centro
+1200000,planta 2,exterior,2,124.0,1,0,Jerónimos,Jerónimos
+1540000,planta 1,exterior,5,330.0,1,0,Trafalgar,chamberi
+320000,bajo,interior,1,59.0,1,0,Trafalgar,chamberi
+580000,bajo,exterior,1,69.0,1,1,Piovera,hortaleza
+999000,planta 5,exterior,3,223.0,1,1,Fuentelarreina,fuencarral
+1450000,planta 2,exterior,5,340.0,1,1,Valdemarín,moncloa
+950000,planta 3,exterior,5,205.0,1,1,Fuentelarreina,fuencarral
+1275000,planta 5,exterior,5,305.0,1,1,Fuentelarreina,fuencarral
+299000,bajo,exterior,1,43.0,1,0,Castilla,chamartin
+1249000,planta 1,exterior,4,234.0,1,1,Valdemarín,moncloa
+1100000,planta 9,exterior,2,133.0,1,0,Palacio,centro
+765000,planta 4,exterior,2,109.0,1,1,Mirasierra,fuencarral
+1200000,planta 2,exterior,4,248.0,1,1,Aravaca,moncloa
+1080000,planta 5,exterior,4,147.0,1,0,Sol,centro
+1200000,planta 3,exterior,2,174.0,1,1,Hispanoamérica,chamartin
+297000,planta 1,exterior,3,53.0,1,0,Legazpi,arganzuela
+679000,planta 3,exterior,3,144.0,1,1,Mirasierra,fuencarral
+215000,bajo,interior,2,50.0,1,0,Trafalgar,chamberi
+850000,planta 5,exterior,2,86.0,1,0,Goya,salamanca
+1100000,planta 1,exterior,2,150.0,1,0,Justicia,centro
+2350000,planta 5,exterior,4,218.0,1,0,Sol,centro
+2490000,planta 5,exterior,4,207.0,1,0,Recoletos,salamanca
+1349000,planta 5,exterior,3,157.0,1,0,Lista,salamanca
+950000,planta 2,exterior,5,218.0,1,1,Castilla,chamartin
+1400000,planta 3,exterior,3,240.0,1,0,Palacio,centro
+1299000,planta 7,exterior,3,120.0,1,0,Goya,salamanca
+3600000,planta 3,exterior,5,379.0,1,0,Goya,salamanca
+440000,planta 1,exterior,3,78.0,1,0,Guindalera,salamanca
+695000,planta 4,exterior,3,137.0,1,1,Canillas,hortaleza
+1495000,planta 2,exterior,3,138.0,1,0,Goya,salamanca
+3200000,planta 2,exterior,2,244.0,1,0,Castellana,salamanca
+2150000,planta 1,exterior,5,407.0,1,1,Piovera,hortaleza
+2800000,planta 4,exterior,5,306.0,1,0,Goya,salamanca
+1175000,planta 7,exterior,4,173.0,1,0,Palacio,centro
+875000,bajo,exterior,3,149.0,1,0,Ibiza,retiro
+1275000,casa,exterior,3,125.0,1,0,Castellana,salamanca
+2500000,planta 1,exterior,3,227.0,1,0,Jerónimos,Jerónimos
+980000,planta 2,exterior,3,165.0,1,0,Cortes,centro
+965000,planta 4,exterior,3,145.0,1,1,Hispanoamérica,chamartin
+900000,planta 3,exterior,4,173.0,1,0,Sol,centro
+2500000,planta 6,exterior,5,314.0,1,1,Almagro,chamberi
+1195000,planta 4,exterior,4,303.0,1,1,Mirasierra,fuencarral
+1850000,planta 1,exterior,3,150.0,1,0,Justicia,centro
+870000,planta 2,exterior,4,150.0,1,0,Arapiles,chamberi
+2395000,planta 1,exterior,4,270.0,1,1,Trafalgar,chamberi
+2400000,planta 3,exterior,3,227.0,1,0,Trafalgar,chamberi
+1925000,planta 6,exterior,3,187.0,1,1,Almagro,chamberi
+1700000,planta 3,exterior,4,220.0,1,1,Goya,salamanca
+1060000,planta 4,exterior,3,146.0,1,0,Goya,salamanca
+750000,planta 1,exterior,2,111.0,1,0,Trafalgar,chamberi
+179000,planta 3,interior,2,37.0,1,0,Embajadores,centro
+1670000,planta 2,exterior,3,159.0,1,0,Palacio,centro
+210000,planta 6,exterior,2,90.0,1,0,Orcasitas,usera
+1290000,planta 2,exterior,3,150.0,1,1,Goya,salamanca
+580000,planta 2,exterior,2,100.0,1,0,Palacio,centro
+2100000,planta 2,exterior,4,209.0,1,1,Castellana,salamanca
+280000,planta 1,exterior,3,103.0,1,0,Moscardó,usera
+568000,planta 8,interior,2,90.0,1,0,Cuatro Caminos,tetuan
+2700000,planta 2,exterior,3,220.0,1,0,Recoletos,salamanca
+980000,planta 4,exterior,3,178.0,1,0,Piovera,hortaleza
+259000,planta 2,exterior,4,76.0,1,0,Valdeacederas,tetuan
+900000,planta 2,exterior,2,95.0,1,0,El Viso,chamartin
+2500000,planta 1,exterior,3,151.0,1,0,Recoletos,salamanca
+1129000,planta 6,interior,2,103.0,1,0,Goya,salamanca
+2995000,planta 4,exterior,4,298.0,1,0,Gaztambide,chamberi
+450000,planta 1,exterior,4,112.0,1,0,Embajadores,centro
+650000,planta 2,interior,2,65.0,1,0,Goya,salamanca
+1200000,planta 2,interior,2,124.0,1,0,Jerónimos,Jerónimos
+980000,planta 4,exterior,3,178.0,1,0,Piovera,hortaleza
+259000,planta 2,exterior,4,76.0,1,0,Valdeacederas,tetuan
+460000,planta 2,exterior,1,68.0,1,1,Piovera,hortaleza
+2200000,planta 3,exterior,4,248.0,1,1,Niño Jesús,retiro
+2050000,planta 1,exterior,5,315.0,1,1,El Viso,chamartin
+1495000,planta 2,exterior,4,221.0,1,0,Sol,centro
+450000,planta 1,exterior,4,112.0,1,0,Embajadores,centro
+1075000,planta 6,exterior,1,75.0,1,0,Ríos Rosas,chamberi
+830000,planta 1,exterior,4,171.0,1,1,Palomas,hortaleza
+600000,planta 6,exterior,2,130.0,1,1,Pueblo Nuevo,ciudad lineal
+1400000,planta 2,exterior,3,190.0,1,1,Aravaca,moncloa
+1800000,casa,exterior,4,194.0,1,0,Castellana,salamanca
+1049900,planta 3,exterior,2,78.0,1,1,Recoletos,salamanca
+1350000,planta 2,exterior,3,147.0,1,0,Goya,salamanca
+1400000,planta 2,exterior,3,190.0,1,1,Aravaca,moncloa
+839000,planta 1,exterior,2,106.0,1,0,Cortes,centro
+1450000,planta 3,exterior,3,139.0,1,0,Goya,salamanca
+859000,planta 2,exterior,2,88.0,1,0,Sol,centro
+1560000,planta 1,exterior,4,212.0,1,0,Aravaca,moncloa
+1300000,planta 3,exterior,3,157.0,1,0,Trafalgar,chamberi
+1525000,planta 1,exterior,4,206.0,1,0,Aravaca,moncloa
+835000,planta 5,exterior,4,219.0,1,0,Guindalera,salamanca
+1100000,planta 1,interior,3,135.0,1,0,Sol,centro
+1250000,planta 3,exterior,4,155.0,1,1,Castellana,salamanca
+895000,planta 3,exterior,2,112.0,1,0,El Viso,chamartin
+1080000,planta 4,exterior,2,97.0,1,1,Lista,salamanca
+349000,planta 4,exterior,1,51.0,1,0,Palacio,centro
+210000,entreplanta,exterior,3,80.0,1,0,Canillejas,san-blas
+680000,planta 4,exterior,1,80.0,1,0,Justicia,centro
+220000,planta 1,interior,3,49.0,1,0,Palos de Moguer,arganzuela
+780000,planta 4,exterior,3,113.0,1,1,Niño Jesús,retiro
+650000,planta 4,exterior,2,87.0,1,1,Trafalgar,chamberi
+780000,planta 4,exterior,2,110.0,1,0,Justicia,centro
+235000,bajo,exterior,0,85.0,1,0,Casco Histórico de Vicálvaro,vicalvaro
+250000,planta 3,exterior,3,80.0,1,0,Pinar del Rey,hortaleza
+680000,planta 4,exterior,1,85.0,1,0,Universidad,centro
+645000,planta 1,exterior,4,170.0,1,1,La Paz,fuencarral
+640000,planta 6,exterior,2,140.0,1,1,Peñagrande,fuencarral
+595000,planta 3,exterior,1,81.0,1,1,Hispanoamérica,chamartin
+515000,planta 4,interior,2,125.0,1,1,Cortes,centro
+560000,planta 1,exterior,2,80.0,1,0,Almagro,chamberi
+1250000,planta 4,exterior,2,110.0,1,1,Goya,salamanca
+319900,planta 5,exterior,3,90.0,1,0,Vinateros,moratalaz
+1079000,planta 2,exterior,3,128.0,1,0,Justicia,centro
+2250000,planta 3,exterior,3,204.0,1,1,Lista,salamanca
+695000,bajo,exterior,2,262.0,1,0,Embajadores,centro
+650000,bajo,exterior,2,153.0,1,1,Mirasierra,fuencarral
+859000,planta 2,exterior,3,133.0,1,0,Cortes,centro
+590000,planta 5,exterior,2,241.0,1,0,Simancas,san-blas
+235000,bajo,exterior,1,50.0,1,0,Bellas Vistas,tetuan
+3100000,planta 6,exterior,4,292.0,1,1,El Viso,chamartin
+2100000,planta 1,exterior,5,302.0,1,0,Recoletos,salamanca
+2800000,planta 5,exterior,4,255.0,1,0,Justicia,centro
+828000,planta 2,exterior,4,138.0,1,1,Trafalgar,chamberi
+1330000,planta 5,exterior,5,234.0,1,1,Nueva España,chamartin
+2575000,planta 1,exterior,4,215.0,1,0,Palacio,centro
+1650000,planta 3,interior,4,202.0,1,1,El Viso,chamartin
+1215000,planta 3,exterior,2,81.0,1,0,Recoletos,salamanca
+1495000,planta 2,exterior,4,264.0,1,1,Castilla,chamartin
+275000,planta 1,interior,1,39.0,1,0,Guindalera,salamanca
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan
+2100000,planta 5,exterior,4,291.0,1,1,El Viso,chamartin
+1095000,planta 5,exterior,4,164.0,1,1,Goya,salamanca
+1850000,planta 1,exterior,3,146.0,1,1,Recoletos,salamanca
+1175000,planta 15,exterior,3,165.0,1,1,Cuatro Caminos,tetuan
+1500000,planta 3,exterior,4,237.0,1,1,Aravaca,moncloa
+1760000,planta 5,exterior,3,156.0,1,0,Recoletos,salamanca
+740000,planta 4,exterior,4,147.0,1,0,Aravaca,moncloa
+590000,planta 3,exterior,2,75.0,1,0,Cortes,centro
+259900,bajo,exterior,2,64.0,1,0,Moscardó,usera
+739000,planta 6,exterior,3,102.0,1,0,Ibiza,retiro
+390000,planta 2,exterior,1,60.0,1,1,Aravaca,moncloa
+590000,planta 2,exterior,2,75.0,1,0,Cortes,centro
+1290000,planta 7,exterior,4,160.0,1,0,Hispanoamérica,chamartin
+2012500,planta 1,exterior,2,175.0,1,0,Goya,salamanca
+179999,planta 5,exterior,2,68.0,1,0,Abrantes,carabanchel
+339900,planta 3,exterior,1,90.0,1,1,Valdeacederas,tetuan
+145000,bajo,exterior,1,45.0,1,0,San Diego,puente-de-vallecas
+699000,planta 3,exterior,1,91.0,1,0,Jerónimos,Jerónimos
+300000,planta 1,exterior,1,43.0,1,0,Canillas,hortaleza
+529000,planta 4,exterior,3,89.0,1,0,Palacio,centro
+1250000,planta 4,exterior,3,220.0,1,0,Castillejos,tetuan
+1137000,planta 4,exterior,5,196.0,1,0,Argüelles,moncloa
+889000,planta 2,exterior,3,117.0,1,0,Universidad,centro
+1250000,planta 4,exterior,3,220.0,1,0,Cuatro Caminos,tetuan
+445000,bajo,exterior,1,73.0,1,0,Argüelles,moncloa
+345000,planta 2,exterior,1,64.0,1,0,Canillas,hortaleza
+249000,planta 1,interior,1,30.0,1,0,Universidad,centro
+1500000,planta 3,exterior,4,237.0,1,1,Aravaca,moncloa
+799000,planta 2,exterior,2,100.0,1,0,Trafalgar,chamberi
+609000,planta 3,exterior,2,89.0,1,0,Guindalera,salamanca
+475000,planta 3,exterior,4,98.0,1,1,Canillas,hortaleza
+412000,casa,exterior,3,103.0,1,1,Simancas,san-blas
+760000,planta 2,exterior,4,200.0,1,1,Almenara,tetuan
+200000,bajo,exterior,3,153.0,1,0,San Diego,puente-de-vallecas
+1790000,planta 4,exterior,3,140.0,1,1,Recoletos,salamanca
+800000,planta 4,exterior,3,105.0,1,0,Universidad,centro
+818000,planta 3,exterior,2,109.0,1,0,Justicia,centro
+1550000,planta 2,interior,2,151.0,1,0,Recoletos,salamanca
+400000,bajo,interior,2,52.0,1,0,Sol,centro
+1200000,planta 3,exterior,2,174.0,1,0,Hispanoamérica,chamartin
+155000,planta 4,exterior,3,60.0,1,0,Canillejas,san-blas
+309000,planta 2,exterior,3,92.0,1,0,Media Legua,moratalaz
+950000,planta 6,exterior,2,78.0,1,0,Trafalgar,chamberi
+498000,planta 5,interior,3,196.0,1,1,Ensanche de Vallecas,villa-de-vallecas
+745000,planta 1,exterior,3,132.0,1,0,Sol,centro
+1670000,bajo,exterior,4,213.0,1,1,Nueva España,chamartin
+1250000,planta 8,exterior,4,210.0,1,0,Vallehermoso,chamberi
+329000,planta 3,exterior,2,102.0,1,0,San Diego,puente-de-vallecas
+229000,planta 1,interior,3,84.0,1,0,Quintana,ciudad lineal
+530000,planta 3,exterior,3,102.0,1,0,Embajadores,centro
+790000,planta 2,exterior,2,126.0,1,0,Justicia,centro
+168000,bajo,exterior,3,68.0,1,0,Pueblo Nuevo,ciudad lineal
+1700000,planta 1,exterior,4,245.0,1,1,Nueva España,chamartin
+365000,sotano,exterior,2,77.0,1,0,Goya,salamanca
+257000,bajo,exterior,2,110.0,1,0,Bellas Vistas,tetuan
+190000,bajo,exterior,1,47.0,1,0,Castillejos,tetuan
+919000,planta 1,exterior,3,112.0,1,0,Universidad,centro
+850000,planta 3,exterior,2,90.0,1,0,Hispanoamérica,chamartin
+361000,planta 2,exterior,0,56.0,1,1,Valdeacederas,tetuan
+1450000,planta 3,exterior,3,139.0,1,0,Goya,salamanca
+985000,planta 1,exterior,3,185.0,1,1,Jerónimos,Jerónimos
+3500000,planta 6,exterior,4,251.0,1,0,Jerónimos,Jerónimos
+525000,planta 1,exterior,4,86.0,1,0,Niño Jesús,retiro
+139000,planta 4,exterior,1,28.0,1,0,Embajadores,centro
+3600000,planta 3,exterior,3,316.0,1,0,Castellana,salamanca
+3100000,planta 5,exterior,4,322.0,1,0,Trafalgar,chamberi
+750000,planta 3,exterior,1,54.0,1,0,Recoletos,salamanca
+2100000,planta 1,exterior,4,268.0,1,1,Argüelles,moncloa
+229000,planta 1,exterior,0,35.0,1,1,Casco Histórico de Barajas,barajas
+652000,planta 1,exterior,3,114.0,1,1,Peñagrande,fuencarral
+2600000,planta 5,exterior,4,214.0,1,0,Almagro,chamberi
+850000,planta 1,exterior,4,151.0,1,1,Peñagrande,fuencarral
+350000,planta 3,exterior,0,32.0,1,0,Justicia,centro
+1490000,planta 2,exterior,3,145.0,1,0,Trafalgar,chamberi
+650000,planta 4,exterior,2,87.0,1,1,Trafalgar,chamberi
+175508,planta 3,exterior,1,53.0,1,1,Casco Histórico de Vallecas,villa-de-vallecas
+523000,bajo,exterior,2,98.0,1,1,Peñagrande,fuencarral
+1401000,planta 3,exterior,5,222.0,1,1,Peñagrande,fuencarral
+3860000,planta 2,exterior,5,410.0,1,1,Recoletos,salamanca
+1100000,planta 2,exterior,2,101.0,1,0,Justicia,centro
+3250000,planta 13,exterior,5,340.0,1,1,El Viso,chamartin
+189000,planta 1,exterior,1,39.0,1,0,Embajadores,centro
+980000,planta 1,exterior,3,145.0,1,1,Valdemarín,moncloa
+260000,planta 3,interior,1,60.0,1,0,Palacio,centro
+1985000,planta 7,exterior,3,245.0,1,1,Lista,salamanca
+1380000,planta 1,exterior,2,133.0,1,1,Goya,salamanca
+950000,planta 5,exterior,3,125.0,1,1,Trafalgar,chamberi
+1450000,planta 2,exterior,4,258.0,1,1,Hispanoamérica,chamartin
+259000,planta 1,exterior,0,37.0,1,0,Delicias,arganzuela
+1875000,planta 4,exterior,5,220.0,1,1,Lista,salamanca
+799000,planta 1,interior,3,127.0,1,0,El Viso,chamartin
+695000,planta 2,exterior,2,103.0,1,0,Goya,salamanca
+254900,planta 3,interior,2,54.0,1,0,Palacio,centro
+647000,planta 1,exterior,2,79.0,1,0,Palacio,centro
+3500000,planta 1,exterior,5,310.0,1,1,El Viso,chamartin
+260000,planta 3,exterior,0,33.0,1,0,Argüelles,moncloa
+670000,planta 2,exterior,1,97.0,1,0,Lista,salamanca
+419360,planta 7,exterior,1,52.0,1,0,El Viso,chamartin
+219000,planta 4,exterior,2,58.0,1,0,Embajadores,centro
+450000,planta 1,interior,4,121.0,1,0,Quintana,ciudad lineal
+239900,planta 1,exterior,2,55.0,1,0,Bellas Vistas,tetuan
+590000,planta 2,exterior,3,80.0,1,0,Cortes,centro
+1790000,planta 5,interior,3,114.0,1,0,Recoletos,salamanca
+979000,planta 2,exterior,4,109.0,1,0,Sol,centro
+1450000,planta 1,exterior,2,133.0,1,1,Justicia,centro
+1850000,planta 7,exterior,7,302.0,1,1,Valdefuentes,hortaleza
+695000,planta 4,exterior,3,137.0,1,1,Canillas,hortaleza
+956000,planta 1,exterior,3,150.0,1,0,Palacio,centro
+825000,planta 2,exterior,4,164.0,1,0,Universidad,centro
+2300000,casa,exterior,5,265.0,1,1,El Viso,chamartin
+640000,planta 3,exterior,4,136.0,1,1,Mirasierra,fuencarral
+399000,planta 2,exterior,1,70.0,1,1,Piovera,hortaleza
+1195000,planta 5,exterior,2,134.0,1,0,Cortes,centro
+1300000,planta 1,exterior,3,179.0,1,1,Piovera,hortaleza
+1150000,planta 1,exterior,4,196.0,1,1,Piovera,hortaleza
+2100000,planta 8,exterior,4,450.0,1,1,Mirasierra,fuencarral
+1490000,bajo,exterior,4,216.0,1,1,Piovera,hortaleza
+790000,planta 2,exterior,6,167.0,1,0,Cortes,centro
+740000,planta 1,exterior,2,90.0,1,0,Sol,centro
+2200000,planta 4,exterior,7,537.0,1,1,Atalaya,ciudad lineal
+479900,planta 1,exterior,4,143.0,1,0,Chopera,arganzuela
+320000,bajo,exterior,1,37.0,1,0,Castilla,chamartin
+650000,bajo,exterior,2,86.0,1,1,Ciudad Jardín,chamartin
+1350000,planta 7,exterior,2,138.0,1,0,Trafalgar,chamberi
+875000,planta 1,interior,3,149.0,1,0,Ibiza,retiro
+1189000,planta 3,exterior,2,151.0,1,0,Palacio,centro
+1450000,planta 1,exterior,4,218.0,1,1,Ciudad Universitaria,moncloa
+1045000,planta 1,exterior,3,229.0,1,1,Aravaca,moncloa
+1175000,planta 15,exterior,3,165.0,1,1,Cuatro Caminos,tetuan
+2100000,planta 5,exterior,5,330.0,1,1,Hispanoamérica,chamartin
+1180000,planta 5,exterior,3,139.0,1,0,Goya,salamanca
+1475000,planta 2,exterior,5,376.0,1,1,Castillejos,tetuan
+1490000,planta 3,exterior,5,186.0,1,1,Goya,salamanca
+1675000,planta 3,exterior,4,232.0,1,0,Lista,salamanca
+1250000,planta 4,exterior,2,110.0,1,1,Recoletos,salamanca
+184900,planta 3,exterior,2,50.0,1,0,Pueblo Nuevo,ciudad lineal
+174900,planta 4,exterior,2,50.0,1,0,Simancas,san-blas
+682000,planta 10,exterior,3,133.0,1,1,Apóstol Santiago,hortaleza
+698000,planta 2,exterior,3,125.0,1,1,Costillares,ciudad lineal
+1300000,planta 1,exterior,5,199.0,1,0,Goya,salamanca
+1200000,planta 3,exterior,2,100.0,1,0,Lista,salamanca
+680000,planta 1,interior,2,117.0,1,0,Castellana,salamanca
+2200000,planta 8,exterior,4,257.0,1,1,Castellana,salamanca
+790000,planta 1,exterior,5,135.0,1,0,Goya,salamanca
+1450000,planta 1,exterior,3,133.0,1,0,Goya,salamanca
+1190000,planta 1,exterior,3,135.0,1,0,Castellana,salamanca
+1850000,planta 6,exterior,4,248.0,1,1,Universidad,centro
+290000,planta 2,exterior,1,80.0,1,1,Simancas,san-blas
+299000,planta 2,exterior,1,49.0,1,0,Castillejos,tetuan
+250000,planta 1,exterior,2,97.0,1,1,Butarque,villaverde
+165000,bajo,interior,1,35.0,1,0,Bellas Vistas,tetuan
+249000,planta 1,exterior,2,85.0,1,0,Aluche,latina
+1975000,chalet,exterior,4,350.0,0,1,San Juan Bautista,ciudad lineal
+1800000,planta 2,exterior,5,268.0,1,1,El Viso,chamartin
+749000,planta 5,exterior,3,92.0,1,0,Trafalgar,chamberi
+1690000,planta 6,exterior,5,252.0,1,1,Hispanoamérica,chamartin
+850000,planta 7,interior,2,115.0,1,0,Arapiles,chamberi
+550000,planta 5,exterior,3,103.0,1,0,Pacífico,retiro
+1150000,planta 1,exterior,3,133.0,1,0,Universidad,centro
+1450000,planta 3,interior,3,139.0,1,0,Goya,salamanca
+425000,planta 1,exterior,1,55.0,1,1,Hispanoamérica,chamartin
+330000,planta 3,interior,3,65.0,1,0,Pacífico,retiro
+2800000,planta 2,exterior,6,332.0,1,1,Hispanoamérica,chamartin
+735000,planta 5,exterior,2,88.0,1,0,Hispanoamérica,chamartin
+600000,planta 4,exterior,3,90.0,1,0,Guindalera,salamanca
+1375000,planta 3,exterior,4,247.0,1,1,El Viso,chamartin
+2300000,planta 7,exterior,4,278.0,1,1,Nueva España,chamartin
+690000,planta 5,interior,2,70.0,1,0,Justicia,centro
+1780000,planta 2,exterior,4,212.0,1,1,Nueva España,chamartin
+1300000,planta 3,exterior,4,235.0,1,1,Gaztambide,chamberi
+1040000,planta 4,exterior,3,130.0,1,0,Ibiza,retiro
+3200000,planta 3,exterior,4,354.0,1,1,El Viso,chamartin
+990000,planta 2,exterior,2,109.0,1,1,Castellana,salamanca
+1680000,planta 3,exterior,3,186.0,1,0,Almagro,chamberi
+600000,planta 13,exterior,4,123.0,1,0,Castilla,chamartin
+2490000,planta 5,interior,4,200.0,1,0,Recoletos,salamanca
+595000,planta 4,exterior,2,82.0,1,0,Prosperidad,chamartin
+2095000,planta 1,exterior,3,184.0,1,0,Almagro,chamberi
+470000,planta 1,exterior,2,107.0,1,0,Hispanoamérica,chamartin
+1300000,planta 3,exterior,4,235.0,1,1,Gaztambide,chamberi
+1300000,planta 6,exterior,5,209.0,1,0,Hispanoamérica,chamartin
+1700000,planta 2,interior,5,377.0,1,0,Almagro,chamberi
+380000,planta 4,exterior,1,48.0,1,0,Guindalera,salamanca
+738000,planta 1,exterior,3,107.0,1,0,Hispanoamérica,chamartin
+650000,planta 2,exterior,3,105.0,1,0,Universidad,centro
+2130000,chalet,exterior,5,372.0,0,1,Hispanoamérica,chamartin
+1050000,planta 3,exterior,5,202.0,1,0,Castillejos,tetuan
+545000,planta 3,exterior,1,55.0,1,0,Palacio,centro
+1850000,planta 4,exterior,4,250.0,1,0,Justicia,centro
+1350000,planta 2,exterior,2,169.0,1,1,Nueva España,chamartin
+1700000,planta 3,exterior,4,220.0,1,1,Goya,salamanca
+1490000,bajo,exterior,4,216.0,1,1,Piovera,hortaleza
+490000,bajo,exterior,1,80.0,1,1,Ciudad Universitaria,moncloa
+1100000,planta 2,interior,3,141.0,1,0,Justicia,centro
+600000,bajo,exterior,2,85.0,1,0,Almagro,chamberi
+1800000,planta 2,exterior,5,268.0,1,1,El Viso,chamartin
+1185000,planta 3,exterior,3,151.0,1,0,Palacio,centro
+1700000,planta 3,exterior,4,220.0,1,1,Goya,salamanca
+1600000,planta 7,interior,3,150.0,1,0,Goya,salamanca
+1200000,planta 3,exterior,2,174.0,1,0,Hispanoamérica,chamartin
+1480000,planta 1,exterior,2,114.0,1,1,Goya,salamanca
+349000,planta 3,exterior,2,80.0,1,0,Berruguete,tetuan
+800000,planta 2,exterior,2,110.0,1,0,Palacio,centro
+1890000,planta 6,exterior,4,200.0,1,1,Castellana,salamanca
+880000,planta 5,exterior,4,130.0,1,0,Ríos Rosas,chamberi
+5900000,casa,interior,7,1250.0,0,1,Valdemarín,moncloa
+738900,planta 6,exterior,3,102.0,1,0,Niño Jesús,retiro
+380000,planta 1,interior,3,60.0,1,0,Niño Jesús,retiro
+999000,planta 5,exterior,3,104.0,1,0,Justicia,centro
+310000,bajo,interior,1,37.0,1,0,Palacio,centro
+780000,planta 2,exterior,1,73.0,1,0,Justicia,centro
+395000,planta 2,exterior,1,70.0,1,0,Sol,centro
+1450000,planta 3,exterior,3,139.0,1,0,Goya,salamanca
+1050000,planta 3,exterior,2,78.0,1,0,Recoletos,salamanca
+237000,planta 1,exterior,1,50.0,1,0,Embajadores,centro
+1870000,planta 1,exterior,3,176.0,1,0,Trafalgar,chamberi
+1120000,planta 4,exterior,3,155.0,1,1,Ibiza,retiro
+750000,planta 1,interior,2,91.0,1,0,Universidad,centro
+1534000,planta 2,exterior,4,345.0,1,1,Valdemarín,moncloa
+990000,entreplanta,exterior,4,236.0,1,1,Hispanoamérica,chamartin
+285000,planta 1,exterior,3,96.0,1,0,Canillejas,san-blas
+900000,planta 2,exterior,2,95.0,1,0,El Viso,chamartin
+850000,planta 2,exterior,3,152.0,1,0,Gaztambide,chamberi
+928000,planta 3,exterior,2,90.0,1,1,Atalaya,ciudad lineal
+975109,planta 4,exterior,4,119.0,1,1,Peñagrande,fuencarral
+739000,planta 3,exterior,5,139.0,1,0,Arapiles,chamberi
+940984,planta 4,exterior,3,119.0,1,1,Peñagrande,fuencarral
+1026296,planta 4,exterior,4,115.0,1,1,Peñagrande,fuencarral
+464000,planta 2,exterior,2,84.0,1,0,Palos de Moguer,arganzuela
+372000,bajo,exterior,1,67.0,1,0,Palos de Moguer,arganzuela
+1160000,planta 2,exterior,3,162.0,1,0,Ríos Rosas,chamberi
+795000,planta 1,exterior,2,80.0,1,0,Ibiza,retiro
+2449000,planta 1,exterior,3,306.0,1,1,Palacio,centro
+1450000,planta 4,exterior,5,421.0,1,0,Valdemarín,moncloa
+209000,planta 2,exterior,0,39.0,1,1,Casco Histórico de Barajas,barajas
+215000,planta 11,interior,2,60.0,1,0,Santa Eugenia,villa-de-vallecas
+1380000,planta 1,exterior,2,133.0,1,0,Goya,salamanca
+850000,planta 7,exterior,2,113.0,1,0,Arapiles,chamberi
+699000,planta 2,exterior,3,101.0,1,0,Goya,salamanca
+880000,planta 4,exterior,3,100.0,1,0,Castellana,salamanca
+1100000,planta 2,exterior,2,101.0,1,0,Justicia,centro
+5650000,planta 5,exterior,3,400.0,1,1,Castellana,salamanca
+5350000,planta 5,exterior,3,402.0,1,1,Castellana,salamanca
+146300,planta 5,exterior,3,64.0,1,0,Ventas,ciudad lineal
+470000,bajo,exterior,4,112.0,1,0,Guindalera,salamanca
+2250000,planta 4,exterior,3,230.0,1,0,Goya,salamanca
+265000,planta 2,exterior,3,80.0,1,0,Ventas,ciudad lineal
+325000,planta 1,interior,1,56.0,1,0,Palos de Moguer,arganzuela
+850000,planta 2,exterior,7,190.0,1,0,Cortes,centro
+195000,bajo,exterior,3,153.0,1,0,San Diego,puente-de-vallecas
+298000,planta 3,interior,4,70.0,1,0,Universidad,centro
+930000,planta 2,exterior,2,111.0,1,0,Goya,salamanca
+1173000,planta 7,exterior,4,171.0,1,0,Cortes,centro
+372000,bajo,exterior,1,67.0,1,0,Palos de Moguer,arganzuela
+850000,planta 2,exterior,3,152.0,1,0,Gaztambide,chamberi
+900000,planta 2,exterior,2,95.0,1,0,El Viso,chamartin
+3500000,planta 1,exterior,5,310.0,1,1,El Viso,chamartin
+620000,planta 1,interior,3,114.0,1,0,Palos de Moguer,arganzuela
+739000,planta 3,exterior,5,139.0,1,0,Arapiles,chamberi
+595000,planta 5,exterior,3,109.0,1,1,Los Ángeles,villaverde
+5300000,planta 5,exterior,4,298.0,1,0,Recoletos,salamanca
+1500000,planta 2,interior,3,128.0,1,0,Castellana,salamanca
+1500000,planta 3,exterior,4,237.0,1,1,Aravaca,moncloa
+1300000,planta 1,interior,3,133.0,1,0,Recoletos,salamanca
+1180000,bajo,exterior,3,191.0,1,0,Goya,salamanca
+339000,planta 3,exterior,3,117.0,1,1,Zofío,usera
+1400000,planta 1,exterior,4,236.0,1,1,Prosperidad,chamartin
+840000,planta 9,exterior,4,158.0,1,1,La Paz,fuencarral
+525000,planta 15,exterior,3,112.0,1,1,Comillas,carabanchel
+1250000,planta 3,exterior,5,276.0,1,1,Fuente del Berro,salamanca
+219000,bajo,interior,1,28.0,1,0,Cortes,centro
+795000,planta 3,exterior,2,99.0,1,0,Palacio,centro
+339000,planta 11,exterior,4,107.0,1,0,Aluche,latina
+395000,planta 4,exterior,1,55.0,1,0,Palacio,centro
+695000,bajo,exterior,2,262.0,1,0,Embajadores,centro
+1310000,planta 3,exterior,2,118.0,1,1,Universidad,centro
+2600000,planta 5,exterior,4,214.0,1,0,Almagro,chamberi
+210000,bajo,exterior,1,61.0,1,0,Pueblo Nuevo,ciudad lineal
+1100000,planta 9,exterior,2,133.0,1,0,Palacio,centro
+215000,bajo,interior,2,50.0,1,0,Trafalgar,chamberi
+2600000,planta 1,exterior,4,247.0,1,0,Recoletos,salamanca
+1200000,planta 3,exterior,2,174.0,1,1,Hispanoamérica,chamartin
+1100000,planta 9,exterior,3,235.0,1,1,Legazpi,arganzuela
+2800000,planta 4,exterior,5,306.0,1,0,Goya,salamanca
+1890000,planta 3,exterior,4,316.0,1,0,Argüelles,moncloa
+490000,bajo,exterior,1,80.0,1,1,Ciudad Universitaria,moncloa
+635000,planta 6,interior,2,114.0,1,0,Cuatro Caminos,tetuan
+1277000,planta 2,exterior,4,154.0,1,0,Palacio,centro
+1200000,planta 2,exterior,2,124.0,1,0,Jerónimos,Jerónimos
+2600000,planta 3,exterior,5,400.0,1,0,Nueva España,chamartin
+265000,planta 18,exterior,0,37.0,1,0,Apóstol Santiago,hortaleza
+1150000,planta 5,exterior,6,152.0,1,0,Castellana,salamanca
+2050000,planta 4,exterior,4,250.0,1,1,El Viso,chamartin
+2250000,planta 2,exterior,3,227.0,1,1,Goya,salamanca
+430000,planta 2,exterior,2,86.0,1,0,Valdezarza,moncloa
+2370000,planta 2,exterior,3,154.0,1,0,Castellana,salamanca
+1435000,planta 6,exterior,3,153.0,1,1,Ibiza,retiro
+338625,planta 3,interior,1,67.0,1,0,Argüelles,moncloa
+500000,bajo,exterior,1,84.0,1,0,Palacio,centro
+650000,planta 1,interior,1,92.0,1,0,Goya,salamanca
+175000,bajo,exterior,2,65.0,1,0,Entrevías,puente-de-vallecas
+349000,planta 1,interior,2,63.0,1,0,Embajadores,centro
+345000,planta 1,exterior,1,65.0,1,0,Guindalera,salamanca
+270000,planta 5,exterior,1,60.0,1,0,Embajadores,centro
+155000,planta 3,interior,0,25.0,1,0,Universidad,centro
+1700000,planta 4,exterior,2,150.0,1,1,Lista,salamanca
+1399000,planta 3,exterior,3,151.0,1,0,Trafalgar,chamberi
+139000,planta 2,exterior,3,64.0,1,0,Bellas Vistas,tetuan
+1129000,planta 6,interior,2,103.0,1,0,Goya,salamanca
+400000,planta 1,exterior,1,73.0,1,0,Embajadores,centro
+829000,planta 2,exterior,2,99.0,1,0,Palacio,centro
+1200000,planta 2,exterior,2,124.0,1,0,Jerónimos,Jerónimos
+679000,planta 2,interior,2,75.0,1,0,Lista,salamanca
+1129000,planta 2,exterior,3,98.0,1,0,Jerónimos,Jerónimos
+270000,planta 1,exterior,2,75.0,1,0,Cuatro Caminos,tetuan
+225000,planta 2,exterior,1,46.0,1,0,Embajadores,centro
+1720000,planta 3,exterior,3,266.0,1,0,Castillejos,tetuan
+5500000,planta 4,interior,3,275.0,1,1,Lista,salamanca
+840000,bajo,exterior,3,155.0,1,1,Valdefuentes,hortaleza
+3000000,planta 3,exterior,4,310.0,1,1,Nueva España,chamartin
+267000,planta 4,exterior,2,49.0,1,0,Palacio,centro
+1299000,planta 4,exterior,4,193.0,1,0,Sol,centro
+599000,bajo,exterior,2,97.0,1,0,Lista,salamanca
+350000,planta 3,exterior,0,33.0,1,0,Justicia,centro
+320000,bajo,exterior,1,61.0,1,0,Moscardó,usera
+998000,planta 5,exterior,2,205.0,1,0,Justicia,centro
+950000,planta 1,exterior,1,156.0,1,0,Embajadores,centro
+945000,planta 2,exterior,2,93.0,1,1,El Viso,chamartin
+2400000,planta 1,exterior,4,460.0,1,0,Sol,centro
+379000,bajo,exterior,2,120.0,1,0,Imperial,arganzuela
+540000,bajo,exterior,3,135.0,1,0,Imperial,arganzuela
+2500000,planta 6,exterior,3,223.0,1,0,Ibiza,retiro
+849000,planta 3,exterior,2,80.0,1,0,Goya,salamanca
+950000,planta 1,exterior,1,156.0,1,0,Embajadores,centro
+975000,planta 5,exterior,2,128.0,1,1,Argüelles,moncloa
+1300000,planta 2,interior,2,123.0,1,0,Recoletos,salamanca
+260000,planta 3,interior,2,40.0,1,0,Universidad,centro
+397000,planta 1,exterior,3,83.0,1,0,Palos de Moguer,arganzuela
+155000,bajo,exterior,2,60.0,1,0,Pueblo Nuevo,ciudad lineal
+1790000,planta 5,exterior,3,113.0,1,0,Recoletos,salamanca
+390000,planta 2,exterior,1,60.0,1,1,Aravaca,moncloa
+2700000,planta 3,exterior,15,441.0,1,0,Sol,centro
+1650000,planta 6,exterior,3,190.0,1,0,Palacio,centro
+8350000,planta 2,exterior,7,712.0,1,1,Recoletos,salamanca
+1425000,planta 7,exterior,3,246.0,1,1,El Viso,chamartin
+900000,planta 2,exterior,3,126.0,1,0,Ríos Rosas,chamberi
+89000,planta 3,exterior,3,85.0,1,0,Moscardó,usera
+239000,planta 2,exterior,3,70.0,1,0,Simancas,san-blas
+305235,bajo,exterior,2,102.0,1,1,Pueblo Nuevo,ciudad lineal
+167500,planta 1,exterior,2,57.0,1,0,Simancas,san-blas
+2280000,planta 9,interior,4,235.0,1,1,El Viso,chamartin
+410000,planta 4,exterior,3,136.0,1,0,Apóstol Santiago,hortaleza
+1450000,planta 1,exterior,2,133.0,1,1,Justicia,centro
+680000,planta 1,exterior,3,110.0,1,0,Palacio,centro
+1620000,planta 4,exterior,4,191.0,1,0,Palacio,centro
+156000,planta 2,exterior,2,56.0,1,0,Vista Alegre,carabanchel
+3600000,planta 1,exterior,4,321.0,1,0,Justicia,centro
+141000,bajo,interior,0,26.0,1,0,Acacias,arganzuela
+880000,planta 5,exterior,4,130.0,1,0,Ríos Rosas,chamberi
+690000,planta 2,interior,3,127.0,1,0,Sol,centro
+253000,planta 1,exterior,1,38.0,1,0,Guindalera,salamanca
+11000000,planta 1,exterior,5,730.0,1,1,Castellana,salamanca
+2050000,planta 4,exterior,4,250.0,1,1,El Viso,chamartin
+900000,planta 1,exterior,4,159.0,1,0,Arapiles,chamberi
+1175000,planta 15,exterior,3,165.0,1,1,Cuatro Caminos,tetuan
+1850000,bajo,exterior,1,325.0,1,0,Palacio,centro
+330000,planta 3,interior,3,65.0,1,0,Pacífico,retiro
+730000,planta 4,exterior,2,90.0,1,0,Ríos Rosas,chamberi
+820000,planta 1,exterior,1,80.0,1,0,Cortes,centro
+1450000,planta 3,exterior,5,297.0,1,1,Vallehermoso,chamberi
+792000,planta 6,exterior,4,162.0,1,1,Costillares,ciudad lineal
+895000,planta 4,interior,1,81.0,1,0,Recoletos,salamanca
+1195000,planta 10,interior,4,171.0,1,0,Vallehermoso,chamberi
+377664,planta 2,exterior,3,127.0,1,0,Apóstol Santiago,hortaleza
+198000,bajo,exterior,0,36.0,1,0,Adelfas,retiro
+3190000,planta 5,exterior,3,270.0,1,0,Recoletos,salamanca
+1700000,planta 1,exterior,4,245.0,1,1,Nueva España,chamartin
+3800000,planta 3,exterior,5,402.0,1,1,Castellana,salamanca
+4910000,planta 4,exterior,4,381.0,1,1,Recoletos,salamanca
+1500000,planta 2,exterior,2,143.0,1,0,Universidad,centro
+445000,bajo,exterior,1,73.0,1,0,Argüelles,moncloa
+475000,entreplanta,exterior,2,85.0,1,0,Guindalera,salamanca
+335000,planta 2,exterior,2,112.0,1,0,Pueblo Nuevo,ciudad lineal
+4500000,planta 3,exterior,5,340.0,1,0,Castellana,salamanca
+725000,planta 1,exterior,3,121.0,1,0,Fuente del Berro,salamanca
+849000,planta 2,interior,3,111.0,1,0,Justicia,centro
+580000,planta 6,exterior,3,106.0,1,0,Berruguete,tetuan
+480000,planta 3,exterior,2,105.0,1,1,Orcasur,usera
+265000,planta 3,exterior,3,69.0,1,0,Pueblo Nuevo,ciudad lineal
+399000,planta 7,exterior,2,47.0,1,0,Pacífico,retiro
+520000,planta 1,exterior,3,93.0,1,0,Pacífico,retiro
+630000,planta 3,exterior,3,96.0,1,0,Prosperidad,chamartin
+440000,planta 9,exterior,3,92.0,1,0,Alameda de Osuna,barajas
+1129000,planta 2,interior,3,98.0,1,0,Jerónimos,Jerónimos
+540000,planta 4,exterior,2,101.0,1,0,Pacífico,retiro
+252000,planta 5,exterior,2,54.0,1,0,Quintana,ciudad lineal
+789000,planta 4,exterior,2,101.0,1,0,Sol,centro
+286000,planta 1,exterior,4,114.0,1,1,Zofío,usera
+615000,planta 2,exterior,3,106.0,1,0,Prosperidad,chamartin
+540000,planta 4,exterior,3,118.0,1,1,Peñagrande,fuencarral
+990000,planta 1,exterior,4,234.0,1,0,Hispanoamérica,chamartin
+650000,planta 1,exterior,2,107.0,1,0,Fuente del Berro,salamanca
+1200000,planta 3,exterior,2,100.0,1,0,Lista,salamanca
+139000,planta 2,exterior,3,64.0,1,0,Bellas Vistas,tetuan
+1875000,planta 1,exterior,4,260.0,1,1,Justicia,centro
+2290000,planta 2,exterior,3,184.0,1,0,Justicia,centro
+2300000,planta 3,exterior,3,235.0,1,0,Almagro,chamberi
+169000,planta 3,exterior,3,65.0,1,0,Los Rosales,villaverde
+3900000,planta 4,exterior,4,279.0,1,0,Recoletos,salamanca
+1990000,planta 3,exterior,3,165.0,1,0,Recoletos,salamanca
+3550000,planta 4,exterior,3,220.0,1,0,Recoletos,salamanca
+346500,planta 1,exterior,2,88.0,1,0,Salvador,Salvador
+230000,planta 1,exterior,3,87.0,1,0,Canillejas,san-blas
+815000,planta 1,exterior,4,140.0,1,1,Valdefuentes,hortaleza
+620000,planta 1,exterior,3,133.0,1,1,Valdefuentes,hortaleza
+675000,planta 6,exterior,2,97.0,1,0,Valdefuentes,hortaleza
+255000,planta 2,exterior,3,80.0,1,1,Campamento,latina
+1300000,planta 3,exterior,4,194.0,1,1,El Viso,chamartin
+449000,planta 1,exterior,2,74.0,1,0,Universidad,centro
+369900,planta 5,exterior,3,80.0,1,0,Concepción,ciudad lineal
+649000,planta 2,exterior,3,87.0,1,0,Cortes,centro
+530000,planta 3,exterior,1,62.0,1,1,Imperial,arganzuela
+1890000,planta 2,exterior,5,248.0,1,0,Palacio,centro
+297000,planta 1,exterior,3,53.0,1,0,Legazpi,arganzuela
+1200000,planta 2,interior,2,124.0,1,0,Jerónimos,Jerónimos
+1705000,planta 5,exterior,3,138.0,1,0,Recoletos,salamanca
+2100000,planta 1,exterior,4,268.0,1,1,Argüelles,moncloa
+1275000,planta 1,interior,3,125.0,1,0,Castellana,salamanca
+1160000,planta 4,exterior,5,202.0,1,1,Hispanoamérica,chamartin
+535000,planta 3,exterior,1,45.0,1,0,Recoletos,salamanca
+3100000,chalet,exterior,6,750.0,0,1,Piovera,hortaleza
+1495000,planta 1,exterior,4,272.0,1,0,Hispanoamérica,chamartin
+198000,planta 3,interior,2,59.0,1,0,Embajadores,centro
+499000,planta 2,exterior,2,80.0,1,0,Embajadores,centro
+269000,planta 1,exterior,3,115.0,1,0,San Isidro,carabanchel
+269000,planta 2,exterior,3,79.0,1,0,Comillas,carabanchel
+389000,planta 3,exterior,2,80.0,1,0,Imperial,arganzuela
+1200000,planta 3,interior,2,72.0,1,0,Recoletos,salamanca
+1170000,planta 4,exterior,2,117.0,1,0,Castellana,salamanca
+715000,planta 2,interior,3,137.0,1,1,Imperial,arganzuela
+2100000,planta 1,exterior,4,302.0,1,0,Recoletos,salamanca
+2000000,planta 5,exterior,4,150.0,1,0,Recoletos,salamanca
+749000,planta 1,exterior,2,98.0,1,0,Justicia,centro
+998000,planta 4,exterior,1,113.0,1,0,Castellana,salamanca
+990000,planta 1,exterior,2,94.0,1,0,Goya,salamanca
+675000,bajo,interior,2,61.0,1,0,Lista,salamanca
+1290000,planta 2,exterior,5,214.0,1,1,Colina,ciudad lineal
+270000,planta 10,exterior,4,120.0,1,0,San Fermín,usera
+899900,planta 6,exterior,3,134.0,1,0,Ibiza,retiro
+345000,planta 1,exterior,3,81.0,1,0,Berruguete,tetuan
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan
+499000,planta 4,exterior,3,116.0,1,1,Ríos Rosas,chamberi
+980000,planta 1,exterior,3,143.0,1,1,Valdemarín,moncloa
+2075000,planta 6,exterior,4,284.0,1,1,Mirasierra,fuencarral
+305000,bajo,exterior,1,36.0,1,0,Nueva España,chamartin
+750000,bajo,exterior,3,136.0,1,0,Palacio,centro
+860000,planta 5,exterior,3,252.0,1,1,Palomas,hortaleza
+900000,planta 2,exterior,4,160.0,1,1,Pinar del Rey,hortaleza
+450000,planta 5,exterior,2,78.0,1,1,Valdefuentes,hortaleza
+950000,planta 6,exterior,2,78.0,1,0,Trafalgar,chamberi
+490000,planta 5,exterior,2,90.0,1,1,Pueblo Nuevo,ciudad lineal
+1440000,planta 5,interior,5,277.0,1,1,Gaztambide,chamberi
+1750000,planta 8,exterior,3,260.0,1,1,Hispanoamérica,chamartin
+743000,planta 1,exterior,4,115.0,1,0,Cortes,centro
+1950000,chalet,exterior,4,413.0,0,1,Ciudad Universitaria,moncloa
+1250000,planta 4,exterior,2,110.0,1,1,Goya,salamanca
+1495000,planta 3,exterior,4,205.0,1,1,El Viso,chamartin
+1490000,planta 1,exterior,4,272.0,1,0,Hispanoamérica,chamartin
+1150000,planta 9,exterior,4,150.0,1,0,El Viso,chamartin
+1350000,planta 7,exterior,2,160.0,1,0,Palos de Moguer,arganzuela
+2250000,planta 3,exterior,3,204.0,1,1,Lista,salamanca
+839000,planta 1,exterior,2,94.0,1,0,Trafalgar,chamberi
+1700000,planta 2,exterior,5,370.0,1,1,Almagro,chamberi
+398000,bajo,interior,1,30.0,1,0,Justicia,centro
+1550000,planta 1,interior,3,148.0,1,0,Recoletos,salamanca
+975000,planta 9,exterior,2,102.0,1,1,Argüelles,moncloa
+450000,planta 3,exterior,1,80.0,1,0,Universidad,centro
+839000,planta 1,exterior,2,106.0,1,0,Sol,centro
+879000,planta 2,exterior,4,164.0,1,0,Sol,centro
+1399000,planta 6,exterior,3,156.0,1,1,Palacio,centro
+442000,planta 5,interior,2,109.0,1,0,Pacífico,retiro
+359000,planta 5,exterior,2,68.0,1,0,Pilar,fuencarral
+960000,planta 1,exterior,3,130.0,1,0,Gaztambide,chamberi
+680000,planta 1,exterior,4,169.0,1,1,Valdefuentes,hortaleza
+1440000,chalet,interior,7,439.0,0,1,Peñagrande,fuencarral
+1200000,planta 1,exterior,2,141.0,1,0,Universidad,centro
+1350000,planta 1,exterior,3,224.0,1,0,Sol,centro
+280000,planta 2,interior,2,35.0,1,0,Ibiza,retiro
+859000,planta 1,exterior,3,108.0,1,0,Universidad,centro
+810000,planta 1,exterior,3,131.0,1,0,Fuente del Berro,salamanca
+1199000,planta 12,exterior,5,243.0,1,1,San Juan Bautista,ciudad lineal
+315000,planta 4,exterior,0,34.0,1,0,Trafalgar,chamberi
+1349000,planta 3,exterior,3,175.0,1,0,Goya,salamanca
+1150000,planta 3,exterior,4,189.0,1,0,Cuatro Caminos,tetuan
+2450000,planta 7,exterior,2,245.0,1,0,Goya,salamanca
+750000,casa,exterior,2,149.0,1,1,Valdemarín,moncloa
+299000,planta 2,exterior,3,76.0,1,1,Embajadores,centro
+1250000,planta 2,exterior,3,236.0,1,1,Piovera,hortaleza
+1095000,planta 5,exterior,2,130.0,1,0,Goya,salamanca
+2050000,chalet,exterior,5,334.0,0,1,Palomas,hortaleza
+435000,planta 2,exterior,3,102.0,1,0,Embajadores,centro
+1149000,planta 6,exterior,2,132.0,1,0,Castellana,salamanca
+3200000,planta 2,exterior,4,260.0,1,1,Castellana,salamanca
+1500000,planta 4,exterior,5,346.0,1,1,Mirasierra,fuencarral
+1095000,planta 6,exterior,2,100.0,1,0,Goya,salamanca
+125000,bajo,exterior,1,40.0,1,0,Simancas,san-blas
+1449000,planta 1,exterior,3,186.0,1,0,Castillejos,tetuan
+2350000,planta 5,exterior,2,199.0,1,1,Lista,salamanca
+4500000,planta 1,exterior,3,305.0,1,0,Recoletos,salamanca
+1895000,planta 4,exterior,5,199.0,1,1,Recoletos,salamanca
+260000,planta 1,interior,2,40.0,1,0,Guindalera,salamanca
+958800,planta 1,exterior,4,150.0,1,1,Aravaca,moncloa
+1130000,planta 3,exterior,2,78.0,1,1,Recoletos,salamanca
+1500000,planta 4,exterior,3,162.0,1,0,Goya,salamanca
+3100000,planta 9,exterior,2,255.0,1,1,Universidad,centro
+1950000,planta 2,exterior,3,163.0,1,0,Goya,salamanca
+1300000,planta 1,exterior,5,199.0,1,0,Fuente del Berro,salamanca
+953500,planta 1,exterior,3,120.0,1,0,Trafalgar,chamberi
+3950000,planta 5,exterior,3,226.0,1,0,Recoletos,salamanca
+1870000,planta 1,exterior,3,182.0,1,0,Goya,salamanca
+600000,planta 12,exterior,3,109.0,1,1,Estrella,retiro
+1080000,planta 3,exterior,3,152.0,1,0,Fuente del Berro,salamanca
+359000,planta 4,exterior,3,75.0,1,0,Sol,centro
+1179000,planta 5,exterior,2,110.0,1,0,Lista,salamanca
+839000,planta 1,exterior,2,106.0,1,0,Cortes,centro
+889000,planta 2,exterior,3,117.0,1,0,Universidad,centro
+300000,planta 4,exterior,2,65.0,1,0,Cortes,centro
+689000,planta 2,exterior,2,77.0,1,0,Sol,centro
+349000,planta 1,interior,2,63.0,1,0,Embajadores,centro
+3400000,planta 1,exterior,5,277.0,1,0,Castellana,salamanca
+385000,casa,exterior,1,54.0,1,0,Goya,salamanca
+1300000,planta 1,exterior,2,146.0,1,0,Almagro,chamberi
+1129000,planta 2,interior,3,98.0,1,0,Jerónimos,Jerónimos
+1950000,planta 1,exterior,2,220.0,1,0,Goya,salamanca
+319000,bajo,exterior,3,76.0,1,0,Berruguete,tetuan
+225000,planta 6,exterior,3,100.0,1,0,Orcasitas,usera
+859000,planta 1,exterior,3,108.0,1,0,Universidad,centro
+839000,planta 1,exterior,2,94.0,1,0,Trafalgar,chamberi
+495000,bajo,exterior,2,105.0,1,0,Imperial,arganzuela
+1200000,planta 2,exterior,4,161.0,1,1,Ríos Rosas,chamberi
+795000,planta 3,interior,2,99.0,1,0,Palacio,centro
+960000,planta 5,exterior,3,117.0,1,0,Ibiza,retiro
+1649000,planta 1,exterior,3,162.0,1,0,Castellana,salamanca
+2200000,planta 3,exterior,4,256.0,1,0,Justicia,centro
+1890000,planta 3,exterior,3,142.0,1,0,Recoletos,salamanca
+1649000,planta 1,exterior,3,162.0,1,0,Castellana,salamanca
+550000,planta 3,interior,4,124.0,1,0,Gaztambide,chamberi
+1129000,planta 6,interior,2,107.0,1,0,Goya,salamanca
+820000,planta 3,exterior,2,95.0,1,0,Trafalgar,chamberi
+989000,planta 2,exterior,3,112.0,1,0,Sol,centro
+2995000,planta 4,exterior,4,298.0,1,0,Gaztambide,chamberi
+1715000,planta 6,exterior,4,125.0,1,0,Cortes,centro
+1490000,bajo,exterior,4,216.0,1,1,Piovera,hortaleza
+1290000,planta 2,exterior,5,331.0,1,1,Atalaya,ciudad lineal
+184900,planta 4,exterior,3,90.0,1,0,Arcos,san-blas
+219900,bajo,exterior,3,85.0,1,0,Arcos,san-blas
+610000,planta 5,exterior,2,113.0,1,0,Fuente del Berro,salamanca
+1300000,planta 1,exterior,3,121.0,1,0,Recoletos,salamanca
+1450000,planta 1,exterior,3,223.0,1,1,Guindalera,salamanca
+1099000,planta 1,exterior,4,166.0,1,0,Universidad,centro
+1350000,planta 3,exterior,5,307.0,1,1,Costillares,ciudad lineal
+1150000,planta 1,exterior,3,133.0,1,0,Universidad,centro
+839000,planta 3,exterior,3,110.0,1,0,Universidad,centro
+1485000,planta 2,exterior,5,340.0,1,0,Valdemarín,moncloa
+309900,planta 13,exterior,3,80.0,1,0,Ventas,ciudad lineal
+1300000,planta 6,exterior,5,209.0,1,0,Hispanoamérica,chamartin
+1380000,planta 1,exterior,2,133.0,1,0,Goya,salamanca
+1500000,planta 5,exterior,2,111.0,1,0,Castellana,salamanca
+7900000,planta 2,exterior,4,473.0,1,1,Castellana,salamanca
+2300000,planta 6,exterior,5,256.0,1,1,El Viso,chamartin
+3600000,planta 3,exterior,5,379.0,1,0,Goya,salamanca
+1780000,planta 5,exterior,5,306.0,1,1,Argüelles,moncloa
+2100000,planta 1,exterior,4,268.0,1,1,Argüelles,moncloa
+1450000,planta 7,exterior,4,230.0,1,0,El Viso,chamartin
+329900,planta 1,exterior,3,91.0,1,0,Vinateros,moratalaz
+348000,bajo,exterior,1,30.0,1,0,Castillejos,tetuan
+1195000,planta 7,exterior,3,169.0,1,1,Vallehermoso,chamberi
+589000,planta 2,exterior,4,162.0,1,1,Castillejos,tetuan
+388500,planta 4,exterior,2,101.0,1,0,Rejas,san-blas
+660000,planta 6,exterior,3,194.0,1,1,Ensanche de Vallecas,villa-de-vallecas
+1650000,planta 6,exterior,3,190.0,1,0,Argüelles,moncloa
+2200000,planta 4,exterior,7,537.0,1,1,Atalaya,ciudad lineal
+1800000,planta 2,exterior,4,215.0,1,1,Castellana,salamanca
+299000,planta 1,exterior,1,56.0,1,1,Concepción,ciudad lineal
+675000,planta 1,exterior,2,133.0,1,1,Peñagrande,fuencarral
+1040000,planta 2,exterior,3,153.0,1,0,Cortes,centro
+1340000,planta 1,exterior,3,162.0,1,0,Cortes,centro
+750000,planta 6,exterior,4,149.0,1,0,Ciudad Jardín,chamartin
+1100000,planta 10,exterior,3,202.0,1,1,Legazpi,arganzuela
+915000,planta 4,exterior,3,141.0,1,1,Piovera,hortaleza
+850000,planta 7,exterior,2,71.0,1,0,Arapiles,chamberi
+475000,planta 14,exterior,1,78.0,1,1,Valdeacederas,tetuan
+4900000,planta 8,exterior,3,325.0,1,1,Castellana,salamanca
+1990000,bajo,exterior,5,240.0,1,1,Peñagrande,fuencarral
+629000,planta 2,exterior,4,156.0,1,1,Alameda de Osuna,barajas
+5400000,planta 3,exterior,5,518.0,1,0,Recoletos,salamanca
+3875000,planta 4,exterior,3,305.0,1,1,Recoletos,salamanca
+350000,planta 1,exterior,1,48.0,1,0,Arapiles,chamberi
+3600000,planta 6,interior,5,284.0,1,1,Castellana,salamanca
+699000,planta 1,interior,2,105.0,1,0,Lista,salamanca
+650000,planta 4,exterior,2,75.0,1,0,Sol,centro
+150000,planta 5,exterior,0,20.0,1,0,Palacio,centro
+192000,bajo,exterior,3,80.0,1,0,Aluche,latina
+399000,planta 4,exterior,5,50.0,1,0,Sol,centro
+320000,planta 4,exterior,2,84.0,1,0,Salvador,Salvador
+950000,entreplanta,exterior,4,135.0,1,1,Castellana,salamanca
+1380000,planta 1,exterior,2,133.0,1,0,Goya,salamanca
+178000,planta 3,exterior,1,63.0,1,0,Palomeras Bajas,puente-de-vallecas
+998000,planta 3,exterior,4,235.0,1,1,Valdemarín,moncloa
+340000,planta 1,exterior,3,108.0,1,1,Rejas,san-blas
+520000,planta 6,interior,2,44.0,1,0,Goya,salamanca
+280000,planta 3,exterior,2,77.0,1,0,Valdeacederas,tetuan
+2550000,planta 3,exterior,4,480.0,1,1,Nueva España,chamartin
+169000,planta 2,interior,3,65.0,1,0,Canillejas,san-blas
+2100000,planta 7,exterior,4,205.0,1,1,Almagro,chamberi
+1340000,planta 4,exterior,3,201.0,1,0,Argüelles,moncloa
+1129000,planta 1,exterior,3,103.0,1,1,Goya,salamanca
+818000,planta 3,exterior,2,110.0,1,0,Justicia,centro
+395000,planta 2,exterior,1,70.0,1,0,Sol,centro
+365000,bajo,exterior,3,81.0,1,1,Pilar,fuencarral
+1890000,planta 4,exterior,4,216.0,1,1,Goya,salamanca
+7000000,planta 5,exterior,5,481.0,1,1,Recoletos,salamanca
+365000,planta 4,exterior,1,46.0,1,0,Ríos Rosas,chamberi
+380000,planta 2,interior,0,38.0,1,0,Justicia,centro
+795000,planta 3,exterior,5,254.0,1,1,Ciudad Universitaria,moncloa
+136795,bajo,exterior,1,40.0,1,0,Simancas,san-blas
+220000,planta 1,exterior,2,52.0,1,0,Pinar del Rey,hortaleza
+976000,planta 9,interior,2,142.0,1,1,Vallehermoso,chamberi
+822000,planta 2,exterior,2,97.0,1,1,Atalaya,ciudad lineal
+1420000,planta 8,exterior,2,102.0,1,1,Palacio,centro
+285000,planta 1,interior,2,39.0,1,0,Trafalgar,chamberi
+515000,planta 4,interior,2,125.0,1,1,Cortes,centro
+1389000,bajo,exterior,2,138.0,1,1,Atalaya,ciudad lineal
+189900,planta 4,exterior,0,53.0,1,0,Rejas,san-blas
+2300000,planta 3,exterior,3,229.0,1,0,Justicia,centro
+750000,planta 2,interior,3,119.0,1,0,Gaztambide,chamberi
+840000,planta 1,exterior,3,159.0,1,0,Universidad,centro
+129000,bajo,exterior,2,53.0,1,0,Hellín,san-blas
+570000,planta 3,exterior,3,92.0,1,0,Hispanoamérica,chamartin
+2450000,planta 5,exterior,4,210.0,1,0,Ríos Rosas,chamberi
+850000,planta 2,exterior,2,103.0,1,0,Lista,salamanca
+3250000,planta 2,exterior,4,345.0,1,0,Castellana,salamanca
+820000,planta 3,exterior,2,95.0,1,0,Trafalgar,chamberi
+950000,planta 5,interior,2,83.0,1,0,Lista,salamanca
+360800,planta 3,exterior,2,72.0,1,0,Palos de Moguer,arganzuela
+350000,planta 2,exterior,1,65.0,1,1,Canillas,hortaleza
+1882600,planta 4,exterior,2,139.0,1,1,Almagro,chamberi
+1091400,planta 1,exterior,1,87.0,1,1,Almagro,chamberi
+299000,planta 6,exterior,2,49.0,1,0,Sol,centro
+170000,planta 4,exterior,2,60.0,1,0,Fontarrón,moratalaz
+1847800,planta 3,exterior,2,139.0,1,1,Almagro,chamberi
+299000,planta 6,exterior,3,48.0,1,0,Sol,centro
+229000,planta 2,exterior,2,85.0,1,0,Simancas,san-blas
+895000,planta 9,exterior,3,111.0,1,0,Nueva España,chamartin
+625000,planta 6,exterior,4,164.0,1,1,Acacias,arganzuela
+435000,planta 3,exterior,0,64.0,1,1,Apóstol Santiago,hortaleza
+2100000,planta 4,exterior,5,392.0,1,1,Hispanoamérica,chamartin
+1500000,planta 4,exterior,3,202.0,1,1,El Viso,chamartin
+1650000,planta 6,interior,4,248.0,1,1,Nueva España,chamartin
+730000,planta 1,exterior,2,125.0,1,0,Nueva España,chamartin
+225000,planta 1,exterior,4,88.0,1,0,Pradolongo,usera
+2490000,bajo,exterior,4,593.0,1,1,Nueva España,chamartin
+1495000,planta 1,exterior,4,383.0,1,0,El Viso,chamartin
+239000,planta 1,exterior,3,76.0,1,0,Pueblo Nuevo,ciudad lineal
+1050000,bajo,exterior,5,248.0,1,0,Hispanoamérica,chamartin
+599000,planta 2,exterior,3,163.0,1,1,Valverde,fuencarral
+699000,entreplanta,interior,2,85.0,1,0,Recoletos,salamanca
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan
+849000,planta 2,exterior,3,111.0,1,0,Justicia,centro
+600000,planta 2,exterior,2,120.0,1,0,Goya,salamanca
+1700000,planta 2,exterior,3,214.0,1,0,Cortes,centro
+950000,planta 1,exterior,3,129.0,1,0,Castillejos,tetuan
+235000,bajo,exterior,1,43.0,1,0,Delicias,arganzuela
+169900,planta 1,exterior,3,60.0,1,0,Amposta,san-blas
+179900,planta 3,exterior,2,55.0,1,0,Pueblo Nuevo,ciudad lineal
+155000,planta 4,exterior,3,60.0,1,0,Canillejas,san-blas
+395000,planta 4,interior,2,60.0,1,0,Universidad,centro
+770000,planta 9,exterior,4,142.0,1,1,San Pascual,ciudad lineal
+1179000,planta 5,exterior,2,110.0,1,0,Lista,salamanca
+860000,planta 7,exterior,3,120.0,1,0,Cuatro Caminos,tetuan
+249900,planta 14,exterior,2,70.0,1,0,Ventas,ciudad lineal
+860000,planta 7,exterior,3,120.0,1,0,Cuatro Caminos,tetuan
+160000,planta 1,exterior,2,53.0,1,0,Pueblo Nuevo,ciudad lineal
+1090000,planta 5,exterior,4,208.0,1,0,Cuatro Caminos,tetuan
+1499000,planta 1,exterior,3,170.0,1,0,Castellana,salamanca
+196000,planta 3,exterior,3,77.0,1,0,Comillas,carabanchel
+465000,bajo,exterior,2,165.0,1,0,Pacífico,retiro
+998500,planta 3,exterior,2,185.0,1,1,Guindalera,salamanca
+899000,planta 2,exterior,3,107.0,1,0,Universidad,centro
+1665000,planta 4,exterior,6,257.0,1,0,Justicia,centro
+760000,planta 2,exterior,2,103.0,1,0,Cortes,centro
+4200000,planta 5,exterior,5,457.0,1,1,Almagro,chamberi
+235000,planta 4,interior,1,51.0,1,0,Universidad,centro
+1100000,planta 3,exterior,2,89.0,1,1,Recoletos,salamanca
+195000,bajo,exterior,3,140.0,1,0,San Diego,puente-de-vallecas
+680000,planta 1,exterior,4,164.0,1,1,Valdefuentes,hortaleza
+960000,planta 3,exterior,7,204.0,1,0,Embajadores,centro
+445000,planta 3,exterior,2,127.0,1,1,Corralejos,barajas
+1119000,planta 2,exterior,3,139.0,1,0,Sol,centro
+1200000,planta 3,exterior,2,174.0,1,1,Hispanoamérica,chamartin
+1350000,planta 1,exterior,3,224.0,1,0,Sol,centro
+1845000,planta 2,interior,3,231.0,1,0,Almagro,chamberi
+1000000,planta 9,exterior,3,104.0,1,0,Nueva España,chamartin
+799000,planta 4,exterior,2,97.0,1,0,Universidad,centro
+1498000,planta 6,exterior,3,117.0,1,0,Lista,salamanca
+1419000,bajo,exterior,3,149.0,1,0,Castellana,salamanca
+950000,planta 1,exterior,3,127.0,1,0,Castillejos,tetuan
+2300000,planta 4,exterior,7,214.0,1,1,Castellana,salamanca
+995000,planta 1,exterior,3,215.0,1,1,San Juan Bautista,ciudad lineal
+279900,bajo,exterior,3,77.0,1,0,San Juan Bautista,ciudad lineal
+1175000,planta 4,exterior,5,375.0,1,1,San Juan Bautista,ciudad lineal
+1300000,planta 4,exterior,4,166.0,1,1,Lista,salamanca
+1495000,planta 1,exterior,4,383.0,1,0,El Viso,chamartin
+1050000,bajo,exterior,5,248.0,1,0,Hispanoamérica,chamartin
+203000,planta 2,exterior,2,117.0,1,0,Orcasur,usera
+849000,planta 2,exterior,3,111.0,1,0,Justicia,centro
+1700000,planta 2,exterior,3,214.0,1,0,Cortes,centro
+600000,planta 2,exterior,2,120.0,1,0,Goya,salamanca
+1349000,planta 9,exterior,3,152.0,1,0,Castillejos,tetuan
+235000,planta 4,exterior,1,51.0,1,0,Universidad,centro
+169900,planta 1,exterior,3,60.0,1,0,Amposta,san-blas
+2400000,planta 3,interior,4,206.0,1,0,Almagro,chamberi
+1000000,planta 5,exterior,4,197.0,1,0,Sol,centro
+1800000,planta 10,exterior,5,282.0,1,1,Niño Jesús,retiro
+1700000,planta 6,exterior,3,142.0,1,0,Sol,centro
+1190000,planta 4,exterior,3,170.0,1,0,Sol,centro
+1100000,planta 7,exterior,3,177.0,1,0,Hispanoamérica,chamartin
+2700000,planta 9,exterior,6,422.0,1,1,Vallehermoso,chamberi
+530000,planta 2,exterior,3,120.0,1,0,Cuatro Caminos,tetuan
+550000,bajo,exterior,2,100.0,1,1,Mirasierra,fuencarral
+670000,planta 2,exterior,4,177.0,1,1,Guindalera,salamanca
+875000,planta 3,exterior,4,145.0,1,1,Palacio,centro
+369900,planta 5,exterior,3,80.0,1,0,Concepción,ciudad lineal
+1185000,planta 2,interior,2,90.0,1,0,Goya,salamanca
+252000,bajo,exterior,1,71.0,1,0,Valdeacederas,tetuan
+810000,planta 3,exterior,3,163.0,1,0,Gaztambide,chamberi
+1850000,planta 1,exterior,4,297.0,1,1,Hispanoamérica,chamartin
+2690000,planta 3,exterior,5,270.0,1,1,Almagro,chamberi
+900000,bajo,interior,3,138.0,1,0,Recoletos,salamanca
+239900,bajo,interior,1,42.0,1,0,Delicias,arganzuela
+2280000,planta 6,exterior,4,200.0,1,1,Ríos Rosas,chamberi
+1359000,planta 1,exterior,2,101.0,1,0,Castellana,salamanca
+470000,planta 1,exterior,2,91.0,1,1,Palomas,hortaleza
+1519000,planta 1,exterior,4,211.0,1,0,Justicia,centro
+289000,bajo,exterior,1,52.0,1,0,Imperial,arganzuela
+829000,planta 1,interior,2,76.0,1,1,Recoletos,salamanca
+499000,planta 4,exterior,3,78.0,1,0,Arapiles,chamberi
+520000,planta 6,interior,2,50.0,1,0,Goya,salamanca
+245000,bajo,exterior,1,38.0,1,0,Almagro,chamberi
+820000,planta 3,exterior,2,95.0,1,0,Trafalgar,chamberi
+1160000,planta 4,exterior,4,243.0,1,1,Gaztambide,chamberi
+879000,planta 6,interior,2,87.0,1,0,Castellana,salamanca
+570000,entreplanta,exterior,4,160.0,1,0,Universidad,centro
+1990000,planta 4,interior,3,160.0,1,0,Recoletos,salamanca
+879000,planta 6,interior,2,87.0,1,0,Castellana,salamanca
+468000,planta 2,exterior,4,125.0,1,0,Berruguete,tetuan
+417500,planta 1,exterior,2,96.0,1,0,Valdeacederas,tetuan
+560000,planta 1,exterior,2,70.0,1,0,Argüelles,moncloa
+399000,planta 3,exterior,3,133.0,1,1,Marroquina,moratalaz
+735000,planta 9,exterior,3,125.0,1,1,Costillares,ciudad lineal
+265000,planta 11,exterior,2,74.0,1,0,Costillares,ciudad lineal
+920000,planta 2,exterior,5,210.0,1,0,Argüelles,moncloa
+2300000,planta 4,exterior,7,214.0,1,1,Castellana,salamanca
+2500000,planta 4,exterior,6,399.0,1,1,Arapiles,chamberi
+739000,planta 2,exterior,4,147.0,1,1,Argüelles,moncloa
+1250000,planta 5,exterior,3,150.0,1,0,Arapiles,chamberi
+375000,bajo,exterior,2,60.0,1,0,Argüelles,moncloa
+499000,planta 4,exterior,3,78.0,1,0,Arapiles,chamberi
+1250000,planta 6,exterior,2,120.0,1,0,Almagro,chamberi
+370000,planta 3,exterior,2,85.0,1,1,Rejas,san-blas
+792000,planta 6,exterior,3,160.0,1,1,Costillares,ciudad lineal
+1750000,planta 6,exterior,3,165.0,1,0,Goya,salamanca
+1100000,planta 6,exterior,4,167.0,1,0,Vallehermoso,chamberi
+745000,planta 1,exterior,3,132.0,1,0,Sol,centro
+3600000,planta 3,exterior,5,379.0,1,0,Goya,salamanca
+2850000,casa,interior,5,714.0,0,1,Valdemarín,moncloa
+975000,planta 9,exterior,1,102.0,1,1,Argüelles,moncloa
+4200000,planta 5,exterior,5,457.0,1,1,Almagro,chamberi
+1650000,bajo,exterior,2,181.0,1,1,Nueva España,chamartin
+1380000,planta 4,exterior,3,116.0,1,0,Goya,salamanca
+2350000,planta 2,exterior,4,168.0,1,0,Goya,salamanca
+695000,planta 4,exterior,3,137.0,1,1,Canillas,hortaleza
+1600000,planta 3,interior,4,145.0,1,0,Castellana,salamanca
+229000,planta 1,interior,3,76.0,1,0,Quintana,ciudad lineal
+1560000,planta 1,exterior,4,212.0,1,0,Aravaca,moncloa
+1730000,planta 4,exterior,4,114.0,1,0,Castellana,salamanca
+946500,planta 1,exterior,4,200.0,1,0,Costillares,ciudad lineal
+1300000,planta 3,exterior,3,157.0,1,0,Trafalgar,chamberi
+885000,planta 6,exterior,3,120.0,1,0,Trafalgar,chamberi
+339000,planta 1,exterior,3,128.0,1,0,Valdeacederas,tetuan
+530000,planta 2,exterior,2,72.0,1,0,Ríos Rosas,chamberi
+1850000,planta 4,exterior,3,300.0,1,1,Nueva España,chamartin
+1200000,bajo,interior,2,137.0,1,0,Recoletos,salamanca
+138900,planta 4,exterior,2,61.0,1,0,Amposta,san-blas
+229000,planta 2,exterior,3,107.0,1,0,Bellas Vistas,tetuan
+930000,planta 2,exterior,5,233.0,1,1,Castilla,chamartin
+1489000,bajo,exterior,4,194.0,1,1,Mirasierra,fuencarral
+989000,planta 2,exterior,3,112.0,1,0,Sol,centro
+1150000,planta 1,exterior,3,133.0,1,0,Universidad,centro
+1449120,planta 1,exterior,3,291.0,1,1,Guindalera,salamanca
+470000,planta 7,interior,1,40.0,1,0,Castellana,salamanca
+950000,planta 2,exterior,4,187.0,1,1,Castilla,chamartin
+439000,planta 1,exterior,4,113.0,1,0,La Paz,fuencarral
+490000,bajo,exterior,1,80.0,1,1,Ciudad Universitaria,moncloa
+2350000,planta 1,exterior,4,261.0,1,0,Justicia,centro
+498000,planta 4,interior,3,105.0,1,0,Prosperidad,chamartin
+645000,planta 2,interior,2,74.0,1,0,Justicia,centro
+695000,bajo,exterior,2,262.0,1,0,Embajadores,centro
+629000,planta 2,exterior,5,123.0,1,0,Adelfas,retiro
+1090000,planta 7,exterior,3,168.0,1,1,Valdefuentes,hortaleza
+925000,planta 4,exterior,4,209.0,1,1,Valdefuentes,hortaleza

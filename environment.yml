@@ -1,0 +1,21 @@
+name: housing_project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - mlflow
+  - pyngrok
+  - pip
+  - pip:
+      - ngrok
+      - inflect
+      - pycaret[full]
+      - interpret-community
+

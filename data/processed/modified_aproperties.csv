@@ -1,0 +1,943 @@
+location,id,n_bedrooms,n_bathrooms,HouseType,sq_mt_built,buy_price,built_year,has_storage_room,has_parking,has_terrace,has_fitted_wardrobes
+"Ríos Rosas, Madrid city",VM2407030,1.0,1.0,Flat,34.0,"287,000",,0,0,0,1
+"Recoletos, Madrid city",ONM2407004,,,Building,197.0,"2,917,000",,0,0,1,0
+"Almagro, Madrid city",VM2407031,1.0,1.0,Flat,49.0,"450,000",,1,0,0,0
+"Goya, Madrid city",VM2407032,3.0,4.0,Flat,148.0,"2,500,000",,1,0,0,0
+"Castellana, Madrid city",VM2407024,2.0,2.0,Flat,101.0,"1,359,000",,0,0,0,0
+"Recoletos, Madrid city",VM2407026,2.0,2.0,Flat,76.0,"829,000",,0,1,0,0
+"Trafalgar, Madrid city",VM2407025,2.0,2.0,Flat,96.0,"820,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2407027,3.0,,Flat,177.0,"1,100,000",,0,0,1,0
+"Universidad, Madrid city",VM2407028,1.0,1.0,Flat,51.0,"390,000",,0,0,0,0
+"Universidad, Madrid city",ONM2407003,,,Building,115.0,"505,000",,0,0,1,0
+"Justicia, Madrid city",VM2407033,4.0,3.0,Flat,180.0,"1,060,000",,1,0,0,0
+"El Viso, Madrid city",VM2407021,4.0,4.0,Flat,234.0,"1,400,000",,0,0,0,0
+"El Viso, Madrid city",VM2407023,5.0,4.0,Apartment,366.0,"2,650,000",,1,1,0,0
+"Fresno Norte, Madrid Norte",VMN2407002,5.0,5.0,House,639.0,"1,795,000",,1,1,1,1
+"Bonanza, Madrid Noroeste",VMO2407002,4.0,3.0,Villa,343.0,"995,000",197.0,0,0,1,0
+"Hispanoamérica, Madrid city",VM2407020,2.0,2.0,Flat,174.0,"1,200,000",,0,0,0,0
+"Monte del Pilar, Madrid Noroeste",VMO2407003,3.0,4.0,House,190.0,"1,050,000",,0,0,1,0
+"Guindalera, Madrid city",VM2407017,4.0,3.0,Flat,219.0,"835,000",,0,0,1,0
+"Polígono Industrial Norte, Madrid Norte",ONM2407002,,,Building,57.5,"185,000",,0,1,1,0
+"Lista, Madrid city",VM2407018,3.0,2.0,Flat,123.0,"1,250,000",,0,0,0,0
+"Lista, Madrid city",VM2407019,2.0,2.0,Flat,67.0,"635,000",,0,0,0,0
+"Embajadores, Madrid city",VM2407022,1.0,1.0,Flat,87.0,"580,000",,0,0,1,1
+"Universidad, Madrid city",VM2407012,3.0,3.0,Flat,128.0,"990,000",,0,0,0,0
+"Almagro, Madrid city",VM2407013,3.0,4.0,Flat,176.0,"2,270,000",,0,0,0,1
+"Prosperidad, Madrid city",VM2407015,2.0,1.0,Flat,65.0,"360,000",,0,0,0,0
+"Castellana, Madrid city",VM2407014,3.0,3.0,Flat,170.0,"1,499,000",,1,1,0,1
+"Trafalgar, Madrid city",VM2407006,3.0,2.0,House,115.0,"1,050,000",,0,0,1,0
+"Arturo Soria, Madrid city",ONM2407001,,,Building,102.0,"542,000",,0,0,1,0
+"Lista, Madrid city",VM2407007,2.0,2.0,Flat,90.0,"875,000",,0,0,1,1
+"Gaztambide, Madrid city",VM2407009,4.0,3.0,Flat,207.0,"1,300,000",,1,0,1,0
+"Hispanoamérica, Madrid city",VM2407010,3.0,2.0,Flat,92.0,"600,000",,0,0,0,0
+"Goya, Madrid city",VM2407011,2.0,1.0,Flat,43.0,"520,000",,0,0,0,0
+"Recoletos, Madrid city",VM2407002,3.0,4.0,Flat,305.0,"5,500,000",,1,0,0,0
+"Goya, Madrid city",VM2407004,2.0,3.0,Flat,114.0,"1,480,000",,0,0,0,0
+"El Espinar, Madrid Noroeste",VMO2407001,4.0,6.0,Flat,963.0,"2,500,000",,1,0,1,0
+"Cuatro Caminos, Madrid city",VM2407005,4.0,3.0,Flat,248.0,"1,290,000",,0,0,0,0
+"Ibiza, Madrid city",VM2406088,3.0,2.0,Flat,117.0,"960,000",,0,0,0,0
+"Almagro, Madrid city",VM2406087,2.0,2.0,Flat,148.0,"1,000,000",,0,0,0,0
+Ávila,VMO2406022,2.0,2.0,House,550.0,"530,000",,0,1,0,0
+"Aravaca, Madrid Noroeste",ONM2203003,,,New development,548.5,"3,800,000",,0,1,0,0
+"Prosperidad, Madrid city",VM2406084,1.0,1.0,Flat,47.0,"379,000",,0,0,0,0
+"Zona Avenida de Europa, Madrid Noroeste",VMO2406020,4.0,3.0,Duplex,183.0,"1,320,000",,1,1,1,0
+"Trafalgar, Madrid city",VM2406085,3.0,3.0,Flat,184.0,"1,990,000",,0,0,0,1
+"Majadahonda, Madrid Noroeste",VMO2406021,5.0,5.0,House,639.0,"2,074,900",,0,0,0,0
+"Palomas, Madrid Norte",VMN2407001,5.0,6.0,House,233.0,"1,250,000",,0,1,0,1
+"Jerónimos, Madrid city",VM2406077,4.0,4.0,Flat,254.0,"3,500,000",,0,0,0,0
+"Goya, Madrid city",VM2406078,4.0,4.0,Flat,179.0,"1,800,000",,0,0,1,0
+"Villanueva de la Cañada, Madrid Noroeste",VMO2406016,4.0,3.0,House,365.0,"669,000",,0,0,0,0
+"Trafalgar, Madrid city",VM2406079,2.0,2.0,Flat,87.0,"650,000",,0,1,0,0
+"La Berzosilla, Madrid Noroeste",VMO2406017,5.0,6.0,House,639.0,"1,299,000",,0,0,1,0
+"Fresno Norte, Madrid Norte",VMN2406007,9.0,6.0,House,455.0,"1,700,000",,0,0,1,0
+"Recoletos, Madrid city",VM2406080,2.0,3.0,Duplex,115.0,"1,349,000",,0,0,1,0
+"Cortes, Madrid city",VM2406081,2.0,2.0,Flat,130.0,"1,000,000",,0,0,0,0
+"Almagro, Madrid city",VM2406082,4.0,5.0,Flat,283.0,"3,600,000",,1,0,0,0
+"Ventilla, Madrid city",VM2406083,3.0,1.0,Flat,80.0,"265,000",,0,0,0,0
+"La Florida, Madrid Noroeste",VMO2406019,12.0,6.0,House,605.0,"2,100,000",,0,0,0,0
+"La Florida, Madrid Noroeste",VMO2406018,,,Land,,"1,900,000",,0,0,0,0
+"Acacias, Madrid city",VM2406071,3.0,2.0,Flat,111.0,"535,000",,1,0,1,0
+"Cortes, Madrid city",VM2406072,1.0,1.0,Flat,89.0,"820,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2406073,4.0,3.0,House,135.0,"1,290,000",,0,0,1,0
+"Goya, Madrid city",VM2406075,2.0,3.0,Flat,175.0,"2,012,500",,0,0,0,0
+"Fuente del Berro, Madrid city",VM2406070,2.0,2.0,Flat,78.0,"475,000",,0,0,1,0
+"Zona Norte, Madrid Noroeste",VMO2406014,7.0,5.0,House,433.0,"1,150,000",,1,0,0,1
+"Sector B, Madrid Noroeste",VMO2406015,5.0,6.0,House,302.0,"989,000",,1,0,1,0
+"Recoletos, Madrid city",VM2406069,4.0,5.0,Flat,509.0,"9,800,000",,0,1,1,0
+"Valdefuentes, Madrid Norte",VMN2406005,4.0,4.0,Flat,209.0,"925,000",,1,1,1,1
+"Valdefuentes, Madrid Norte",VMN2406006,3.0,2.0,Flat,115.0,"640,000",201.0,0,1,1,1
+"Guindalera, Madrid city",VM2406066,2.0,1.0,Flat,97.0,"540,000",,0,0,1,0
+"Ciudalcampo, Madrid Norte",VMN2406003,6.0,5.0,House,497.0,"1,950,000",,1,1,0,1
+"Canillejas, Madrid city",ONM2406007,,,Building,48.0,"288,650",,1,1,1,0
+"Piovera, Madrid Norte",VMN2406004,7.0,7.0,House,876.0,"4,200,000",,1,0,0,0
+"Palacio, Madrid city",VM2406058,1.0,1.0,Flat,51.0,"349,000",,0,0,0,0
+"Jerónimos, Madrid city",VM2406059,3.0,3.0,Flat,86.0,"1,180,000",,1,0,0,0
+"Ríos Rosas, Madrid city",VM2406061,1.0,1.0,Flat,54.0,"378,000",,1,0,0,0
+"Universidad, Madrid city",VM2406062,1.0,1.0,Flat,80.0,"450,000",,0,0,0,0
+"Castellana, Madrid city",VM2406063,2.0,3.0,Flat,110.0,"1,179,000",,0,0,0,0
+"Lista, Madrid city",VM2406064,2.0,3.0,Flat,103.0,"1,129,000",,0,0,0,0
+"Parque Boadilla, Madrid Noroeste",VMO2406010,4.0,4.0,House,452.0,"1,140,000",201.0,0,0,1,0
+"Estrella, Madrid city",VM2406050,2.0,,Flat,85.0,"740,000",196.0,0,0,0,0
+"Ríos Rosas, Madrid city",VM2406051,4.0,2.0,Flat,161.0,"1,200,000",,0,0,0,0
+"Universidad, Madrid city",VM2406052,2.0,1.0,House,47.0,"395,000",,0,1,1,0
+"Hispanoamérica, Madrid city",VM2406054,4.0,3.0,Flat,383.0,"1,495,000",,1,0,1,0
+"El Olivar de Mirabal, Madrid Noroeste",VMO2406011,5.0,5.0,House,350.0,"900,000",,0,0,0,0
+"Las Lomas, Madrid Noroeste",VMO2406012,6.0,10.0,House,600.0,"1,525,000",,1,0,1,0
+"El Olivar de Mirabal, Madrid Noroeste",VMO2406013,4.0,3.0,House,367.0,"1,050,000",,0,0,0,0
+"Cortes, Madrid city",VM2406055,7.0,3.0,Flat,190.0,"850,000",,0,0,0,0
+"Castellana, Madrid city",VM2406056,1.0,1.0,Flat,40.0,"470,000",,0,0,1,0
+"Ibiza, Madrid city",VM2406057,3.0,3.0,Flat,125.0,"1,275,000",,0,0,0,1
+"Gaztambide, Madrid city",VM2406065,3.0,3.0,Flat,217.0,"1,450,000",,0,0,0,1
+"Justicia, Madrid city",VM2406049,4.0,4.0,Flat,239.0,"2,200,000",,0,0,0,0
+"Universidad, Madrid city",VM2406053,1.0,2.0,Flat,83.0,"720,000",,0,0,0,1
+"Castellana, Madrid city",VM2406043,5.0,4.0,Flat,273.0,"2,800,000",,1,1,0,0
+"Recoletos, Madrid city",VM2406044,2.0,3.0,Flat,151.0,"1,550,000",,0,0,0,1
+"Almagro, Madrid city",ONM2406005,,,Building,117.0,"547,350",,0,0,1,0
+"Trafalgar, Madrid city",ONM2406006,,,Building,207.5,"790,000",,1,1,1,0
+"Estrella, Madrid city",VM2406045,3.0,2.0,Flat,95.0,"790,000",,0,0,0,0
+"Pacífico, Madrid city",VM2406046,3.0,2.0,Flat,103.0,"550,000",,0,1,1,0
+"Ibiza, Madrid city",VM2406037,3.0,4.0,Flat,132.0,"1,490,000",,0,0,0,1
+"Lista, Madrid city",VM2406038,3.0,3.0,Flat,191.0,"2,400,000",199.0,0,1,0,0
+"Fuente del Berro, Madrid city",VM2406039,6.0,6.0,House,350.0,"2,550,000",,0,0,0,0
+"Las Lomas, Madrid Noroeste",VMO2406008,4.0,5.0,Flat,670.0,"1,599,000",,0,0,0,0
+"Monteclaro, Madrid Noroeste",VMO2406006,4.0,4.0,Flat,519.0,"2,100,000",,0,1,1,0
+"Zona Estación, Madrid Noroeste",VMO2406007,5.0,2.0,House,204.0,"899,000",,0,1,1,0
+"Ciudad Jardín, Madrid city",VM2406028,2.0,2.0,Flat,106.0,"650,000",,0,0,1,0
+"Cuatro Caminos, Madrid city",VM2406031,3.0,2.0,Flat,128.0,"1,287,500",,0,0,0,0
+"Cuatro Caminos, Madrid city",VM2406032,3.0,3.0,Flat,121.0,"1,251,450",,0,0,1,0
+"Cuatro Caminos, Madrid city",VM2406033,2.0,2.0,Flat,95.0,"925,970",,0,0,1,1
+"Ibiza, Madrid city",VM2406034,2.0,2.0,Flat,101.0,"1,150,000",,0,0,0,0
+"Lista, Madrid city",VM2406036,3.0,3.0,Flat,214.0,"1,985,000",,1,1,0,0
+"Las Lomas, Madrid Noroeste",VMO2406005,8.0,8.0,House,,"4,500,000",,1,1,1,1
+"Argüelles, Madrid city",VM2406026,1.0,1.0,Flat,73.0,"445,000",,0,0,0,0
+"Justicia, Madrid city",VM2406027,5.0,2.0,Flat,251.0,"1,990,000",,0,0,0,0
+Guadalix de la Sierra,VMO2406004,4.0,3.0,House,317.0,"749,000",,0,0,1,1
+"Ríos Rosas, Madrid city",VM2406024,3.0,2.0,Flat,126.0,"900,000",197.0,0,1,1,0
+"Universidad, Madrid city",VM2406025,2.0,2.0,House,137.0,"3,100,000",,0,0,1,1
+"Ríos Rosas, Madrid city",VM2406021,2.0,2.0,Flat,112.0,"890,000",,0,0,1,0
+"Ibiza, Madrid city",VM2406014,3.0,2.0,Flat,155.0,"1,435,000",,1,0,1,0
+"Lista, Madrid city",VM2406017,4.0,4.0,House,250.0,"2,750,000",,0,0,1,1
+"Recoletos, Madrid city",VM2406018,3.0,4.0,Flat,265.0,"4,000,000",,0,0,0,1
+"Nueva España, Madrid city",VM2406019,4.0,4.0,House,692.0,"4,500,000",,0,0,0,0
+"Almagro, Madrid city",VM2406020,5.0,6.0,Flat,248.0,"3,695,000",,0,0,0,1
+"Delicias, Madrid city",VM2406022,3.0,2.0,Flat,150.0,"1,500,000",,0,1,1,1
+"Somosaguas, Madrid Noroeste",VMO2406003,5.0,5.0,House,331.0,"1,250,000",,0,0,1,0
+"Goya, Madrid city",VM2406007,2.0,2.0,Flat,112.0,"935,000",,0,0,0,1
+"Lavapiés, Madrid city",VM2406008,4.0,2.0,Flat,99.0,"535,000",,0,0,0,0
+"Monte Alina, Madrid Noroeste",VMO2406002,6.0,6.0,House,818.0,"3,500,000",,0,1,0,0
+"Recoletos, Madrid city",VM2406009,3.0,5.0,Flat,305.0,"3,875,000",,1,1,1,0
+"Trafalgar, Madrid city",VM2406010,,1.0,Flat,70.0,"385,000",,0,1,0,0
+"Recoletos, Madrid city",VM2406011,2.0,2.0,Flat,114.0,"1,830,000",,1,1,0,1
+"Castellana, Madrid city",VM2406013,3.0,4.0,Flat,149.0,"1,419,000",,0,0,0,0
+"Arapiles, Madrid city",VM2406004,1.0,1.0,Flat,40.0,"260,000",,0,0,0,1
+"Hispanoamérica, Madrid city",VM2406001,2.0,1.0,Flat,92.0,"490,000",,1,0,0,0
+"Encinar de los Reyes, Madrid Norte",VMN2406001,3.0,3.0,House,233.0,"1,195,000",,1,1,1,0
+"Recoletos, Madrid city",VM2406012,3.0,4.0,Flat,239.0,"4,900,000",,1,1,0,0
+"Hispanoamérica, Madrid city",VM2405081,1.0,1.0,Flat,55.0,"425,000",,0,0,0,1
+"Golf, Madrid Noroeste",VMO2405008,3.0,2.0,Flat,142.0,"725,000",,1,1,0,0
+"Nueva España, Madrid city",VM2405082,4.0,5.0,Flat,212.0,"1,780,000",,0,0,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2405004,4.0,5.0,House,250.0,"1,580,000",,0,1,1,0
+"Punta Galea, Madrid Noroeste",VMO2406009,4.0,4.0,House,300.0,"865,000",,1,1,0,1
+"Cortes, Madrid city",VM2405074,3.0,3.0,Flat,124.0,"690,000",,0,0,0,0
+"Somosaguas, Madrid Noroeste",VMO2405006,4.0,5.0,Flat,311.0,"2,350,000",,1,1,1,0
+"Lista, Madrid city",VM2405076,3.0,2.0,Flat,146.0,"1,350,000",,0,0,0,1
+"Universidad, Madrid city",VM2405078,4.0,5.0,Flat,211.0,"1,519,000",,0,0,0,0
+"Justicia, Madrid city",VM2405079,3.0,2.0,Flat,150.0,"1,700,000",,0,0,0,0
+"Almagro, Madrid city",VM2405080,2.0,2.0,Flat,110.0,"1,290,000",,0,0,0,0
+"Castilla, Madrid city",VM2405069,3.0,2.0,Flat,155.0,"950,000",,0,0,1,0
+"Ibiza, Madrid city",VM2405070,3.0,4.0,Flat,166.0,"1,990,000",,0,0,1,1
+"Cuzco, Madrid city",VM2405066,6.0,2.0,Flat,243.0,"1,432,000",,0,0,1,1
+"Lista, Madrid city",VM2405067,3.0,4.0,Flat,204.0,"2,250,000",,0,1,0,1
+"Acacias, Madrid city",VM2405068,3.0,2.0,Flat,94.0,"500,000",,0,1,1,1
+"El Olivar de Mirabal, Madrid Noroeste",ONM2405002,,,Building,385.0,"995,000",,1,1,1,1
+"Recoletos, Madrid city",VM2405060,3.0,4.0,Flat,209.0,"2,900,000",,0,0,1,0
+"Justicia, Madrid city",VM2405061,3.0,4.0,Flat,141.0,"1,100,000",,0,0,0,0
+"Lavapiés, Madrid city",VM2405063,1.0,2.0,Flat,156.0,"950,000",,0,0,0,0
+"Sol, Madrid city",VM2405064,1.0,1.0,Flat,70.0,"410,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2405065,5.0,4.0,Flat,280.0,"1,850,000",,0,0,0,0
+"Recoletos, Madrid city",VM2405055,3.0,4.0,Flat,153.0,"2,450,000",,1,0,0,0
+"Sol, Madrid city",VM2405056,3.0,2.0,Flat,224.0,"1,350,000",,0,0,0,0
+"Trafalgar, Madrid city",VM2405057,2.0,2.0,Flat,98.0,"817,000",,1,0,0,1
+"Castellana, Madrid city",VM2405059,4.0,2.0,Flat,145.0,"1,600,000",,0,0,0,0
+"Lista, Madrid city",VM2405062,2.0,2.0,Flat,89.0,"1,200,000",,0,0,0,1
+"Arapiles, Madrid city",VM2405047,1.0,1.0,Flat,68.0,"400,000",,0,0,0,1
+"Universidad, Madrid city",VM2405048,2.0,2.0,Flat,53.0,"420,000",,0,0,0,1
+"Zona Pueblo, Madrid Noroeste",VMO2405005,6.0,5.0,House,287.0,"760,000",,1,0,1,1
+"Universidad, Madrid city",VM2405049,2.0,1.0,Flat,91.0,"750,000",,0,0,0,0
+"Recoletos, Madrid city",VM2405050,2.0,2.0,Flat,96.0,"990,000",,0,0,0,0
+"Universidad, Madrid city",VM2405051,3.0,4.0,Flat,362.0,"3,650,000",,0,0,0,0
+"Fuente del Berro, Madrid city",VM2405053,3.0,3.0,Flat,152.0,"1,080,000",,0,0,0,1
+"Ríos Rosas, Madrid city",VM2405041,1.0,1.0,Flat,30.0,"360,000",,0,0,0,1
+"Arapiles, Madrid city",VM2405042,4.0,5.0,Flat,298.0,"1,950,000",194.0,0,0,0,0
+"Universidad, Madrid city",VM2405043,2.0,1.0,Flat,41.0,"255,000",,0,0,0,0
+"Cortes, Madrid city",VM2405037,6.0,1.0,Flat,141.0,"653,000",,0,0,0,0
+"Goya, Madrid city",VM2405035,3.0,2.0,Flat,94.0,"850,000",,0,0,1,0
+"Goya, Madrid city",VM2405036,2.0,3.0,Flat,133.0,"1,380,000",,0,1,0,1
+"Jerónimos, Madrid city",VM2405039,3.0,1.0,Flat,67.0,"410,000",,0,0,0,0
+"Peñagrande, Madrid city",VM2405032,5.0,4.0,House,527.0,"1,845,000",,1,0,1,1
+"Aravaca, Madrid Noroeste",VMO2405003,3.0,3.0,Flat,229.0,"1,045,000",,0,1,0,0
+"Recoletos, Madrid city",VM2405026,2.0,2.0,Flat,114.0,"1,850,000",,0,0,0,0
+"Almagro, Madrid city",VM2405029,3.0,3.0,Flat,155.0,"1,750,000",,1,1,1,0
+"Recoletos, Madrid city",VM2405030,3.0,4.0,Flat,323.0,"5,450,000",,0,0,1,0
+"Almagro, Madrid city",VM2405031,3.0,4.0,Flat,200.0,"2,125,000",,0,0,0,0
+"Fuente del Berro, Madrid city",VM2405033,3.0,2.0,Flat,95.0,"849,000",,0,0,1,1
+"Goya, Madrid city",VM2405019,3.0,3.0,House,187.0,"1,990,000",,0,0,1,0
+"Palacio, Madrid city",VM2405021,2.0,3.0,Flat,151.0,"1,189,000",,0,0,0,0
+"Lista, Madrid city",VM2405023,4.0,4.0,Flat,244.0,"1,740,000",,0,1,0,0
+"Justicia, Madrid city",VM2405025,1.0,2.0,Flat,73.0,"780,000",,0,0,0,0
+"Arapiles, Madrid city",VM2405015,4.0,6.0,Flat,252.0,"2,300,000",,1,0,1,1
+"Valdefuentes, Madrid Norte",ONM2405001,,,Lofts,,"188,800",,0,0,0,0
+"Zona Pueblo, Madrid Noroeste",VMO2405001,,,Land,513.0,"850,000",,0,0,0,0
+"Las Lomas, Madrid Noroeste",VMO2405002,8.0,8.0,House,561.0,"1,575,000",199.0,0,1,0,1
+"Guindalera, Madrid city",VM2405011,2.0,2.0,Flat,86.0,"719,000",,0,0,0,0
+"Recoletos, Madrid city",VM2405012,4.0,4.0,Flat,349.0,"4,537,000",,1,0,0,0
+"Palacio, Madrid city",VM2405013,2.0,2.0,Duplex,138.0,"1,250,000",,0,0,1,0
+"Goya, Madrid city",VM2405007,1.0,1.0,Flat,54.0,"385,000",,0,0,1,0
+"Prosperidad, Madrid city",VM2405008,1.0,2.0,Flat,123.0,"899,000",,1,1,1,1
+"Castellana, Madrid city",VM2405005,4.0,5.0,Flat,272.0,"3,150,000",,0,1,0,0
+"Los Satélites, Madrid Noroeste",VMO2404014,3.0,3.0,Duplex,261.0,"995,000",,1,1,1,0
+"Goya, Madrid city",VM2405004,3.0,4.0,Flat,165.0,"1,490,000",,0,0,0,1
+"Castellana, Madrid city",VM2405001,5.0,5.0,Flat,277.0,"3,400,000",,0,0,1,0
+Nuevo Baztán,VMN2405001,5.0,7.0,House,552.0,"900,000",,0,0,1,1
+"Almagro, Madrid city",VM2405003,4.0,4.0,Flat,383.0,"3,700,000",,0,1,0,1
+"Justicia, Madrid city",VM2404086,1.0,1.0,Flat,133.0,"580,000",,0,0,0,0
+"Club de Golf, Madrid Noroeste",VMO2404013,6.0,7.0,House,335.0,"2,150,000",,0,0,0,0
+"Zona Pueblo, Madrid Noroeste",VMO2404012,5.0,5.0,House,286.0,"1,150,000",,0,0,1,0
+"Fresno Norte, Madrid Norte",VMN2404018,6.0,5.0,House,483.0,"1,200,000",,1,0,0,0
+"Zona Estación, Madrid Noroeste",VMO2404011,5.0,4.0,House,378.0,"1,050,000",200.0,0,0,0,0
+"Ciudalcampo, Madrid Norte",VMN2404019,5.0,5.0,House,480.0,"2,350,000",,1,1,0,0
+"Recoletos, Madrid city",VM2404078,3.0,2.0,Flat,124.0,"2,100,000",,0,0,0,1
+"Fresno Norte, Madrid Norte",VMN2404016,7.0,5.0,House,404.0,"1,495,000",,0,0,0,0
+"Goya, Madrid city",VM2404079,2.0,2.0,Flat,77.0,"799,000",,0,0,1,0
+"Prosperidad, Madrid city",VM2404083,3.0,1.0,Flat,92.0,"475,000",,0,0,0,1
+"Arturo Soria, Madrid Norte",VMN2404017,6.0,5.0,Flat,408.0,"2,200,000",,1,1,1,0
+"Goya, Madrid city",VM2404073,2.0,2.0,Flat,220.0,"1,950,000",,0,0,0,1
+"Niño Jesús, Madrid city",VM2404074,4.0,3.0,Flat,200.0,"890,000",,0,1,0,1
+"Trafalgar, Madrid city",VM2404077,3.0,2.0,Flat,111.0,"955,000",,0,0,0,0
+"Encinar de los Reyes, Madrid Norte",VMN2404015,4.0,3.0,House,320.0,"1,360,000",,0,1,1,1
+"Guindalera, Madrid city",VM2404070,2.0,2.0,Flat,117.0,"550,000",,0,0,0,1
+"Acacias, Madrid city",VM2404071,2.0,2.0,Flat,109.0,"675,000",,1,1,0,1
+"Valdeacederas, Madrid city",ONM2404003,3.0,3.0,House,284.0,"1,700,000",,1,1,1,0
+"Piovera, Madrid Norte",VMN2404013,7.0,5.0,House,380.0,"2,350,000",,0,1,1,0
+Guadalix de la Sierra,VMN2404010,,,Land,,"400,000",,0,0,0,0
+"Universidad, Madrid city",VM2404062,3.0,3.0,Flat,260.0,"1,695,000",,0,0,1,0
+"Universidad, Madrid city",VM2404063,2.0,2.0,Flat,141.0,"1,200,000",,0,0,0,0
+"Aravaca, Madrid Noroeste",VMO2404008,6.0,7.0,House,480.0,"1,800,000",200.0,1,0,1,0
+"Parque Boadilla, Madrid Noroeste",VMO2404006,5.0,4.0,House,371.0,"1,050,000",202.0,0,0,1,1
+"Universidad, Madrid city",VM2404060,2.0,1.0,Flat,60.0,"395,000",,1,0,0,0
+Fuente el Saz de Jarama,VMN2404009,,,Land,,"300,000",,0,0,0,0
+"Sol, Madrid city",VM2404048,2.0,2.0,Flat,72.0,"1,049,000",,0,0,0,0
+"Justicia, Madrid city",VM2404052,1.0,1.0,Flat,33.0,"350,000",,0,0,0,0
+"Castellana, Madrid city",VM2404054,3.0,3.0,Flat,162.0,"1,649,000",,0,0,0,0
+"Palacio, Madrid city",VM2404057,1.0,1.0,Flat,37.0,"310,000",,0,0,0,0
+"Goya, Madrid city",VM2405054,2.0,2.0,Flat,80.0,"849,000",,0,0,0,1
+"Recoletos, Madrid city",VM2404043,4.0,5.0,Flat,311.0,"4,990,000",,0,0,0,0
+"Goya, Madrid city",VM2404044,3.0,2.0,Flat,125.0,"1,190,000",,0,0,1,0
+"Castellana, Madrid city",VM2404045,3.0,2.0,Flat,84.0,"810,000",,0,0,0,0
+"Justicia, Madrid city",VM2404046,2.0,2.0,Flat,85.0,"630,000",,0,0,0,0
+"Justicia, Madrid city",VM2404047,2.0,2.0,Flat,109.0,"818,000",,0,0,0,0
+"Justicia, Madrid city",VM2404040,3.0,4.0,Flat,235.0,"2,490,000",,0,0,0,1
+"Hispanoamérica, Madrid city",VM2404041,3.0,4.0,Flat,220.0,"1,850,000",,0,1,0,0
+"Castellana, Madrid city",VM2404050,4.0,5.0,Flat,244.0,"2,950,000",,1,0,0,1
+"Palos de Moguer, Madrid city",ONM2404002,,,Building,87.0,"597,000",,1,0,1,0
+"Guindalera, Madrid city",VM2404038,2.0,2.0,Flat,102.0,"860,000",197.0,0,1,1,0
+"Lista, Madrid city",VM2404031,2.0,2.0,Flat,90.0,"1,150,000",,0,0,1,0
+"Argüelles, Madrid city",VM2404033,3.0,2.0,Flat,141.0,"975,000",,1,0,0,1
+"El Viso, Madrid city",VM2404034,9.0,5.0,House,461.0,"3,900,000",,0,0,0,0
+"Lista, Madrid city",VM2404035,2.0,2.0,Flat,72.0,"679,000",,0,0,0,0
+"Castellana, Madrid city",VM2404025,5.0,5.0,Flat,284.0,"3,600,000",,1,1,1,1
+"Recoletos, Madrid city",VM2404026,3.0,4.0,Flat,219.0,"4,150,000",,1,0,0,1
+Nuevo Baztán,VMN2404006,7.0,7.0,House,820.0,"1,580,000",,1,1,0,0
+"Monte Alina, Madrid Noroeste",VMO2404004,7.0,7.0,House,986.0,"2,450,000",,0,0,1,0
+"Recoletos, Madrid city",VM2404021,4.0,4.0,Flat,292.0,"5,550,000",,1,0,0,0
+"Goya, Madrid city",VM2404017,5.0,5.0,Flat,379.0,"3,600,000",,1,0,1,0
+"Almagro, Madrid city",VM2404012,3.0,4.0,Flat,281.0,"2,945,000",,0,1,1,0
+"El Cantizal, Madrid Noroeste",VMO2404002,6.0,4.0,House,477.0,"1,392,000",,1,0,1,1
+"Montecillo, Madrid Noroeste",VMO2404003,6.0,5.0,House,470.0,"1,250,000",,0,0,1,0
+"Recoletos, Madrid city",VM2404014,4.0,5.0,Flat,471.0,"7,500,000",,0,0,0,0
+"Palomas, Madrid Norte",VMN2404001,6.0,5.0,House,230.0,"1,300,000",,0,0,1,0
+"Justicia, Madrid city",VM2404008,2.0,2.0,Flat,104.0,"1,230,000",,0,0,0,0
+"Mirasierra, Madrid Norte",VMN2404003,4.0,5.0,House,285.0,"1,550,000",,0,0,0,0
+"Jerónimos, Madrid city",VM2404003,3.0,4.0,Flat,185.0,"985,000",,0,1,1,0
+"Recoletos, Madrid city",VM2404002,3.0,2.0,Flat,134.0,"2,195,000",,0,0,0,0
+"Castellana, Madrid city",VM2404006,5.0,2.0,Flat,231.0,"2,550,000",,0,0,0,0
+"Villafranca del castillo, Madrid Noroeste",VMO2403017,8.0,9.0,House,750.0,"1,325,000",198.0,1,0,0,0
+"Sanchinarro, Madrid Norte",VMN2403009,4.0,3.0,Flat,169.0,"680,000",,0,1,0,0
+"Santo Domingo, Madrid Norte",VMN2403008,5.0,4.0,Villa,300.0,"995,000",198.0,1,1,1,0
+"Zona Estación, Madrid Noroeste",VMO2403015,5.0,5.0,House,358.0,"1,150,000",,0,0,1,0
+"Universidad, Madrid city",VM2403085,3.0,2.0,Flat,75.0,"435,000",,0,0,1,0
+"Justicia, Madrid city",VM2403086,6.0,,Flat,257.0,"1,665,000",,0,0,0,0
+"Ibiza, Madrid city",VM2403087,3.0,2.0,House,94.0,"1,030,000",,0,0,1,0
+"Cuatro Caminos, Madrid city",VM2403089,4.0,2.0,House,477.0,"1,395,000",,0,0,0,0
+"Guindalera, Madrid city",ONM2403004,,,New development,262.5,"998,500",,0,0,0,0
+"Fuente del Berro, Madrid city",VM2403075,8.0,3.0,House,207.0,"1,350,000",,0,0,0,0
+"Goya, Madrid city",VM2403076,3.0,3.0,House,142.0,"1,990,000",,0,0,1,0
+"Niño Jesús, Madrid city",VM2403077,4.0,4.0,Flat,248.0,"2,200,000",,0,1,0,0
+"Trafalgar, Madrid city",VM2403069,2.0,2.0,Flat,94.0,"839,000",,0,0,0,0
+"Trafalgar, Madrid city",VM2403070,2.0,2.0,Flat,94.0,"839,000",,0,0,0,0
+"Lavapiés, Madrid city",VM2403072,1.0,1.0,Flat,71.0,"375,000",,0,0,0,0
+"Valdemarín, Madrid Noroeste",ONM2403003,,,Villa,418.5,"2,184,000",,0,0,1,0
+"Sol, Madrid city",VM2403064,5.0,5.0,Flat,448.0,"4,200,000",,0,0,0,0
+"Goya, Madrid city",VM2403068,3.0,4.0,Flat,132.0,"1,430,000",,0,0,0,1
+Fuente el Saz de Jarama,VMN2403007,5.0,2.0,House,474.0,"1,150,000",,0,0,1,1
+"Goya, Madrid city",VM2403059,3.0,3.0,Flat,145.0,"1,350,000",,0,0,0,1
+"Almagro, Madrid city",VM2403060,2.0,2.0,House,71.0,"1,250,000",,0,1,1,0
+"Ciudalcampo, Madrid Norte",VMN2403006,9.0,6.0,House,545.0,"1,125,000",,0,1,0,0
+"Recoletos, Madrid city",VM2403061,4.0,5.0,Flat,300.0,"5,490,000",,0,0,0,1
+"Carretera el Plantio, Madrid Noroeste",VMO2403013,6.0,5.0,Duplex,390.0,"1,150,000",,1,1,1,0
+"Somosaguas, Madrid Noroeste",VMO2403011,5.0,5.0,House,336.0,"1,550,000",,1,1,0,0
+"Goya, Madrid city",VM2403052,3.0,3.0,Flat,182.0,"1,870,000",,1,0,0,0
+"Justicia, Madrid city",VM2403050,2.0,2.0,Flat,170.0,"1,950,000",,0,0,0,1
+"Valdemarín, Madrid Noroeste",ONM2403002,,,Villa,680.0,"4,300,000",,0,0,0,0
+"El Viso, Madrid city",VM2403051,10.0,8.0,House,995.0,"10,000,000",,0,0,1,0
+"Justicia, Madrid city",VM2403041,1.0,2.0,Flat,65.0,"530,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2403043,1.0,1.0,Flat,82.0,"595,000",,0,0,0,0
+"Castellana, Madrid city",VM2403042,4.0,5.0,Flat,488.0,"5,000,000",,0,0,0,0
+"Castellana, Madrid city",VM2403046,4.0,5.0,Flat,584.0,"7,000,000",,1,0,0,0
+"Recoletos, Madrid city",VM2403031,5.0,3.0,Flat,518.0,"5,400,000",,0,0,0,0
+"Goya, Madrid city",VM2403034,3.0,4.0,Flat,206.0,"2,700,000",,0,0,0,1
+"Almagro, Madrid city",VM2403039,2.0,2.0,Flat,85.0,"600,000",,0,0,0,0
+"Recoletos, Madrid city",VM2403040,3.0,3.0,Flat,255.0,"4,200,000",,0,0,0,1
+"Zona Pueblo, Madrid Noroeste",VMO2403005,6.0,6.0,House,450.0,"1,615,000",,0,1,0,1
+"Zona Norte, Madrid Noroeste",VMO2403006,4.0,3.0,House,257.0,"870,000",,0,0,1,0
+"Recoletos, Madrid city",VM2403025,4.0,3.0,Flat,243.0,"3,150,000",,0,0,0,0
+"Almagro, Madrid city",VM2403026,4.0,2.0,Flat,384.0,"3,300,000",,1,1,0,0
+"Peñagrande, Madrid city",ONM2403001,,,Homes,91.5,"342,000",,0,0,1,0
+"Recoletos, Madrid city",VM2403016,3.0,3.0,Flat,133.0,"1,480,000",,0,0,1,0
+"Goya, Madrid city",VM2403019,2.0,2.0,House,86.0,"850,000",,0,0,1,0
+"Prosperidad, Madrid city",VM2403020,2.0,2.0,Flat,82.0,"595,000",,0,0,0,0
+"Universidad, Madrid city",VM2403013,1.0,1.0,Flat,100.0,"745,000",,0,0,0,0
+"El Soto de la Moraleja, Madrid Norte",VMN2403002,4.0,3.0,Flat,234.0,"1,320,000",,1,1,1,1
+"Justicia, Madrid city",VM2403010,3.0,2.0,Flat,181.0,"1,265,000",,0,0,1,1
+"Aravaca, Madrid Noroeste",VMO2403003,5.0,5.0,House,454.0,"2,500,000",,1,1,1,0
+"Monte Alina, Madrid Noroeste",VMO2403002,7.0,8.0,House,,"4,275,000",,0,0,0,0
+"Lista, Madrid city",VM2402096,3.0,4.0,Flat,206.0,"1,850,000",,1,0,0,0
+"Zona Avenida de Europa, Madrid Noroeste",VMO2402018,4.0,2.0,Flat,156.0,"790,000",,1,1,1,0
+Valdemorillo,VMO2402019,4.0,2.0,House,286.0,"360,000",,1,0,0,0
+"Trafalgar, Madrid city",VM2402091,2.0,1.0,House,78.0,"950,000",,0,0,1,1
+"Somosaguas, Madrid Noroeste",VMO2402017,6.0,4.0,House,341.0,"1,150,000",,0,1,0,0
+"Justicia, Madrid city",VM2402094,3.0,2.0,Flat,131.0,"1,345,000",,0,0,0,1
+"Ciudalcampo, Madrid Norte",VMN2402010,4.0,5.0,House,535.0,"1,990,000",,0,0,0,0
+"Cuatro Caminos, Madrid city",VM2402089,,3.0,Flat,193.0,"1,170,000",,0,0,1,0
+"Vallehermoso, Madrid city",VM2402090,3.0,4.0,Flat,202.0,"1,320,000",,0,0,1,0
+"Universidad, Madrid city",VM2402078,1.0,1.0,Flat,51.0,"235,000",,0,0,0,0
+"Legazpi, Madrid city",VM2402080,5.0,4.0,House,380.0,"1,250,000",,0,0,1,0
+"Castellana, Madrid city",VM2402083,4.0,3.0,Flat,114.0,"1,730,000",,0,0,0,0
+"Ciudad Universitaria, Madrid city",VM2402087,5.0,6.0,Flat,604.0,"2,600,000",,0,1,1,0
+"Valdemarín, Madrid Noroeste",VMO2402015,4.0,5.0,Flat,330.0,"1,450,000",,1,1,1,0
+"Las Encinas, Madrid Noroeste",VMO2402013,4.0,2.0,House,446.0,"1,699,000",,0,0,0,0
+"Las Encinas, Madrid Noroeste",VMO2402011,,,Land,,"1,700,000",,0,0,0,0
+"Las Encinas, Madrid Noroeste",VMO2402012,,,Land,,"1,500,000",,0,0,0,0
+"Castellana, Madrid city",VM2402069,3.0,2.0,Flat,258.0,"2,580,000",,0,0,0,0
+"Ciudad Universitaria, Madrid city",ONM2402001,,,New development,479.0,"1,245,000",,0,1,0,0
+"Peñagrande, Madrid city",VM2402062,7.0,5.0,House,439.0,"1,440,000",,0,0,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2212009,4.0,5.0,Flat,329.0,"1,400,000",201.0,1,1,1,0
+"Ciudad Universitaria, Madrid city",ONM2302002,,,Building,717.5,"2,970,000",,0,0,1,0
+"Alcobendas, Madrid Norte",VMN2402006,4.0,4.0,House,209.0,"935,000",,1,1,0,0
+"Nueva España, Madrid city",VM2402058,4.0,3.0,Flat,280.0,"1,900,000",,0,0,1,0
+"Castellana, Madrid city",VM2402047,3.0,4.0,Flat,316.0,"3,600,000",,0,0,0,0
+"Nueva España, Madrid city",VM2402051,4.0,5.0,Flat,164.0,"1,775,000",,0,0,1,0
+"Aravaca, Madrid Noroeste",VMO2402008,5.0,3.0,House,301.0,"1,330,000",,0,0,0,1
+"Piovera, Madrid Norte",VMN2402004,6.0,7.0,House,,"6,270,000",,0,0,1,1
+"Castellana, Madrid city",VM2402039,4.0,5.0,Flat,462.0,"6,500,000",,0,0,1,0
+"Goya, Madrid city",VM2402040,3.0,5.0,Flat,244.0,"2,200,000",,1,0,0,0
+"Goya, Madrid city",VM2402041,4.0,2.0,Flat,191.0,"1,180,000",,0,0,0,0
+"El Viso, Madrid city",VM2403090,2.0,2.0,Flat,93.0,"945,000",,0,1,0,0
+"Almagro, Madrid city",VM2402033,2.0,3.0,Flat,146.0,"1,300,000",,1,0,0,0
+"Recoletos, Madrid city",VM2402027,3.0,3.0,Flat,187.0,"2,395,000",,0,0,1,0
+"Sol, Madrid city",VM2402032,3.0,2.0,Flat,132.0,"760,000",,1,0,0,0
+"Las Marías, Madrid Noroeste",VMO2403007,8.0,6.0,House,881.0,"1,500,000",,1,0,0,0
+"Las Marías, Madrid Noroeste",VMO2403008,8.0,6.0,House,881.0,"2,850,000",,1,0,0,0
+"Zona Pueblo, Madrid Noroeste",VMO2402004,4.0,3.0,Flat,239.0,"990,000",,0,0,1,0
+"Recoletos, Madrid city",VM2402020,3.0,3.0,Flat,110.0,"1,500,000",,0,0,0,0
+"Recoletos, Madrid city",VM2402014,5.0,4.0,House,424.0,"4,500,000",,0,1,0,0
+"Jerónimos, Madrid city",VM2402015,4.0,5.0,Flat,403.0,"9,250,000",,0,0,0,0
+"Recoletos, Madrid city",VM2402016,3.0,4.0,Flat,148.0,"1,550,000",,0,0,0,0
+"Ríos Rosas, Madrid city",VM2402003,3.0,3.0,Flat,148.0,"1,065,000",,0,0,0,0
+"Goya, Madrid city",VM2401085,2.0,2.0,Flat,166.0,"685,000",,0,0,1,0
+"Gaztambide, Madrid city",VM2401086,5.0,3.0,Flat,276.0,"1,440,000",,1,1,1,0
+"Sol, Madrid city",VM2401081,3.0,3.0,Flat,112.0,"989,000",,0,0,0,0
+"Argüelles, Madrid city",VM2401080,5.0,7.0,Flat,323.0,"2,990,000",,1,1,1,0
+"Universidad, Madrid city",VM2401082,3.0,3.0,Flat,133.0,"1,150,000",,0,0,0,0
+"Recoletos, Madrid city",VM2401078,2.0,2.0,Flat,112.0,"1,850,000",,0,0,0,0
+"Zona Pueblo, Madrid Noroeste",VMO2401010,7.0,8.0,House,,"3,950,000",,0,1,1,0
+"Almagro, Madrid city",VM2401077,5.0,4.0,House,504.0,"6,000,000",,1,0,1,0
+"Justicia, Madrid city",VM2401075,2.0,2.0,Flat,179.0,"2,400,000",,0,0,0,0
+"Goya, Madrid city",VM2401076,5.0,5.0,Flat,300.0,"4,000,000",,0,1,1,0
+"Recoletos, Madrid city",VM2401068,4.0,5.0,Flat,376.0,"4,950,000",,1,1,0,0
+"Ciudalcampo, Madrid Norte",VMN2401007,6.0,6.0,House,507.0,"2,490,000",,1,1,1,0
+"Castellana, Madrid city",VM2401057,1.0,1.0,Flat,48.0,"485,000",,0,0,0,0
+"Corralejos, Madrid Norte",VMN2401006,3.0,2.0,Flat,171.0,"749,000",,1,0,1,0
+"Jerónimos, Madrid city",VM2401053,4.0,4.0,Flat,322.0,"4,347,000",,0,0,0,1
+"Majadahonda, Madrid Noroeste",VMO2401006,5.0,6.0,House,800.0,"2,295,000",,0,0,1,0
+"Zona Avenida de Europa, Madrid Noroeste",ONM2401003,,,Villa,422.0,"1,495,000",,0,0,1,0
+"Jerónimos, Madrid city",VM2401040,5.0,8.0,House,589.0,"17,800,000",,0,0,1,0
+"Zona Pueblo, Madrid Noroeste",VMO2401003,4.0,5.0,House,349.0,"1,150,000",,0,0,1,0
+"Las Lomas, Madrid Noroeste",VMO2401004,6.0,6.0,House,475.0,"1,550,000",,1,1,0,0
+"Ventas, Madrid Norte",ONM2401002,,,Lofts,67.0,"290,000",,0,0,0,0
+"Alameda de Osuna, Madrid Norte",VMN2401003,6.0,3.0,House,363.0,"860,000",,0,1,1,0
+"Ibiza, Madrid city",VM2401023,3.0,2.0,Flat,133.0,"1,050,000",,0,0,0,0
+"Almagro, Madrid city",VM2401009,5.0,6.0,Flat,672.0,"6,600,000",,1,0,1,0
+"Piovera, Madrid Norte",ONM2401001,,,Building,361.0,"2,500,000",,0,1,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2305004,5.0,4.0,Flat,318.0,"1,290,000",201.0,1,1,1,0
+"Recoletos, Madrid city",VM2401007,4.0,2.0,Flat,205.0,"1,190,000",,0,1,1,0
+"Lista, Madrid city",VM2312076,3.0,4.0,Flat,348.0,"2,590,000",,1,0,1,0
+"Castellana, Madrid city",VM2312071,3.0,3.0,Flat,116.0,"949,000",,0,0,0,0
+"Niño Jesús, Madrid city",VM2312067,6.0,4.0,Flat,430.0,"2,350,000",,1,1,1,0
+"Cuzco, Madrid city",VM2312068,3.0,2.0,Flat,135.0,"898,000",,0,0,1,0
+"Universidad, Madrid city",VM2312069,1.0,1.0,Flat,46.0,"275,000",,0,0,0,0
+"Recoletos, Madrid city",VM2312064,4.0,4.0,Flat,240.0,"3,600,000",,1,0,0,0
+"Recoletos, Madrid city",VM2312057,1.0,1.0,Flat,72.0,"415,000",,0,0,0,1
+"Universidad, Madrid city",VM2312056,4.0,4.0,Flat,120.0,"900,000",,0,0,0,0
+"Palacio, Madrid city",VM2312048,3.0,3.0,Flat,133.0,"480,000",,0,0,0,0
+"Justicia, Madrid city",VM2312042,1.0,2.0,Flat,83.0,"610,000",,0,0,1,0
+"Jerónimos, Madrid city",VM2312043,5.0,3.0,Flat,228.0,"2,850,000",,0,0,0,0
+"Justicia, Madrid city",VM2312044,4.0,5.0,Flat,321.0,"3,600,000",190.0,0,0,0,0
+"Valdemarín, Madrid Noroeste",VMO2312002,7.0,8.0,House,,"5,900,000",,1,0,0,0
+"Universidad, Madrid city",VM2312034,3.0,2.0,Flat,141.0,"680,000",,0,1,0,0
+"Ríos Rosas, Madrid city",VM2312030,4.0,3.0,House,177.0,"1,510,000",,1,0,1,0
+"Goya, Madrid city",VM2312023,4.0,5.0,Flat,270.0,"3,500,000",,1,0,0,1
+"Universidad, Madrid city",VM2312012,3.0,3.0,Flat,107.0,"899,000",,0,0,0,0
+"Jerónimos, Madrid city",VM2312016,4.0,4.0,House,249.0,"2,800,000",,1,1,1,1
+"Lista, Madrid city",VM2312019,4.0,3.0,Flat,188.0,"1,599,000",,0,1,1,0
+"Castellana, Madrid city",VM2312021,4.0,5.0,Flat,271.0,"3,990,000",,1,0,0,0
+"Lista, Madrid city",VM2312001,3.0,4.0,Flat,193.0,"2,490,000",,0,0,0,0
+"Jerónimos, Madrid city",VM2312005,3.0,3.0,Flat,98.0,"1,129,000",,0,0,0,0
+"Goya, Madrid city",VM2311078,3.0,2.0,House,174.0,"2,150,000",,0,0,1,0
+"Sol, Madrid city",VM2311066,4.0,4.0,Flat,110.0,"979,000",,0,0,0,0
+"Cuzco, Madrid city",VM2311070,1.0,1.0,Flat,29.0,"152,000",,0,0,0,0
+"Cuzco, Madrid city",VM2311072,1.0,1.0,Flat,47.0,"190,000",,0,0,0,0
+"Cuzco, Madrid city",VM2311071,1.0,1.0,Flat,30.0,"157,000",,0,0,0,0
+"El Soto de la Moraleja, Madrid Norte",VMN2311023,3.0,3.0,House,212.0,"1,060,000",,0,1,0,0
+"Universidad, Madrid city",VM2311049,3.0,3.0,House,117.0,"889,000",,0,0,0,0
+"Sol, Madrid city",VM2311050,2.0,2.0,Flat,86.0,"739,000",,0,0,0,0
+"Valdeacederas, Madrid city",VM2311054,2.0,2.0,Flat,68.0,"350,000",,0,0,0,0
+"Lista, Madrid city",VM2311055,3.0,3.0,Flat,176.0,"1,649,000",,0,0,1,1
+"Nueva España, Madrid city",VM2311058,4.0,4.0,Flat,213.0,"1,670,000",,1,1,1,0
+"Piovera, Madrid Norte",VMN2311021,5.0,6.0,House,452.0,"2,800,000",,1,0,0,1
+"Sol, Madrid city",VM2311061,3.0,3.0,Flat,139.0,"1,119,000",,0,0,0,0
+"Goya, Madrid city",VM2311059,2.0,2.0,Flat,73.0,"649,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2311063,2.0,2.0,House,90.0,"850,000",,0,0,1,0
+"Ibiza, Madrid city",VM2311045,3.0,2.0,Flat,149.0,"875,000",,0,0,0,0
+"Universidad, Madrid city",VM2311048,2.0,2.0,Flat,64.0,"629,000",,0,0,0,0
+"El Soto de la Moraleja, Madrid Norte",VMN2311015,5.0,4.0,House,446.0,"2,150,000",,0,0,1,1
+"Valdemarín, Madrid Noroeste",VMO2311007,4.0,4.0,Flat,260.0,"1,150,000",,1,1,1,0
+"Hispanoamérica, Madrid city",VM2312052,5.0,4.0,Flat,185.0,"1,420,000",,0,0,0,0
+"Castellana, Madrid city",VM2311033,5.0,4.0,Flat,305.0,"4,750,000",,0,0,0,0
+"El Viso, Madrid city",ONM2311004,,,New development,332.0,"5,250,000",,1,1,1,0
+"Fuentelarreina, Madrid city",VM2311037,5.0,8.0,House,881.0,"3,000,000",,0,0,0,0
+"Bellas Vistas, Madrid city",VM2311039,2.0,1.0,Flat,76.0,"315,000",,0,0,0,0
+"Sol, Madrid city",VM2311030,4.0,4.0,Flat,193.0,"1,299,000",,0,0,0,0
+"Montepríncipe, Madrid Noroeste",VMO2311005,7.0,7.0,House,,"2,200,000",,0,0,1,0
+"Zona Pueblo, Madrid Noroeste",VMO2311008,5.0,6.0,House,977.0,"4,500,000",,1,1,1,1
+"Alcobendas, Madrid Norte",ONM2311002,,,Building,94.0,"371,500",,0,0,1,0
+"Puente de Vallecas, Madrid city",ONM2206005,,,Building,55.0,"259,000",,1,1,1,1
+"Prado Largo, Madrid Noroeste",VMO2311003,8.0,7.0,House,925.0,"4,900,000",,1,0,0,0
+"Almagro, Madrid city",VM2311018,4.0,5.0,Flat,672.0,"6,800,000",,1,1,1,0
+"Guindalera, Madrid city",VM2311009,4.0,3.0,Flat,172.0,"695,000",,0,1,1,0
+"Castilla, Madrid city",VM2311010,2.0,2.0,Flat,94.0,"560,000",,1,1,0,0
+"Universidad, Madrid city",VM2311013,2.0,2.0,Flat,97.0,"799,000",,0,1,0,1
+"Sol, Madrid city",VM2311014,2.0,2.0,Flat,100.0,"689,000",,0,0,0,0
+"Fresno Norte, Madrid Norte",VMN2311005,4.0,4.0,House,428.0,"990,000",,1,0,0,0
+"Colina, Madrid Norte",VMN2311007,4.0,5.0,House,468.0,"2,600,000",,1,1,1,0
+"Zona Pueblo, Madrid Noroeste",VMO2311001,6.0,6.0,House,409.0,"1,590,000",201.0,0,0,1,0
+"Ciudalcampo, Madrid Norte",VMN2311002,5.0,6.0,House,710.0,"2,790,000",,1,0,1,0
+"Puente Nuevo, Madrid Noroeste",ONM2311001,,,New development,701.5,"715,000",,0,0,0,0
+"Nueva España, Madrid city",VM2310105,5.0,5.0,House,439.0,"3,500,000",,1,0,1,1
+"Nueva España, Madrid city",VM2310109,5.0,6.0,House,382.0,"3,600,000",,0,0,1,0
+"Jerónimos, Madrid city",VM2310099,2.0,2.0,Flat,124.0,"1,200,000",,0,1,0,0
+"Cortes, Madrid city",VM2310101,,1.0,Flat,48.0,"310,000",,1,0,0,0
+"Trafalgar, Madrid city",ONM2310003,,,New development,202.0,"2,230,000",,0,1,0,0
+"Arapiles, Madrid city",VM2310094,2.0,2.0,House,115.0,"850,000",,0,0,1,0
+"Trafalgar, Madrid city",VM2310087,4.0,2.0,Flat,174.0,"1,195,000",,0,0,1,0
+"Sol, Madrid city",VM2310088,2.0,2.0,Flat,104.0,"749,000",,0,0,0,0
+"Universidad, Madrid city",VM2310089,2.0,2.0,Flat,142.0,"959,000",,0,0,0,0
+"Vallehermoso, Madrid city",VM2310086,1.0,1.0,Loft,64.0,"390,000",,1,0,0,0
+"Niño Jesús, Madrid city",VM2310079,3.0,2.0,Flat,107.0,"690,000",,0,0,0,0
+"Argüelles, Madrid city",VM2310074,2.0,2.0,Flat,121.0,"1,100,000",,1,0,0,0
+"Cuzco, Madrid city",VM2310075,1.0,1.0,Flat,28.0,"170,000",,0,0,0,0
+"Guindalera, Madrid city",VM2310077,3.0,2.0,Flat,140.0,"589,000",,0,0,0,0
+"Recoletos, Madrid city",VM2310071,4.0,2.0,Flat,303.0,"3,250,000",,0,0,0,0
+"Castellana, Madrid city",VM2310059,4.0,5.0,Flat,322.0,"4,590,000",,1,0,0,0
+"Colonia, Madrid Noroeste",VMO2310006,4.0,3.0,Villa,319.0,"999,000",,1,0,1,0
+"Gaztambide, Madrid city",VM2310057,5.0,6.0,Flat,243.0,"1,450,000",,0,1,1,0
+"Valdelagua, Madrid Norte",VMN2310009,4.0,3.0,House,282.0,"575,000",,0,0,1,0
+"Delicias, Madrid city",VM2310056,4.0,2.0,Flat,171.0,"1,139,000",,0,1,0,0
+"Zona Norte, Madrid Noroeste",VMO2310003,7.0,7.0,Villa,,"9,000,000",,0,0,0,0
+"Delicias, Madrid city",ONM2310001,,,New development,204.0,"819,000",,1,1,1,0
+"Cuzco, Madrid city",VM2310043,6.0,2.0,Flat,383.0,"2,100,000",,0,1,1,0
+"Somosaguas, Madrid Noroeste",VMO2310002,3.0,3.0,Flat,150.0,"1,170,000",200.0,0,0,0,0
+"El Viso, Madrid city",VM2310041,4.0,5.0,Flat,380.0,"3,950,000",,0,1,0,0
+"Castellana, Madrid city",VM2310040,1.0,1.0,Flat,51.0,"525,000",,0,0,0,0
+"Goya, Madrid city",VM2310036,2.0,2.0,Flat,92.0,"875,000",,0,0,0,0
+"Sanchinarro, Madrid Norte",VMN2310006,2.0,2.0,Flat,107.0,"545,000",,1,0,1,0
+"Pacífico, Madrid city",VM2310019,2.0,2.0,Flat,165.0,"465,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2309071,4.0,3.0,Flat,260.0,"1,750,000",,1,1,1,0
+"Hispanoamérica, Madrid city",VM2309070,3.0,3.0,Flat,180.0,"1,340,000",,0,0,0,0
+"Santo Domingo, Madrid Norte",VMN2310002,5.0,5.0,House,477.0,"1,300,000",,1,0,0,1
+"Justicia, Madrid city",VM2310003,2.0,2.0,Flat,70.0,"690,000",,0,0,0,0
+"Universidad, Madrid city",VM2309061,3.0,3.0,Flat,108.0,"859,000",,0,0,0,0
+"Argüelles, Madrid city",VM2309063,2.0,1.0,Flat,98.0,"599,000",,0,0,1,0
+"Universidad, Madrid city",VM2309057,3.0,3.0,Flat,112.0,"919,000",,0,0,0,0
+"Cuatro Caminos, Madrid city",ONM2309004,,,New development,78.5,"614,535",,1,1,0,1
+"Hispanoamérica, Madrid city",VM2309049,1.0,1.0,Flat,56.0,"449,000",,0,0,0,0
+"Aravaca, Madrid Noroeste",VMO2309007,4.0,6.0,House,463.0,"1,990,000",,0,0,1,0
+"Las Encinas, Madrid Noroeste",VMO2309005,,,Land,,"800,000",,0,0,0,0
+"Las Encinas, Madrid Noroeste",VMO2309004,8.0,7.0,Villa,,"2,100,000",,1,1,1,0
+"Alameda de Osuna, Madrid Norte",VMN2309005,3.0,2.0,Flat,114.0,"380,000",,0,1,1,0
+"Valdemarín, Madrid Noroeste",ONM2309003,,,New development,774.0,"3,450,000",,0,0,1,0
+"Universidad, Madrid city",VM2309036,3.0,3.0,Flat,90.0,"919,000",,0,0,0,0
+"Sol, Madrid city",VM2309038,4.0,5.0,Flat,221.0,"1,495,000",,0,0,0,0
+"Mirasierra, Madrid Norte",VMN2309004,7.0,7.0,House,430.0,"3,300,000",,0,0,0,0
+"Justicia, Madrid city",VM2309041,3.0,3.0,Flat,91.0,"999,000",,0,0,0,0
+"Justicia, Madrid city",VM2309042,3.0,4.0,Flat,116.0,"1,049,000",,0,0,0,0
+"Cuzco, Madrid city",VM2309016,3.0,4.0,Flat,152.0,"1,349,000",,0,0,1,0
+"Universidad, Madrid city",VM2309018,2.0,1.0,Flat,53.0,"450,000",,0,0,0,0
+"Palacio, Madrid city",VM2309005,3.0,3.0,Flat,150.0,"956,000",,0,0,0,1
+"Hispanoamérica, Madrid city",VM2309001,2.0,2.0,Flat,110.0,"785,000",,0,1,1,1
+"Justicia, Madrid city",VM2308026,3.0,3.0,Flat,111.0,"849,000",,0,0,0,0
+"Justicia, Madrid city",VM2308014,2.0,2.0,Flat,127.0,"750,000",,0,0,0,0
+"Peñagrande, Madrid city",ONM2308002,,,New development,185.0,"1,109,000",,1,0,1,0
+"Castellana, Madrid city",VM2308002,5.0,5.0,Flat,352.0,"3,800,000",,0,0,0,0
+"Castellana, Madrid city",VM2308006,5.0,5.0,Flat,374.0,"3,185,000",,0,0,1,0
+"Goya, Madrid city",VM2307079,2.0,2.0,House,90.0,"1,260,000",,0,0,1,1
+"Sol, Madrid city",VM2307072,2.0,2.0,Apartment,88.0,"859,000",,0,0,0,0
+"Trafalgar, Madrid city",VM2307076,2.0,3.0,Apartment,139.0,"940,000",,0,0,0,0
+"Almagro, Madrid city",VM2307061,1.0,1.0,Flat,50.0,"500,000",,0,0,0,0
+"Legazpi, Madrid city",VM2307056,5.0,5.0,Flat,194.0,"950,000",,0,0,0,0
+"Almagro, Madrid city",VM2307052,2.0,1.0,Apartment,55.0,"550,000",,0,0,1,0
+"Castellana, Madrid city",VM2307045,2.0,2.0,Apartment,87.0,"879,000",,0,0,0,0
+"Almagro, Madrid city",VM2307046,2.0,2.0,Flat,61.0,"450,000",,0,0,0,0
+"Los Negrales, Madrid Noroeste",VMO2307003,,,Land,,"1,957,000",,0,0,0,0
+"Universidad, Madrid city",VM2307024,4.0,4.0,Apartment,164.0,"825,000",,0,0,0,0
+"Lavapiés, Madrid city",VM2307017,8.0,6.0,Flat,357.0,"1,600,000",,1,0,0,0
+"Justicia, Madrid city",VM2307016,2.0,3.0,Flat,85.0,"750,000",,0,0,0,1
+"Goya, Madrid city",VM2307007,3.0,3.0,Property,150.0,"1,295,000",,0,0,0,0
+"Alcobendas, Madrid Norte",VMN2307003,5.0,4.0,Apartment,270.0,"1,125,000",197.0,0,0,1,0
+"Lista, Madrid city",VM2306081,2.0,2.0,House,100.0,"1,100,000",,0,1,0,0
+"Valdecabañas, Madrid Noroeste",VMO2306010,5.0,4.0,Chalet,468.0,"1,095,000",,1,0,1,0
+"Justicia, Madrid city",VM2306059,3.0,3.0,Apartment,167.0,"1,695,000",,0,0,0,0
+"Canillas, Madrid Norte",VMN2306011,7.0,4.0,Villa,370.0,"1,795,000",,0,0,1,0
+"Lista, Madrid city",VM2306056,2.0,3.0,Apartment,182.0,"1,590,000",,1,1,0,0
+"Palomas, Madrid Norte",VMN2306007,4.0,4.0,House,307.0,"1,590,000",,0,0,1,0
+"El Cantizal, Madrid Noroeste",VMO2306009,6.0,5.0,Villa,453.0,"1,130,000",,1,0,1,0
+"Santo Domingo, Madrid Norte",VMN2306005,4.0,6.0,House,490.0,"1,375,000",,0,1,1,0
+"Parque Boadilla, Madrid Noroeste",VMO2306007,6.0,7.0,House,648.0,"2,370,000",,1,0,0,0
+"Universidad, Madrid city",VM2306045,5.0,3.0,Apartment,246.0,"1,600,000",,0,1,1,0
+"Cortes, Madrid city",VM2306041,2.0,2.0,Apartment,106.0,"839,000",,0,0,0,0
+"Villafranca del castillo, Madrid Noroeste",VMO2306006,5.0,6.0,House,667.0,"1,200,000",,0,0,1,0
+"Mirasierra, Madrid Norte",ONM2306005,,,New development,239.0,"1,389,000",,0,1,1,0
+"Castellana, Madrid city",VM2306039,3.0,3.0,House,177.0,"2,360,000",,0,0,1,0
+Cercedilla,VMO2306004,,,Plot,,"214,000",,0,0,0,0
+"Fresno Norte, Madrid Norte",VMN2306001,6.0,5.0,House,541.0,"2,150,000",,0,0,1,0
+"Argüelles, Madrid city",ONM2305005,,,New development,123.5,"1,171,000",,1,0,1,0
+"Valdemarín, Madrid Noroeste",ONM2306001,,,New development,274.5,"1,831,000",,0,1,1,0
+"Recoletos, Madrid city",VM2305084,4.0,4.0,House,200.0,"2,490,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2305011,5.0,6.0,Villa,780.0,"3,500,000",,1,1,0,0
+"Sol, Madrid city",VM2305062,2.0,2.0,Flat,118.0,"889,000",,0,0,0,0
+"Sol, Madrid city",VM2305061,3.0,3.0,Flat,216.0,"1,995,000",,1,0,0,0
+"Sol, Madrid city",VM2305069,2.0,2.0,Flat,101.0,"789,000",,0,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2305008,3.0,4.0,House,250.0,"630,000",,1,1,1,1
+"Trafalgar, Madrid city",VM2305057,2.0,2.0,Flat,97.0,"770,000",,0,0,0,0
+"El Praderón, Madrid Noroeste",VMO2306001,3.0,3.0,House,201.0,"389,000",,1,1,1,1
+"Cuatro Caminos, Madrid city",VM2305050,2.0,2.0,Flat,82.0,"550,000",,0,0,0,1
+"Las Lomas, Madrid Noroeste",VMO2305005,6.0,7.0,House,749.0,"2,700,000",,0,0,0,1
+"Cortes, Madrid city",VM2305045,2.0,3.0,House,230.0,"970,000",,0,0,1,0
+"Ríos Rosas, Madrid city",VM2305028,3.0,2.0,Flat,201.0,"1,695,000",,0,0,0,0
+"Goya, Madrid city",VM2305013,2.0,2.0,Flat,82.0,"700,000",,0,0,0,0
+"El Viso, Madrid city",VM2305009,4.0,3.0,Flat,236.0,"1,550,000",,1,1,1,0
+"Almagro, Madrid city",VM2305001,7.0,5.0,Flat,442.0,"2,650,000",,1,1,1,0
+"Fuentelarreina, Madrid city",ONM2304005,,,Building,205.5,"750,671",,0,1,1,0
+"Recoletos, Madrid city",VM2304050,3.0,2.0,Flat,132.0,"1,090,000",,0,0,1,0
+"Universidad, Madrid city",VM2304046,3.0,3.0,Flat,102.0,"790,000",,1,0,0,0
+"Club de Golf, Madrid Noroeste",VMO2112001,5.0,4.0,Flat,647.0,"1,550,000",,0,0,1,0
+"La Moraleja, Madrid Norte",VMN2304006,5.0,6.0,House,643.0,"4,550,000",,0,1,1,0
+San Lorenzo de El Escorial,VMO2304002,5.0,3.0,Villa,457.0,"1,100,000",194.0,0,0,0,0
+"Encinar de los Reyes, Madrid Norte",VMN2304003,4.0,5.0,Flat,203.0,"1,580,000",,0,1,0,0
+"Timón, Madrid Norte",ONM2304003,,,Building,79.0,"441,000",,1,1,1,0
+"Timón, Madrid Norte",ONM2304001,,,Building,38.0,"239,500",,1,1,1,0
+"Tres Olivos, Madrid Norte",VMN2304002,7.0,5.0,House,710.0,"1,975,000",,0,0,1,0
+"La Florida, Madrid Noroeste",VMO2304001,,,Land,,"1,700,000",,0,0,0,0
+"Lista, Madrid city",ONM2303002,,,Building,200.5,"1,700,000",,1,1,1,0
+"Fuente del Berro, Madrid city",VM2303073,2.0,2.0,Flat,113.0,"610,000",,0,0,0,0
+"Palacio, Madrid city",VM2303064,3.0,1.0,Flat,102.0,"580,000",,0,0,0,0
+"Argüelles, Madrid city",ONM2303001,,,Building,129.0,"1,150,000",,1,1,1,1
+"Ciudalcampo, Madrid Norte",VMN2303005,,,Land,,"1,500,000",,0,0,0,0
+"Cuatro Caminos, Madrid city",VM2303028,4.0,3.0,Flat,222.0,"890,000",,1,1,1,1
+"Ciudalcampo, Madrid Norte",VMN2302016,8.0,9.0,House,,"2,295,000",,1,0,1,0
+"Ciudad Jardín, Madrid city",VM2302095,2.0,2.0,Land,80.0,"525,000",,0,0,0,0
+"Ciudalcampo, Madrid Norte",VMN2303002,9.0,9.0,House,695.0,"1,400,000",,1,0,1,0
+"Ibiza, Madrid city",VM2303002,4.0,1.0,Flat,158.0,"750,000",,0,0,0,0
+"Goya, Madrid city",VM2303036,3.0,2.0,Flat,125.0,"799,000",,0,0,0,0
+"Rozas Centro, Madrid Noroeste",VMO2303014,6.0,7.0,House,609.0,"2,950,000",201.0,1,0,1,0
+"Ríos Rosas, Madrid city",VM2302066,2.0,2.0,House,78.0,"1,150,000",,0,1,1,0
+"La Moraleja Urbanización, Madrid Norte",VMN2302012,9.0,8.0,House,995.0,"3,400,000",,0,1,1,0
+"Yucatán, Madrid Noroeste",VMO2302006,5.0,4.0,House,455.0,"1,129,000",,1,0,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2302005,1.0,1.0,Flat,114.0,"665,000",,0,1,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2302006,1.0,1.0,Flat,114.0,"660,000",,0,1,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2302007,2.0,2.0,Flat,94.0,"645,000",,0,1,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2302008,2.0,2.0,Flat,94.0,"645,000",,0,1,1,0
+"Encinar de los Reyes, Madrid Norte",VMN2302004,2.0,2.0,Flat,105.0,"630,000",,0,1,1,0
+"Atalaya, Madrid Norte",VMN2302002,4.0,3.0,Flat,250.0,"1,295,000",,1,1,0,0
+"Encinar de los Reyes, Madrid Norte",VMN2302003,2.0,2.0,Flat,121.0,"690,000",,0,1,1,0
+"Berruguete, Madrid city",VM2301065,2.0,1.0,Flat,59.0,"239,000",,0,0,0,0
+"Legazpi, Madrid city",VM2302012,1.0,1.0,Flat,35.0,"220,000",,0,0,0,0
+"Montepríncipe, Madrid Noroeste",VMO2301004,6.0,5.0,House,840.0,"1,600,000",,1,1,1,0
+"El Viso, Madrid city",VM2301054,1.0,1.0,Flat,76.0,"700,000",,1,1,1,0
+"Valdeacederas, Madrid city",ONM2210001,,,New development,75.5,"389,000",,1,1,1,0
+"Nueva España, Madrid city",VM2301035,6.0,7.0,House,550.0,"3,980,000",201.0,0,0,1,0
+"El Bosque, Madrid Noroeste",VMO2301005,,,Land,,"650,000",,0,0,0,0
+"Castellana, Madrid city",VM2301051,3.0,4.0,Flat,106.0,"1,275,000",,0,0,1,0
+"Universidad, Madrid city",VM2301013,3.0,4.0,Flat,106.0,"839,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2301006,4.0,3.0,Flat,250.0,"1,050,000",,1,0,0,0
+"La Florida, Madrid Noroeste",VMO2212010,6.0,7.0,House,,"3,500,000",,0,0,1,0
+"Recoletos, Madrid city",VM2212033,2.0,1.0,Flat,50.0,"585,000",,0,1,0,0
+"Bonanza, Madrid Noroeste",VMO2212003,4.0,5.0,House,817.0,"2,570,000",201.0,0,1,0,0
+"Palacio, Madrid city",VM2212015,3.0,5.0,Flat,170.0,"1,195,000",,0,0,0,0
+"Justicia, Madrid city",VM2211072,4.0,2.0,Flat,243.0,"2,050,000",,1,0,1,0
+"Castilla, Madrid city",ONM2211005,,,House,195.0,"2,515,000",,0,0,1,0
+"Ibiza, Madrid city",VM2211010,2.0,2.0,House,112.0,"1,105,000",,0,0,1,0
+"La Moraleja, Madrid Norte",VMN2210001,6.0,11.0,House,,"8,500,000",,0,1,0,0
+"La Moraleja, Madrid Norte",VMN2210031,6.0,8.0,House,930.0,"6,890,000",,0,0,1,0
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Recoletos, Madrid city",VM2210032,3.0,4.0,Flat,133.0,"1,300,000",,0,0,0,0
+"Valdeacederas, Madrid city",ONM2210002,,,New development,172.5,"707,000",,1,1,1,0
+"Ríos Rosas, Madrid city",VM2210010,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Ríos Rosas, Madrid city",VM2210011,4.0,5.0,Flat,596.0,"3,300,000",,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2210004,12.0,15.0,House,,"4,000,000",,0,0,0,0
+"Monte Rozas, Madrid Noroeste",VMO2210007,6.0,5.0,House,674.0,"1,500,000",,0,0,1,0
+"Almagro, Madrid city",VM2210002,3.0,4.0,Duplex,243.0,"1,790,000",,1,1,0,0
+"El Viso, Madrid city",VM2209057,4.0,7.0,House,881.0,"8,700,000",,0,0,1,0
+"Cortes, Madrid city",VM2209079,2.0,2.0,Duplex,105.0,"990,000",,0,1,0,0
+"Hispanoamérica, Madrid city",VM2210001,6.0,6.0,Flat,376.0,"3,000,000",,1,0,1,0
+"Castellana, Madrid city",VM2312004,6.0,1.0,Flat,284.0,"1,700,000",,1,0,1,0
+"Ciudad Universitaria, Madrid city",VM2212049,4.0,3.0,Flat,218.0,"1,450,000",,1,1,1,0
+"Justicia, Madrid city",VM2209048,4.0,4.0,House,350.0,"3,700,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209047,3.0,2.0,Piso,175.0,"1,850,000",190.0,0,0,0,0
+"Justicia, Madrid city",VM2209042,2.0,2.0,Flat,168.0,"1,850,000",190.0,0,0,0,0
+"Nueva España, Madrid city",VM2209028,2.0,3.0,Flat,664.0,"3,990,000",,0,0,0,0
+"Cortes, Madrid city",VM2209008,3.0,3.0,Flat,94.0,"829,000",,0,0,0,0
+"Sol, Madrid city",VM2208018,2.0,2.0,Flat,84.0,"819,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN2208014,5.0,3.0,Flat,337.0,"950,000",,1,1,1,1
+"Fuentelarreina, Madrid city",ONM2207001,,,Building,426.0,"1,570,000",,0,0,1,1
+"Club de Golf, Madrid Noroeste",ONM2206003,,,Building,1170.0,"3,950,000",,1,1,1,1
+"El Viso, Madrid city",VM2205087,5.0,4.0,House,370.0,"4,300,000",,0,0,0,0
+"Majadahonda, Madrid Noroeste",VMO2205010,6.0,12.0,House,600.0,"1,990,000",,0,0,1,0
+"Justicia, Madrid city",VM2205050,2.0,3.0,Flat,94.0,"990,000",,1,0,1,0
+"Cortes, Madrid city",VM2205025,4.0,5.0,House,204.0,"1,280,000",,1,0,0,0
+"Castillo – Campodón, Madrid Noroeste",VMO2204010,5.0,5.0,House,368.0,"790,000",,1,0,1,0
+"Canillejas, Madrid city",ONM2204006,,,Building,604.0,"1,700,000",,0,0,1,1
+"Valdeacederas, Madrid city",ONM2204007,,,Building,700.0,"2,300,000",,1,1,1,0
+"Legazpi, Madrid city",ONM2204004,,,Building,364.0,"1,300,000",,0,1,1,1
+"Valdeacederas, Madrid city",ONM2204005,,,Building,573.0,"1,600,000",,0,0,1,1
+"Castellana, Madrid city",VM1712004,5.0,4.0,House,654.0,"5,000,000",189.0,0,0,0,0
+"Jerónimos, Madrid city",VM2204035,3.0,4.0,Flat,280.0,"2,250,000",,1,1,0,0
+"Universidad, Madrid city",VM2204038,3.0,3.0,Flat,99.0,"859,000",,1,0,0,0
+"San Juan Bautista, Madrid Norte",VMN2204005,5.0,5.0,Duplex,529.0,"1,650,000",,1,1,1,1
+"Ibiza, Madrid city",VM2203050,2.0,2.0,Flat,113.0,"940,000",,0,0,0,0
+"Justicia, Madrid city",VM2203049,2.0,2.0,Flat,126.0,"960,000",,0,0,0,1
+"Ventilla, Madrid city",VM2203053,1.0,1.0,Duplex,75.0,"418,000",,0,0,1,0
+"Valdemarín, Madrid Noroeste",VMO2203009,10.0,11.0,House,761.0,"2,300,000",,0,1,0,0
+"Nueva España, Madrid city",VM2203041,6.0,5.0,Flat,562.0,"1,650,000",,1,0,1,0
+"El Plantío, Madrid Noroeste",VMO2203005,4.0,5.0,House,302.0,"835,000",,1,0,0,0
+"Club de Golf, Madrid Noroeste",VMO2202010,6.0,9.0,House,,"2,600,000",,1,0,1,0
+"Universidad, Madrid city",VM2202057,4.0,4.0,Flat,237.0,"1,500,000",,0,0,0,0
+"El Cantizal, Madrid Noroeste",VMO2201003,4.0,4.0,House,295.0,"925,000",,1,0,1,0
+"La Berzosilla, Madrid Noroeste",VMO2201001,6.0,5.0,House,630.0,"775,000",,0,0,0,0
+"Ibiza, Madrid city",VM2112028,3.0,3.0,Flat,147.0,"2,000,000",,0,0,0,0
+"Las Lomas, Madrid Noroeste",VMO2111018,,,Land,,"749,000",,0,0,0,0
+"Aravaca, Madrid Noroeste",VMO2111012,,,Plot,,"1,200,000",,0,0,0,0
+"Hispanoamérica, Madrid city",VM2111026,7.0,5.0,House,200.0,"2,500,000",,0,0,1,0
+"Atalaya, Madrid Norte",VMN2111019,2.0,2.0,Flat,68.0,"495,000",,0,1,0,0
+"Palacio, Madrid city",VM2111018,2.0,2.0,Flat,101.0,"1,175,000",,0,0,0,0
+"Aravaca, Madrid Noroeste",VMO2111004,4.0,4.0,Apartment,174.0,"1,390,000",,1,1,1,0
+"Delicias, Madrid city",VM2111009,7.0,2.0,Flat,169.0,"675,000",,0,0,0,0
+"Monte del Pilar, Madrid Noroeste",VMO2110018,,,Land,,"1,500,000",,0,0,0,0
+"Molino de la Hoz, Madrid Noroeste",VMO2109011,5.0,7.0,House,610.0,"2,190,000",,1,0,1,0
+"La Finca, Madrid Noroeste",VMO2107008,6.0,7.0,House,,Price upon request,,1,0,1,0
+"Club de Golf, Madrid Noroeste",VMO2107006,5.0,8.0,House,,"4,000,000",,0,0,1,0
+"Vallehermoso, Madrid city",VM2106044,4.0,4.0,Flat,256.0,"1,150,000",,1,1,1,0
+"Justicia, Madrid city",VM2105006,2.0,1.0,House,205.0,"998,000",,0,0,0,0
+"Sol, Madrid city",VM2104031,5.0,3.0,Flat,172.0,"1,100,000",,0,0,0,0
+"Almagro, Madrid city",VM2012015,2.0,2.0,Building,182.0,"1,900,000",,0,1,0,0
+"Recoletos, Madrid city",VM2011039,3.0,4.0,Flat,247.0,"2,600,000",,0,0,0,1
+"Ciudad Jardín, Madrid city",ONM2109016,,,Apartment,165.5,"503,150",,1,0,1,0
+"Nueva España, Madrid city",VM2007048,4.0,4.0,House,486.0,"2,600,000",,0,0,1,0
+"Argüelles, Madrid city",VM2007025,4.0,6.0,Flat,542.0,"4,500,000",,0,1,1,1
+"Nueva España, Madrid city",VM2002019,4.0,5.0,Flat,539.0,"2,350,000",,1,0,1,0
+"Universidad, Madrid city",VM1911007,3.0,2.0,Flat,230.0,"1,374,000",,0,0,0,0
+"Ibiza, Madrid city",VM1905050,1.0,1.0,Flat,83.0,"430,000",,0,1,0,0
+"Arapiles, Madrid city",VM1903005,6.0,5.0,Flat,399.0,"2,500,000",,1,0,0,1
+"Piovera, Madrid Norte",VMN1812022,6.0,7.0,House,750.0,"3,100,000",,0,0,0,0
+"Piovera, Madrid Norte",VMN1801019,5.0,8.0,Villa,,"3,375,000",,1,0,0,0
+"Prosperidad, Madrid city",VM1710006,4.0,4.0,Loft,480.0,"1,750,000",,0,1,1,0
+"El Viso, Madrid city",VM1705018,9.0,7.0,Villa,848.0,"5,800,000",,1,0,1,0

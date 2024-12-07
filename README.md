@@ -20,18 +20,21 @@ best practices as well as MLOps principles on a simple application. We use the M
 * Jupyter
 * scikit-learn
 
-## Project Description
+## Project Contributors
+* Ayushya Pare
+* Namrata Mayekar
+* Emanuela Romano
 
-## Needs of this project
+## ´
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+1. Clone this repo ().
+2. Raw Data is being kept [here]() within this repo.
+3. Data processing/transformation scripts are being kept [here]()
 
-## Featured Notebooks
+## Streamlit Webapp
+
 
 
 

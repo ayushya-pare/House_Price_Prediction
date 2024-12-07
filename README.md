@@ -8,17 +8,13 @@ best practices as well as MLOps principles on a simple application. We use the M
 
 
 
-### Methods Used
-* Exploratory Data Analysis
-* Data Visualization
-* Machine Learning
-
-
 ### Technologies
-* Python
-* Pandas
-* Jupyter
-* scikit-learn
+1. Data extraction - BeautifulSoup, ScraperAPI
+2. EDA - Pandas, numpy
+3. Visualization - Matplotlib, seaborn, Geopandas 
+4. Clustering / Segmentation - K-means
+5. Machine learning - Modelling (PyCaret), Hyperparameter Tuning, Evaluation (Shapley), MLFlow
+6. Deployment - Docker, Flask, Streamlit
 
 ## Project Contributors
 * Ayushya Pare

@@ -29,7 +29,7 @@ best practices as well as MLOps principles on a simple application. We use the M
 
 ## Getting Started
 
-1. Clone this repo ().
+1. Clone this repo (https://github.com/ayushya-pare/Capstone_Project.git). 
 2. Raw Data is being kept [here]() within this repo.
 3. Data processing/transformation scripts are being kept [here]()
 

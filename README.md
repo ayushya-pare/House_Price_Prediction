@@ -21,8 +21,6 @@ best practices as well as MLOps principles on a simple application. We use the M
 * Namrata Mayekar
 * Emanuela Romano
 
-## ´
-
 ## Getting Started
 
 1. Clone this repo (https://github.com/ayushya-pare/Capstone_Project.git). 

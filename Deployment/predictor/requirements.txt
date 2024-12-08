@@ -5,5 +5,5 @@ matplotlib==3.7.1
 seaborn==0.12.2
 plotly==5.16.1
 mlflow==1.24.0
-pycaret==3.0.0
+pycaret[full]==3.0.0
 pyngrok==6.0.0

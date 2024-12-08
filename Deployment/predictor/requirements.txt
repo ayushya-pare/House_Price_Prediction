@@ -7,3 +7,4 @@ plotly==5.16.1
 mlflow==1.24.0
 pycaret[full]==3.0.0
 pyngrok==6.0.0
+protobuf==3.20.3

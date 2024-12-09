@@ -8,3 +8,4 @@ mlflow
 pycaret[full]
 pyngrok
 protobuf
+opencage

@@ -9,3 +9,4 @@ pycaret[full]
 pyngrok
 protobuf
 opencage
+geopy

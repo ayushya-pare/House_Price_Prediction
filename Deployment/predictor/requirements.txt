@@ -1,9 +1,12 @@
-
-scikit-learn
 pandas
+scikit-learn
 numpy
 matplotlib
 seaborn
 plotly
 mlflow
+pycaret[full]
 pyngrok
+protobuf
+opencage
+geopy

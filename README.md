@@ -28,7 +28,6 @@ best practices as well as MLOps principles on a simple application. We use the M
 3. Data processing/transformation scripts are being kept [here](./notebooks)
 
 ## Streamlit Webapp
-[https://capstone-project-webapp.streamlit.app 
-](https://capstoneproject-webapp.streamlit.app)
+([https://capstoneproject-webapp.streamlit.app](http://18.196.80.127:8501/))
 
 

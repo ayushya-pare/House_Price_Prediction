@@ -1,5 +1,8 @@
 # Housing Price Prediction Madrid
 
+## Streamlit Webapp
+([https://capstoneproject-webapp.streamlit.app](http://18.196.80.127:8501/))
+
 #### -- Project Status: Active
 
 ## Project Intro/Objective
@@ -27,7 +30,6 @@ best practices as well as MLOps principles on a simple application. We use the M
 2. Raw Data is being kept [here](./data/raw) within this repo.
 3. Data processing/transformation scripts are being kept [here](./notebooks)
 
-## Streamlit Webapp
-([https://capstoneproject-webapp.streamlit.app](http://18.196.80.127:8501/))
+
 
 
